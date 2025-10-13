@@ -1,9 +1,12 @@
+/* eslint-disable mocha/no-setup-in-describe */
 import { fixture, expect } from '@open-wc/testing';
-import { warningIcon } from '../src';
+import * as icons from '../src';
 
 describe('icon', () => {
-	it('should render an icon', async () => {
-		const el = await fixture(warningIcon());
-		expect(el).to.exist;
-	});
+	Object.entries(icons).forEach(([name, icon]) =>
+		it(`should render an ${name} icon`, async () => {
+			const el = await fixture(icon());
+			expect(el).to.exist;
+		}),
+	);
 });
