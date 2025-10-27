@@ -24,6 +24,6 @@ export * from './undo';
 export * from './upload';
 export * from './wand';
 export * from './warning';
-export * from './trash';
+export * from './delete';
 export * from './announcement';
 export * from './error';

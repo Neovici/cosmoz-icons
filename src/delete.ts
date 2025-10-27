@@ -2,7 +2,7 @@ import { html, svg } from 'lit-html';
 import { ifDefined } from 'lit-html/directives/if-defined.js';
 import { when } from 'lit-html/directives/when.js';
 
-export const trashIcon = ({
+export const deleteIcon = ({
   slot,
   title,
   className,
@@ -19,7 +19,7 @@ export const trashIcon = ({
 } = {}) => html`
   <svg
     slot=${ifDefined(slot)}
-    class=${`trash-icon ${className ?? ''}`}
+    class=${`delete-icon ${className ?? ''}`}
     viewBox="0 0 24 24"
     preserveAspectRatio="xMidYMid meet"
     focusable="false"
