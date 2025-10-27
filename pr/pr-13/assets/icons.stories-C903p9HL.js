@@ -1,4 +1,4 @@
-import{E as v,x as $,b as a}from"./iframe-en1sryQk.js";import"./preload-helper-D9Z9MdNV.js";/**
+import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D9Z9MdNV.js";/**
  * @license
  * Copyright 2018 Google LLC
  * SPDX-License-Identifier: BSD-3-Clause
@@ -486,7 +486,7 @@ import{E as v,x as $,b as a}from"./iframe-en1sryQk.js";import"./preload-helper-D
 `,j=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
   <svg
     slot=${l(t)}
-    class=${`trash-icon ${s??""}`}
+    class=${`delete-icon ${s??""}`}
     viewBox="0 0 24 24"
     preserveAspectRatio="xMidYMid meet"
     focusable="false"
@@ -531,6 +531,6 @@ import{E as v,x as $,b as a}from"./iframe-en1sryQk.js";import"./preload-helper-D
       d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"
     />
   </svg>
-`,F=Object.freeze(Object.defineProperty({__proto__:null,addIcon:d,announcementIcon:D,arrowDropdownIcon:p,cancelIcon:g,checkIcon:M,clearIcon:f,editIcon:u,errorIcon:E,expandLessIcon:m,expandMoreIcon:w,eyeIcon:x,fileDownloadIcon:z,findInPageIcon:y,fullscreenExitIcon:C,fullscreenIcon:b,googleIcon:A,helpOutlineIcon:I,infoIcon:V,inviteIcon:B,leftChevronIcon:R,rightChevronIcon:Y,selectAllIcon:H,trashIcon:j,trendingDownIcon:L,trendingUpIcon:k,undoIcon:Z,uploadIcon:S,wandIcon:_,warningIcon:O},Symbol.toStringTag,{value:"Module"})),U={title:"Cosmoz Icons"},r=()=>$`<ul>
+`,F=Object.freeze(Object.defineProperty({__proto__:null,addIcon:d,announcementIcon:D,arrowDropdownIcon:p,cancelIcon:g,checkIcon:M,clearIcon:f,deleteIcon:j,editIcon:u,errorIcon:E,expandLessIcon:m,expandMoreIcon:w,eyeIcon:x,fileDownloadIcon:z,findInPageIcon:y,fullscreenExitIcon:C,fullscreenIcon:b,googleIcon:A,helpOutlineIcon:I,infoIcon:V,inviteIcon:B,leftChevronIcon:R,rightChevronIcon:Y,selectAllIcon:H,trendingDownIcon:L,trendingUpIcon:k,undoIcon:Z,uploadIcon:S,wandIcon:_,warningIcon:O},Symbol.toStringTag,{value:"Module"})),U={title:"Cosmoz Icons"},r=()=>$`<ul>
         ${Object.entries(F).map(([t,e])=>$`<li>${[t,e()]}</li>`)}
     </ul>`;r.parameters={docs:{description:{story:"A collection of various icons used throughout Cosmoz."}}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:"() => {\n  return html`<ul>\n        ${Object.entries(icons).map(([k, value]) => html`<li>${[k, value()]}</li>`)}\n    </ul>`;\n}",...r.parameters?.docs?.source}}};const q=["Icons"];export{r as Icons,q as __namedExportsOrder,U as default};
