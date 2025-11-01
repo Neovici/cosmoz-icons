@@ -1,4 +1,4 @@
-import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D9Z9MdNV.js";/**
+import{E as v,x as $,b as a}from"./iframe-mISDtIVP.js";import"./preload-helper-D9Z9MdNV.js";/**
  * @license
  * Copyright 2018 Google LLC
  * SPDX-License-Identifier: BSD-3-Clause
@@ -51,7 +51,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 		${h(e,()=>a`<title>${e}</title>`)}
 		<path d="M7 10l5 5 5-5z" />
 	</svg>
-`,g=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+`,M=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`cancel-icon ${s??""}`}
@@ -67,7 +67,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 			d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z"
 		/>
 	</svg>
-`,M=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+`,g=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`check-icon ${s??""}`}
@@ -207,7 +207,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 				fill="currentColor"
 			></path>
 		</g>
-	</svg>`,b=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`<svg
+	</svg>`,L=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`<svg
 		slot=${l(t)}
 		class=${`fullscreen-icon ${s??""}`}
 		viewBox="0 0 24 24"
@@ -224,7 +224,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 				fill="currentColor"
 			></path>
 		</g>
-	</svg>`,A=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`<svg
+	</svg>`,b=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`<svg
 		slot=${l(t)}
 		class=${`google-icon ${s??""}`}
 		viewBox=${`0 0 ${o} ${i}`}
@@ -259,7 +259,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 			d="M10.2116 4.20875C11.7326 4.20875 13.0983 4.74266 14.1721 5.79125L17.1436 2.75613C15.3494 1.04858 13.0042 0 10.2116 0C6.16158 0 2.65788 2.37133 0.953125 5.82973L4.41444 8.57143C5.22914 6.07023 7.51314 4.20875 10.2116 4.20875Z"
 			fill="#EA4335"
 		/>
-	</svg>`,I=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+	</svg>`,A=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`help-outline-icon ${s??""}`}
@@ -276,7 +276,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 			d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"
 		/>
 	</svg>
-`,V=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+`,I=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`info-icon ${s??""}`}
@@ -326,7 +326,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 			d="M1 10.161h6.323M4.161 13.323V7"
 		/>
 	</svg>
-`,R=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+`,V=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`right-chevron-icon ${s??""}`}
@@ -340,7 +340,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 		${h(e,()=>a`<title>${e}</title>`)}
 		<path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z" />
 	</svg>
-`,Y=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+`,R=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`right-chevron-icon ${s??""}`}
@@ -354,7 +354,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 		${h(e,()=>a`<title>${e}</title>`)}
 		<path d="M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
 	</svg>
-`,H=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+`,Y=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`select-all-icon ${s??""}`}
@@ -370,7 +370,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 			d="M3 5h2V3c-1.1 0-2 .9-2 2zm0 8h2v-2H3v2zm4 8h2v-2H7v2zM3 9h2V7H3v2zm10-6h-2v2h2V3zm6 0v2h2c0-1.1-.9-2-2-2zM5 21v-2H3c0 1.1.9 2 2 2zm-2-4h2v-2H3v2zM9 3H7v2h2V3zm2 18h2v-2h-2v2zm8-8h2v-2h-2v2zm0 8c1.1 0 2-.9 2-2h-2v2zm0-12h2V7h-2v2zm0 8h2v-2h-2v2zm-4 4h2v-2h-2v2zm0-16h2V3h-2v2zM7 17h10V7H7v10zm2-8h6v6H9V9z"
 		/>
 	</svg>
-`,L=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+`,H=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`trending-down-icon ${s??""}`}
@@ -466,7 +466,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 			d="M25.87 2.423c.13.284.352.508.644.635l1.215.527a.453.453 0 0 1 0 .83l-1.205.527a1.22 1.22 0 0 0-.643.635l-.954 2.167c-.17.341-.683.341-.854 0l-.954-2.167a1.256 1.256 0 0 0-.643-.635l-1.205-.527a.453.453 0 0 1 0-.83l1.205-.527a1.22 1.22 0 0 0 .643-.635l.954-2.167c.17-.341.683-.341.854 0l.943 2.167Zm-11.887.742a.89.89 0 0 0 .458.438l.864.36c.26.117.26.457 0 .574l-.864.36a.848.848 0 0 0-.458.438l-.676 1.49c-.125.233-.49.233-.614 0l-.676-1.49a.885.885 0 0 0-.458-.438l-.864-.36a.309.309 0 0 1 0-.574l.864-.36a.848.848 0 0 0 .458-.438l.676-1.49c.125-.233.49-.233.614 0l.676 1.49ZM2.001 24 .338 25.627a1.146 1.146 0 0 0 0 1.625l.41.41c.44.452 1.17.452 1.61-.01L4 26.007l-.003-.003L18 12l1.674-1.667c.435-.445.435-1.24 0-1.675l-.33-.33C18.9 7.89 18 8 17.5 8.5L2 24Zm21.949-9.702a.948.948 0 0 1-.46-.48l-.685-1.622c-.128-.26-.492-.26-.61 0l-.685 1.623a.947.947 0 0 1-.46.48l-.857.391c-.257.13-.257.5 0 .62l.856.392c.206.1.37.27.46.48l.686 1.622c.128.261.492.261.61 0l.685-1.622c.09-.21.254-.38.46-.48l.857-.392c.257-.13.257-.5 0-.62l-.857-.392ZM10 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm18-1a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM17 2a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm1 17a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"
 		/>
 	</svg>
-`,O=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+`,j=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`warning-icon ${s??""}`}
@@ -483,7 +483,7 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
 			fill="currentColor"
 		/>
 	</svg>
-`,j=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+`,O=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
   <svg
     slot=${l(t)}
     class=${`delete-icon ${s??""}`}
@@ -531,6 +531,22 @@ import{E as v,x as $,b as a}from"./iframe-CmwQpOjN.js";import"./preload-helper-D
       d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"
     />
   </svg>
-`,F=Object.freeze(Object.defineProperty({__proto__:null,addIcon:d,announcementIcon:D,arrowDropdownIcon:p,cancelIcon:g,checkIcon:M,clearIcon:f,deleteIcon:j,editIcon:u,errorIcon:E,expandLessIcon:m,expandMoreIcon:w,eyeIcon:x,fileDownloadIcon:z,findInPageIcon:y,fullscreenExitIcon:C,fullscreenIcon:b,googleIcon:A,helpOutlineIcon:I,infoIcon:V,inviteIcon:B,leftChevronIcon:R,rightChevronIcon:Y,selectAllIcon:H,trendingDownIcon:L,trendingUpIcon:k,undoIcon:Z,uploadIcon:S,wandIcon:_,warningIcon:O},Symbol.toStringTag,{value:"Module"})),U={title:"Cosmoz Icons"},r=()=>$`<ul>
-        ${Object.entries(F).map(([t,e])=>$`<li>${[t,e()]}</li>`)}
-    </ul>`;r.parameters={docs:{description:{story:"A collection of various icons used throughout Cosmoz."}}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:"() => {\n  return html`<ul>\n        ${Object.entries(icons).map(([k, value]) => html`<li>${[k, value()]}</li>`)}\n    </ul>`;\n}",...r.parameters?.docs?.source}}};const q=["Icons"];export{r as Icons,q as __namedExportsOrder,U as default};
+`,F=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`<svg
+    slot=${l(t)}
+    class=${`filter-icon ${s??""}`}
+    width=${o}
+    height=${i}
+    viewBox="0 0 11 10"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    style=${l(c)}
+  >
+    ${h(e,()=>a`<title>${e}</title>`)}
+    <path
+      d="M9.5 10L9.5 7M9.5 7L8 7M9.5 7L11 7M5.5 4.5L5.5 10M1.5 10L1.5 6M1.5 6L3.49691e-07 6M1.5 6L3 6M5.5 -1.4345e-06L5.5 3M5.5 3L7 3M5.5 3L4 3M9.5 -2.03848e-06L9.5 5.5M1.5 -1.78419e-06L1.5 4.5"
+      stroke="black"
+      stroke-linejoin="round"
+    />
+  </svg> `,P=Object.freeze(Object.defineProperty({__proto__:null,addIcon:d,announcementIcon:D,arrowDropdownIcon:p,cancelIcon:M,checkIcon:g,clearIcon:f,deleteIcon:O,editIcon:u,errorIcon:E,expandLessIcon:m,expandMoreIcon:w,eyeIcon:x,fileDownloadIcon:z,filterIcon:F,findInPageIcon:y,fullscreenExitIcon:C,fullscreenIcon:L,googleIcon:b,helpOutlineIcon:A,infoIcon:I,inviteIcon:B,leftChevronIcon:V,rightChevronIcon:R,selectAllIcon:Y,trendingDownIcon:H,trendingUpIcon:k,undoIcon:Z,uploadIcon:S,wandIcon:_,warningIcon:j},Symbol.toStringTag,{value:"Module"})),q={title:"Cosmoz Icons"},r=()=>$`<ul>
+        ${Object.entries(P).map(([t,e])=>$`<li>${[t,e()]}</li>`)}
+    </ul>`;r.parameters={docs:{description:{story:"A collection of various icons used throughout Cosmoz."}}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:"() => {\n  return html`<ul>\n        ${Object.entries(icons).map(([k, value]) => html`<li>${[k, value()]}</li>`)}\n    </ul>`;\n}",...r.parameters?.docs?.source}}};const G=["Icons"];export{r as Icons,G as __namedExportsOrder,q as default};
