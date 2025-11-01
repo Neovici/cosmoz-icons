@@ -19,7 +19,7 @@ export const filterIcon = ({
 } = {}) =>
   html`<svg
     slot=${ifDefined(slot)}
-    class=${`find-in-page-icon ${className ?? ''}`}
+    class=${`filter-icon ${className ?? ''}`}
     width=${width}
     height=${height}
     viewBox="0 0 11 10"
