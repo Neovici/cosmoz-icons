@@ -1,85 +1,85 @@
 {
-	"name": "@neovici/cosmoz-icons",
-	"version": "1.0.0",
-	"description": "A collection of various icons used throughout Cosmoz.",
-	"keywords": [
-		"lit-html",
-		"web-components"
-	],
-	"homepage": "https://github.com/Neovici/cosmoz-icons#readme",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Neovici/cosmoz-icons.git"
-	},
-	"license": "MIT",
-	"author": "",
-	"main": "dist/index.js",
-	"types": "dist/index.d.ts",
-	"directories": {
-		"test": "test"
-	},
-	"files": [
-		"dist/"
-	],
-	"scripts": {
-		"lint": "tsc && eslint --cache .",
-		"build": "tsc -p tsconfig.build.json",
-		"start": "npm run storybook:start",
-		"dev": "npm run storybook:start",
-		"test": "wtr --coverage",
-		"test:watch": "wtr --watch",
-		"storybook:start": "storybook dev -p 8000",
-		"storybook:build": "storybook build",
-		"storybook:deploy": "storybook-to-ghpages",
-		"storybook:preview": "npm run storybook:build && http-server ./storybook-static/ --silent",
-		"prepare": "husky"
-	},
-	"release": {
-		"plugins": [
-			"@semantic-release/commit-analyzer",
-			"@semantic-release/release-notes-generator",
-			"@semantic-release/github",
-			"@semantic-release/npm"
-		],
-		"branch": "main",
-		"preset": "conventionalcommits"
-	},
-	"commitlint": {
-		"extends": [
-			"@commitlint/config-conventional"
-		],
-		"rules": {
-			"body-max-line-length": [
-				1,
-				"always",
-				100
-			]
-		}
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"exports": {
-		".": "./dist/index.js"
-	},
-	"dependencies": {
-		"lit-html": "^3.0.0"
-	},
-	"devDependencies": {
-		"@commitlint/cli": "^20.0.0",
-		"@commitlint/config-conventional": "^20.0.0",
-		"@neovici/cfg": "^2.6.8",
-		"@open-wc/testing": "^4.0.0",
-		"@semantic-release/changelog": "^6.0.0",
-		"@semantic-release/git": "^10.0.0",
-		"@storybook/web-components-vite": "^9.1.5",
-		"@types/mocha": "^10.0.6",
-		"@types/node": "^24.7.2",
-		"esbuild": "^0.25.9",
-		"http-server": "^14.1.1",
-		"husky": "^9.0.11",
-		"semantic-release": "^25.0.1",
-		"storybook": "^9.1.5",
-		"typescript": "^5.9.3"
-	}
+  "name": "@neovici/cosmoz-icons",
+  "version": "1.0.0",
+  "description": "A collection of various icons used throughout Cosmoz.",
+  "keywords": [
+    "lit-html",
+    "web-components"
+  ],
+  "homepage": "https://github.com/Neovici/cosmoz-icons#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neovici/cosmoz-icons.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "directories": {
+    "test": "test"
+  },
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "lint": "tsc && eslint --cache .",
+    "build": "tsc -p tsconfig.build.json",
+    "start": "npm run storybook:start",
+    "dev": "npm run storybook:start",
+    "test": "wtr --coverage",
+    "test:watch": "wtr --watch",
+    "storybook:start": "storybook dev -p 8000",
+    "storybook:build": "storybook build",
+    "storybook:deploy": "storybook-to-ghpages",
+    "storybook:preview": "npm run storybook:build && http-server ./storybook-static/ --silent",
+    "prepare": "husky"
+  },
+  "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/github",
+      "@semantic-release/npm"
+    ],
+    "branch": "main",
+    "preset": "conventionalcommits"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ],
+    "rules": {
+      "body-max-line-length": [
+        1,
+        "always",
+        100
+      ]
+    }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "dependencies": {
+    "lit-html": "^3.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^20.0.0",
+    "@commitlint/config-conventional": "^20.0.0",
+    "@neovici/cfg": "^2.6.8",
+    "@open-wc/testing": "^4.0.0",
+    "@semantic-release/changelog": "^6.0.0",
+    "@semantic-release/git": "^10.0.0",
+    "@storybook/web-components-vite": "^10.0.3",
+    "@types/mocha": "^10.0.6",
+    "@types/node": "^24.7.2",
+    "esbuild": "^0.25.9",
+    "http-server": "^14.1.1",
+    "husky": "^9.0.11",
+    "semantic-release": "^25.0.1",
+    "storybook": "^10.0.3",
+    "typescript": "^5.9.3"
+  }
 }
