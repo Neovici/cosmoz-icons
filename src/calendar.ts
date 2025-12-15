@@ -30,14 +30,14 @@ export const calendarIcon = ({
     ${when(title, () => svg`<title>${title}</title>`)}
     <path
       d="M1.5 1.5H13.5C14.0523 1.5 14.5 1.94772 14.5 2.5V11V13.5C14.5 14.0523 14.0523 14.5 13.5 14.5H1.5C0.947716 14.5 0.5 14.0523 0.5 13.5V2.5C0.5 1.94772 0.947716 1.5 1.5 1.5Z"
-      stroke="black"
+      stroke="currentColor"
     />
-    <path d="M1 4.5H14.5" stroke="black" />
-    <path d="M11.5 3V0M3.5 3V0" stroke="black" />
+    <path d="M1 4.5H14.5" stroke="currentColor" />
+    <path d="M11.5 3V0M3.5 3V0" stroke="currentColor" />
     <path
       d="M9.5 7.5H11.5V9.5H9.5V7.5Z"
-      fill="black"
-      stroke="black"
+      fill="currentColor"
+      stroke="currentColor"
       stroke-linejoin="round"
     />
   </svg>
