@@ -1,4 +1,4 @@
-import{E as v,x as $,b as r}from"./iframe-DMwb8ype.js";import"./preload-helper-PPVm8Dsz.js";const l=t=>t??v;function a(t,e,s){return t?e(t):s?.(t)}const d=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+import{E as v,x as $,b as r}from"./iframe-C9W8aixo.js";import"./preload-helper-PPVm8Dsz.js";const l=t=>t??v;function a(t,e,s){return t?e(t):s?.(t)}const d=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`add-icon ${s??""}`}
