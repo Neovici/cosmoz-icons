@@ -1,4 +1,4 @@
-import{E as v,x as $,b as r}from"./iframe-C9W8aixo.js";import"./preload-helper-PPVm8Dsz.js";const l=t=>t??v;function a(t,e,s){return t?e(t):s?.(t)}const d=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+import{A as v,b as $,w as r}from"./iframe-eMa_HEQC.js";import"./preload-helper-PPVm8Dsz.js";const l=t=>t??v;function a(t,e,s){return t?e(t):s?.(t)}const d=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`add-icon ${s??""}`}
@@ -255,7 +255,7 @@ import{E as v,x as $,b as r}from"./iframe-C9W8aixo.js";import"./preload-helper-P
       stroke="black"
       stroke-linejoin="round"
     />
-  </svg> `,I=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
+  </svg> `,A=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`
 	<svg
 		slot=${l(t)}
 		class=${`find-in-page-icon ${s??""}`}
@@ -271,7 +271,7 @@ import{E as v,x as $,b as r}from"./iframe-C9W8aixo.js";import"./preload-helper-P
 			d="M20 19.59V8l-6-6H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c.45 0 .85-.15 1.19-.4l-4.43-4.43c-.8.52-1.74.83-2.76.83-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5c0 1.02-.31 1.96-.83 2.75L20 19.59zM9 13c0 1.66 1.34 3 3 3s3-1.34 3-3-1.34-3-3-3-3 1.34-3 3z"
 		/>
 	</svg>
-`,A=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`<svg
+`,I=({slot:t,title:e,className:s,width:o="24",height:i="24",styles:c}={})=>$`<svg
 		slot=${l(t)}
 		class=${`fullscreen-icon ${s??""}`}
 		viewBox="0 0 24 24"
@@ -564,6 +564,6 @@ import{E as v,x as $,b as r}from"./iframe-C9W8aixo.js";import"./preload-helper-P
 			fill="currentColor"
 		/>
 	</svg>
-`,T=Object.freeze(Object.defineProperty({__proto__:null,addIcon:d,announcementIcon:p,arrowDropdownIcon:M,calendarIcon:g,cancelIcon:f,checkIcon:u,clearIcon:w,deleteIcon:m,editIcon:x,errorIcon:z,expandLessIcon:C,expandMoreIcon:y,eyeIcon:L,fileDownloadIcon:V,filterIcon:b,findInPageIcon:I,fullscreenExitIcon:B,fullscreenIcon:A,googleIcon:H,helpOutlineIcon:k,infoIcon:R,inviteIcon:Y,leftChevronIcon:Z,rightChevronIcon:S,selectAllIcon:j,trendingDownIcon:_,trendingUpIcon:O,undoIcon:D,uploadIcon:E,wandIcon:F,warningIcon:P},Symbol.toStringTag,{value:"Module"})),G={title:"Cosmoz Icons"},h=()=>$`<ul>
+`,T=Object.freeze(Object.defineProperty({__proto__:null,addIcon:d,announcementIcon:p,arrowDropdownIcon:M,calendarIcon:g,cancelIcon:f,checkIcon:u,clearIcon:w,deleteIcon:m,editIcon:x,errorIcon:z,expandLessIcon:C,expandMoreIcon:y,eyeIcon:L,fileDownloadIcon:V,filterIcon:b,findInPageIcon:A,fullscreenExitIcon:B,fullscreenIcon:I,googleIcon:H,helpOutlineIcon:k,infoIcon:R,inviteIcon:Y,leftChevronIcon:Z,rightChevronIcon:S,selectAllIcon:j,trendingDownIcon:_,trendingUpIcon:O,undoIcon:D,uploadIcon:E,wandIcon:F,warningIcon:P},Symbol.toStringTag,{value:"Module"})),G={title:"Cosmoz Icons"},h=()=>$`<ul>
         ${Object.entries(T).map(([t,e])=>$`<li>${[t,e()]}</li>`)}
     </ul>`;h.parameters={docs:{description:{story:"A collection of various icons used throughout Cosmoz."}}};h.parameters={...h.parameters,docs:{...h.parameters?.docs,source:{originalSource:"() => {\n  return html`<ul>\n        ${Object.entries(icons).map(([k, value]) => html`<li>${[k, value()]}</li>`)}\n    </ul>`;\n}",...h.parameters?.docs?.source}}};const J=["Icons"];export{h as Icons,J as __namedExportsOrder,G as default};
