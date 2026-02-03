@@ -1,13 +1,13 @@
-import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icons-D7KC3vVV.js";import"./preload-helper-PPVm8Dsz.js";const g=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+import{b as a,w as n}from"./iframe-BeZUDxhl.js";import{o as s,n as r,f as v,c as p}from"./icons-DQaaK1Hb.js";import"./preload-helper-PPVm8Dsz.js";const g=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`add-icon ${l??""}`}
 		viewBox="0 0 48 48"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<circle cx="22" cy="22" r="22" fill="#1D68FA" />
@@ -29,46 +29,46 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
 			transform="rotate(90 34.572 21.214)"
 		/>
 	</svg>
-`,M=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,M=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
   <svg
-    slot=${c(t)}
+    slot=${s(t)}
     class=${`announcement-icon ${l??""}`}
     viewBox="0 0 24 24"
     preserveAspectRatio="xMidYMid meet"
     focusable="false"
-    width=${s}
-    height=${o}
-    style=${c(i)}
+    width=${o}
+    height=${i}
+    style=${s(c)}
   >
     ${r(e,()=>n`<title>${e}</title>`)}
     <path
       d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-7 9h-2V5h2v6zm0 4h-2v-2h2v2z"
     />
   </svg>
-`,f=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,f=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`arrow-dropdown-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path d="M7 10l5 5 5-5z" />
 	</svg>
-`,u=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,u=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
   <svg
-    slot=${c(t)}
+    slot=${s(t)}
     class=${`calendar-icon ${l??""}`}
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 15 15"
     fill="none"
-    width=${s}
-    height=${o}
-    style=${c(i)}
+    width=${o}
+    height=${i}
+    style=${s(c)}
   >
     ${r(e,()=>n`<title>${e}</title>`)}
     <path
@@ -84,138 +84,138 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
       stroke-linejoin="round"
     />
   </svg>
-`,w=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,m=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`cancel-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
 			d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z"
 		/>
 	</svg>
-`,m=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,w=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`check-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z" />
 	</svg>
-`,x=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,x=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`clear-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
 			d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
 		/>
 	</svg>
-`,z=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,z=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
   <svg
-    slot=${c(t)}
+    slot=${s(t)}
     class=${`delete-icon ${l??""}`}
     viewBox="0 0 24 24"
     preserveAspectRatio="xMidYMid meet"
     focusable="false"
-    width=${s}
-    height=${o}
-    style=${c(i)}
+    width=${o}
+    height=${i}
+    style=${s(c)}
   >
     ${r(e,()=>n`<title>${e}</title>`)}
     <path
       d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
     />
   </svg>
-`,y=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,y=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`edit-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
 			d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
 		/>
 	</svg>
-`,C=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,C=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
   <svg
-    slot=${c(t)}
+    slot=${s(t)}
     class=${`error-icon ${l??""}`}
     viewBox="0 0 24 24"
     preserveAspectRatio="xMidYMid meet"
     focusable="false"
-    width=${s}
-    height=${o}
-    style=${c(i)}
+    width=${o}
+    height=${i}
+    style=${s(c)}
   >
     ${r(e,()=>n`<title>${e}</title>`)}
     <path
       d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"
     />
   </svg>
-`,L=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,L=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`expand-less-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z" />
 	</svg>
-`,V=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,I=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`expand-more-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z" />
 	</svg>
-`,b=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,V=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`eye-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
@@ -224,30 +224,30 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
 		/>
 		<circle cx="12.1" cy="12" r="2.5" style="stroke:currentColor" />
 	</svg>
-`,I=({part:t,slot:e,title:l,className:s,width:o="24",height:i="24",styles:$}={})=>a`
+`,b=({part:t,slot:e,title:l,className:o,width:i="24",height:c="24",styles:d}={})=>a`
 	<svg
-		slot=${c(e)}
-		part=${c(t)}
-		class=${`file-download-icon ${s??""}`}
+		slot=${s(e)}
+		part=${s(t)}
+		class=${`file-download-icon ${o??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${o}
-		height=${i}
-		style=${c($)}
+		width=${i}
+		height=${c}
+		style=${s(d)}
 	>
 		${r(l,()=>n`<title>${l}</title>`)}
 		<g><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" /></g>
 	</svg>
-`,A=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`<svg
-    slot=${c(t)}
+`,A=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`<svg
+    slot=${s(t)}
     class=${`filter-icon ${l??""}`}
-    width=${s}
-    height=${o}
+    width=${o}
+    height=${i}
     viewBox="0 0 11 10"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
-    style=${c(i)}
+    style=${s(c)}
   >
     ${r(e,()=>n`<title>${e}</title>`)}
     <path
@@ -255,31 +255,31 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
       stroke="black"
       stroke-linejoin="round"
     />
-  </svg> `,B=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+  </svg> `,k=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`find-in-page-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
 			d="M20 19.59V8l-6-6H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c.45 0 .85-.15 1.19-.4l-4.43-4.43c-.8.52-1.74.83-2.76.83-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5c0 1.02-.31 1.96-.83 2.75L20 19.59zM9 13c0 1.66 1.34 3 3 3s3-1.34 3-3-1.34-3-3-3-3 1.34-3 3z"
 		/>
 	</svg>
-`,H=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`<svg
-		slot=${c(t)}
+`,B=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`<svg
+		slot=${s(t)}
 		class=${`fullscreen-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<g>
@@ -288,15 +288,15 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
 				fill="currentColor"
 			></path>
 		</g>
-	</svg>`,k=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`<svg
-		slot=${c(t)}
+	</svg>`,H=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`<svg
+		slot=${s(t)}
 		class=${`fullscreen-exit-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<g>
@@ -305,15 +305,15 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
 				fill="currentColor"
 			></path>
 		</g>
-	</svg>`,R=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`<svg
-		slot=${c(t)}
+	</svg>`,R=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`<svg
+		slot=${s(t)}
 		class=${`google-icon ${l??""}`}
-		viewBox=${`0 0 ${s} ${o}`}
+		viewBox=${`0 0 ${o} ${i}`}
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
@@ -340,16 +340,16 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
 			d="M10.2116 4.20875C11.7326 4.20875 13.0983 4.74266 14.1721 5.79125L17.1436 2.75613C15.3494 1.04858 13.0042 0 10.2116 0C6.16158 0 2.65788 2.37133 0.953125 5.82973L4.41444 8.57143C5.22914 6.07023 7.51314 4.20875 10.2116 4.20875Z"
 			fill="#EA4335"
 		/>
-	</svg>`,Y=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+	</svg>`,Y=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`help-outline-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
@@ -357,16 +357,16 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
 			d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"
 		/>
 	</svg>
-`,Z=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,Z=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`info-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
@@ -375,16 +375,16 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
 			fill="currentColor"
 		/>
 	</svg>
-`,S=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,S=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`invite-icon ${l??""}`}
 		viewBox="0 0 48 48"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
@@ -407,108 +407,108 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
 			d="M1 10.161h6.323M4.161 13.323V7"
 		/>
 	</svg>
-`,_=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,_=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`right-chevron-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z" />
 	</svg>
-`,j=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,j=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`right-chevron-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path d="M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
 	</svg>
-`,O=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,O=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`select-all-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
 			d="M3 5h2V3c-1.1 0-2 .9-2 2zm0 8h2v-2H3v2zm4 8h2v-2H7v2zM3 9h2V7H3v2zm10-6h-2v2h2V3zm6 0v2h2c0-1.1-.9-2-2-2zM5 21v-2H3c0 1.1.9 2 2 2zm-2-4h2v-2H3v2zM9 3H7v2h2V3zm2 18h2v-2h-2v2zm8-8h2v-2h-2v2zm0 8c1.1 0 2-.9 2-2h-2v2zm0-12h2V7h-2v2zm0 8h2v-2h-2v2zm-4 4h2v-2h-2v2zm0-16h2V3h-2v2zM7 17h10V7H7v10zm2-8h6v6H9V9z"
 		/>
 	</svg>
-`,D=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,D=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`trending-down-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
 			d="M16 18l2.29-2.29-4.88-4.88-4 4L2 7.41 3.41 6l6 6 4-4 6.3 6.29L22 12v6z"
 		/>
 	</svg>
-`,q=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,E=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`trending-up-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
 			d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"
 		/>
 	</svg>
-`,E=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,F=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`undo-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
 			d="M12.5 8c-2.65 0-5.05.99-6.9 2.6L2 7v9h9l-3.62-3.62c1.39-1.16 3.16-1.88 5.12-1.88 3.54 0 6.55 2.31 7.6 5.5l2.37-.78C21.08 11.03 17.15 8 12.5 8z"
 		/>
 	</svg>
-`,F=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,P=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`upload-icon ${l??""}`}
 		viewBox="0 0 48 48"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
@@ -530,16 +530,16 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
 			d="M10 5.5 15 1l5 4.5"
 		/>
 	</svg>
-`,P=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,T=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`wand-icon ${l??""}`}
 		viewBox="0 0 48 48"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
@@ -547,16 +547,16 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
 			d="M25.87 2.423c.13.284.352.508.644.635l1.215.527a.453.453 0 0 1 0 .83l-1.205.527a1.22 1.22 0 0 0-.643.635l-.954 2.167c-.17.341-.683.341-.854 0l-.954-2.167a1.256 1.256 0 0 0-.643-.635l-1.205-.527a.453.453 0 0 1 0-.83l1.205-.527a1.22 1.22 0 0 0 .643-.635l.954-2.167c.17-.341.683-.341.854 0l.943 2.167Zm-11.887.742a.89.89 0 0 0 .458.438l.864.36c.26.117.26.457 0 .574l-.864.36a.848.848 0 0 0-.458.438l-.676 1.49c-.125.233-.49.233-.614 0l-.676-1.49a.885.885 0 0 0-.458-.438l-.864-.36a.309.309 0 0 1 0-.574l.864-.36a.848.848 0 0 0 .458-.438l.676-1.49c.125-.233.49-.233.614 0l.676 1.49ZM2.001 24 .338 25.627a1.146 1.146 0 0 0 0 1.625l.41.41c.44.452 1.17.452 1.61-.01L4 26.007l-.003-.003L18 12l1.674-1.667c.435-.445.435-1.24 0-1.675l-.33-.33C18.9 7.89 18 8 17.5 8.5L2 24Zm21.949-9.702a.948.948 0 0 1-.46-.48l-.685-1.622c-.128-.26-.492-.26-.61 0l-.685 1.623a.947.947 0 0 1-.46.48l-.857.391c-.257.13-.257.5 0 .62l.856.392c.206.1.37.27.46.48l.686 1.622c.128.261.492.261.61 0l.685-1.622c.09-.21.254-.38.46-.48l.857-.392c.257-.13.257-.5 0-.62l-.857-.392ZM10 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm18-1a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM17 2a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm1 17a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"
 		/>
 	</svg>
-`,T=({slot:t,title:e,className:l,width:s="24",height:o="24",styles:i}={})=>a`
+`,U=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
-		slot=${c(t)}
+		slot=${s(t)}
 		class=${`warning-icon ${l??""}`}
 		viewBox="0 0 24 24"
 		preserveAspectRatio="xMidYMid meet"
 		focusable="false"
-		width=${s}
-		height=${o}
-		style=${c(i)}
+		width=${o}
+		height=${i}
+		style=${s(c)}
 	>
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path
@@ -564,17 +564,17 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
 			fill="currentColor"
 		/>
 	</svg>
-`,U=Object.freeze(Object.defineProperty({__proto__:null,addIcon:g,announcementIcon:M,arrowDropdownIcon:f,calendarIcon:u,cancelIcon:w,checkIcon:m,clearIcon:x,deleteIcon:z,editIcon:y,errorIcon:C,expandLessIcon:L,expandMoreIcon:V,eyeIcon:b,fileDownloadIcon:I,filterIcon:A,findInPageIcon:B,fullscreenExitIcon:k,fullscreenIcon:H,googleIcon:R,helpOutlineIcon:Y,infoIcon:Z,inviteIcon:S,leftChevronIcon:_,rightChevronIcon:j,selectAllIcon:O,trendingDownIcon:D,trendingUpIcon:q,undoIcon:E,uploadIcon:F,wandIcon:P,warningIcon:T},Symbol.toStringTag,{value:"Module"})),Q={title:"Cosmoz Icons"},G=t=>{const e=t.target,l=e.value.toLowerCase(),s=e.closest(".icon-gallery"),o=s.querySelectorAll("[data-icon]"),i=s.querySelector(".icon-gallery-count");let $=0;for(const d of o){const v=d.dataset.icon.toLowerCase().includes(l);d.hidden=!v,v&&$++}i.textContent=`${$} icon${$!==1?"s":""}`},p=Object.entries(U),h=()=>a`
+`,q=Object.freeze(Object.defineProperty({__proto__:null,addIcon:g,announcementIcon:M,arrowDropdownIcon:f,calendarIcon:u,cancelIcon:m,checkIcon:w,clearIcon:x,deleteIcon:z,editIcon:y,errorIcon:C,expandLessIcon:L,expandMoreIcon:I,eyeIcon:V,fileDownloadIcon:b,filterIcon:A,findInPageIcon:k,fullscreenExitIcon:H,fullscreenIcon:B,googleIcon:R,helpOutlineIcon:Y,infoIcon:Z,inviteIcon:S,leftChevronIcon:_,rightChevronIcon:j,selectAllIcon:O,trendingDownIcon:D,trendingUpIcon:E,undoIcon:F,uploadIcon:P,wandIcon:T,warningIcon:U},Symbol.toStringTag,{value:"Module"})),N={title:"Cosmoz Icons"},h=Object.entries(q),$=()=>a`
     <div class="icon-gallery">
         <input
             class="icon-gallery-search"
             type="text"
             placeholder="Search icons..."
-            @input=${G}
+            @input=${v}
         />
-        <div class="icon-gallery-count">${p.length} icons</div>
-        <div class="icon-gallery-grid">
-            ${p.map(([t,e])=>a`
+        <div class="icon-gallery-count">${h.length} icons</div>
+        <div class="icon-gallery-grid" @click=${p("@neovici/cosmoz-icons")}>
+            ${h.map(([t,e])=>a`
                     <div class="icon-gallery-cell" data-icon=${t}>
                         ${e()}
                         <span class="icon-gallery-label" title=${t}>${t}</span>
@@ -582,7 +582,7 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
                 `)}
         </div>
     </div>
-`;h.parameters={docs:{description:{story:"A collection of various icons used throughout Cosmoz."}}};h.parameters={...h.parameters,docs:{...h.parameters?.docs,source:{originalSource:`() => html\`
+`;$.parameters={docs:{description:{story:"A collection of various icons used throughout Cosmoz. Click an icon to copy its import statement."}}};$.parameters={...$.parameters,docs:{...$.parameters?.docs,source:{originalSource:`() => html\`
     <div class="icon-gallery">
         <input
             class="icon-gallery-search"
@@ -591,7 +591,7 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
             @input=\${filterIcons}
         />
         <div class="icon-gallery-count">\${entries.length} icons</div>
-        <div class="icon-gallery-grid">
+        <div class="icon-gallery-grid" @click=\${copyImport('@neovici/cosmoz-icons')}>
             \${entries.map(([k, value]) => html\`
                     <div class="icon-gallery-cell" data-icon=\${k}>
                         \${value()}
@@ -600,4 +600,4 @@ import{b as a,w as n}from"./iframe-9HSvAGcu.js";import{o as c,n as r}from"./icon
                 \`)}
         </div>
     </div>
-\``,...h.parameters?.docs?.source}}};const W=["Icons"];export{h as Icons,W as __namedExportsOrder,Q as default};
+\``,...$.parameters?.docs?.source}}};const Q=["Icons"];export{$ as Icons,Q as __namedExportsOrder,N as default};
