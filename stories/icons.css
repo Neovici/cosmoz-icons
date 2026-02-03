@@ -27,30 +27,35 @@
 	border-color: var(--cz-color-border-brand);
 }
 
-.icon-gallery-toolbar {
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
-	padding: calc(var(--cz-spacing) * 2) 0;
-}
-
 .icon-gallery-count {
 	font-size: var(--cz-text-sm);
 	line-height: var(--cz-text-sm-line-height);
 	color: var(--cz-color-text-tertiary);
+	padding: calc(var(--cz-spacing) * 2) 0;
 }
 
 .icon-gallery-toast {
+	position: fixed;
+	bottom: calc(var(--cz-spacing) * 6);
+	left: 50%;
+	transform: translateX(-50%) translateY(8px);
+	padding: calc(var(--cz-spacing) * 2) calc(var(--cz-spacing) * 4);
 	font-size: var(--cz-text-sm);
 	line-height: var(--cz-text-sm-line-height);
-	color: var(--cz-color-text-brand);
+	color: var(--cz-color-text-on-brand);
 	font-weight: var(--cz-font-weight-medium);
+	background: var(--cz-color-bg-brand-solid);
+	border-radius: var(--cz-radius-md);
+	box-shadow: var(--cz-shadow-lg);
 	opacity: 0;
-	transition: opacity 0.3s;
+	pointer-events: none;
+	transition: opacity 0.3s, transform 0.3s;
+	z-index: 1000;
 }
 
 .icon-gallery-toast--visible {
 	opacity: 1;
+	transform: translateX(-50%) translateY(0);
 	transition: none;
 }
 

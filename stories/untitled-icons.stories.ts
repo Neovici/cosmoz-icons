@@ -17,10 +17,7 @@ export const Icons = () => html`
 			placeholder="Search icons..."
 			@input=${filterIcons}
 		/>
-		<div class="icon-gallery-toolbar">
-			<div class="icon-gallery-count">${entries.length} icons</div>
-			<div class="icon-gallery-toast">Copied to clipboard</div>
-		</div>
+		<div class="icon-gallery-count">${entries.length} icons</div>
 		<div class="icon-gallery-grid" @click=${copyImport('@neovici/cosmoz-icons/untitled')}>
 			${entries.map(
 				([k, value]) => html`
@@ -31,6 +28,7 @@ export const Icons = () => html`
 				`,
 			)}
 		</div>
+		<div class="icon-gallery-toast">Copied to clipboard</div>
 	</div>
 `;
 
