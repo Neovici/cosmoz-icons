@@ -22,9 +22,10 @@
     "dist/"
   ],
   "scripts": {
-    "lint": "tsc && eslint --cache .",
+    "generate:untitled": "node scripts/generate-untitled-icons.mjs",
+    "lint": "npm run generate:untitled && tsc && eslint --cache .",
     "check:duplicates": "check-duplicate-components",
-    "build": "tsc -p tsconfig.build.json",
+    "build": "npm run generate:untitled && tsc -p tsconfig.build.json",
     "start": "npm run storybook:start",
     "dev": "npm run storybook:start",
     "test": "wtr --coverage",
@@ -61,7 +62,8 @@
     "access": "public"
   },
   "exports": {
-    ".": "./dist/index.js"
+    ".": "./dist/index.js",
+    "./untitled": "./dist/untitled/index.js"
   },
   "dependencies": {
     "lit-html": "^3.0.0"
@@ -76,6 +78,7 @@
     "@storybook/web-components-vite": "^10.0.3",
     "@types/mocha": "^10.0.6",
     "@types/node": "^25.0.2",
+    "@xmldom/xmldom": "^0.8.11",
     "esbuild": "^0.27.0",
     "http-server": "^14.1.1",
     "husky": "^9.0.11",

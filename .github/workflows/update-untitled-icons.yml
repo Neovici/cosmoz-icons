@@ -1,0 +1,77 @@
+name: Update Untitled UI Icons
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: 'Git ref/tag of untitleduico/icons to use'
+        required: false
+        default: 'main'
+  schedule:
+    - cron: '0 9 * * 1' # Weekly on Mondays at 9am UTC
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-icons:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate Untitled UI icons
+        run: node scripts/generate-untitled-icons.mjs ${{ github.event.inputs.ref || 'main' }}
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet src/untitled/ && [ -z "$(git ls-files --others --exclude-standard src/untitled/)" ]; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create Pull Request
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          REF="${{ github.event.inputs.ref || 'main' }}"
+          BRANCH="chore/update-untitled-icons-$(date +%Y%m%d%H%M%S)"
+          git checkout -b "$BRANCH"
+
+          git add src/untitled/
+          ICON_COUNT=$(find src/untitled -name '*.ts' ! -name 'index.ts' | wc -l)
+
+          git commit -m "feat: update untitled ui icons (${ICON_COUNT} icons)"
+          git push origin "$BRANCH"
+
+          gh pr create \
+            --title "feat: update Untitled UI icons (${ICON_COUNT} icons)" \
+            --body "$(cat <<EOF
+          ## Summary
+
+          Automated update of Untitled UI icons from [\`untitleduico/icons@${REF}\`](https://github.com/untitleduico/icons/tree/${REF}).
+
+          - Generated **${ICON_COUNT}** lit-html icon components in \`src/untitled/\`
+          - Source: [untitleduico/icons](https://github.com/untitleduico/icons) (MIT licensed)
+          - Available via \`import { ... } from '@neovici/cosmoz-icons/untitled'\`
+
+          NEO-885
+          EOF
+          )" \
+            --base main

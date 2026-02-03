@@ -13,6 +13,12 @@ export default [
 		},
 	},
 	{
-		ignores: ['coverage/*', 'dist/*', 'storybook-static/*'],
+		ignores: [
+			'coverage/*',
+			'dist/*',
+			'storybook-static/*',
+			'src/untitled/*',
+			'scripts/*',
+		],
 	},
 ];
