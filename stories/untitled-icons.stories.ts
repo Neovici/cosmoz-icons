@@ -1,24 +1,10 @@
 import { html } from 'lit-html';
 import * as icons from '../src/untitled';
+import { filterIcons, copyImport } from './helpers';
 import './icons.css';
 
 export default {
 	title: 'Untitled UI Icons',
-};
-
-const filterIcons = (e: InputEvent) => {
-	const input = e.target as HTMLInputElement,
-		query = input.value.toLowerCase(),
-		gallery = input.closest('.icon-gallery')!,
-		cells = gallery.querySelectorAll<HTMLElement>('[data-icon]'),
-		count = gallery.querySelector('.icon-gallery-count')!;
-	let visible = 0;
-	for (const cell of cells) {
-		const match = cell.dataset.icon!.toLowerCase().includes(query);
-		cell.hidden = !match;
-		if (match) visible++;
-	}
-	count.textContent = `${visible} icon${visible !== 1 ? 's' : ''}`;
 };
 
 const entries = Object.entries(icons);
@@ -32,7 +18,7 @@ export const Icons = () => html`
 			@input=${filterIcons}
 		/>
 		<div class="icon-gallery-count">${entries.length} icons</div>
-		<div class="icon-gallery-grid">
+		<div class="icon-gallery-grid" @click=${copyImport('@neovici/cosmoz-icons/untitled')}>
 			${entries.map(
 				([k, value]) => html`
 					<div class="icon-gallery-cell" data-icon=${k}>
@@ -48,7 +34,7 @@ export const Icons = () => html`
 Icons.parameters = {
 	docs: {
 		description: {
-			story: 'Icons from the Untitled UI icon set (MIT licensed).',
+			story: 'Icons from the Untitled UI icon set (MIT licensed). Click an icon to copy its import statement.',
 		},
 	},
 };

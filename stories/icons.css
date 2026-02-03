@@ -51,12 +51,18 @@
 	border-radius: var(--cz-radius-lg);
 	background: var(--cz-color-bg-primary);
 	color: var(--cz-color-fg-primary);
-	transition: background 0.15s, box-shadow 0.15s;
+	cursor: pointer;
+	transition: background 0.15s, box-shadow 0.15s, border-color 0.15s;
 }
 
 .icon-gallery-cell:hover {
 	background: var(--cz-color-bg-secondary-hover);
 	box-shadow: var(--cz-shadow-sm);
+}
+
+.icon-gallery-cell--copied {
+	border-color: var(--cz-color-border-brand);
+	background: var(--cz-color-bg-brand);
 }
 
 .icon-gallery-cell[hidden] {
