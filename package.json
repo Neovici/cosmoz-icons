@@ -23,9 +23,9 @@
   ],
   "scripts": {
     "generate:untitled": "node scripts/generate-untitled-icons.mjs",
-    "lint": "npm run generate:untitled && tsc && eslint --cache .",
+    "lint": "tsc && eslint --cache .",
     "check:duplicates": "check-duplicate-components",
-    "build": "npm run generate:untitled && tsc -p tsconfig.build.json",
+    "build": "tsc -p tsconfig.build.json",
     "start": "npm run storybook:start",
     "dev": "npm run storybook:start",
     "test": "wtr --coverage",
