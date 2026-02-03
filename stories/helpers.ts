@@ -16,9 +16,15 @@ export const filterIcons = (e: InputEvent) => {
 export const copyImport = (packagePath: string) => (e: Event) => {
 	const cell = (e.target as HTMLElement).closest<HTMLElement>('[data-icon]');
 	if (!cell) return;
+	const gallery = cell.closest('.icon-gallery')!;
+	const toast = gallery.querySelector('.icon-gallery-toast')!;
 	const name = cell.dataset.icon!;
 	const text = `import { ${name} } from '${packagePath}';`;
 	navigator.clipboard.writeText(text);
 	cell.classList.add('icon-gallery-cell--copied');
-	setTimeout(() => cell.classList.remove('icon-gallery-cell--copied'), 1500);
+	toast.classList.add('icon-gallery-toast--visible');
+	setTimeout(() => {
+		cell.classList.remove('icon-gallery-cell--copied');
+		toast.classList.remove('icon-gallery-toast--visible');
+	}, 800);
 };
