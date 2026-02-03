@@ -1,4 +1,4 @@
-import{b as a,w as n}from"./iframe-tXreCZOx.js";import{o as s,n as r,f as v,c as p}from"./icons-D7alHQ9r.js";import"./preload-helper-PPVm8Dsz.js";const g=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
+import{b as a,w as n}from"./iframe-CY66Spjh.js";import{o as s,n as r,f as v,c as p}from"./icons-DuCp5OLj.js";import"./preload-helper-PPVm8Dsz.js";const g=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
 		slot=${s(t)}
 		class=${`add-icon ${l??""}`}
@@ -178,7 +178,7 @@ import{b as a,w as n}from"./iframe-tXreCZOx.js";import{o as s,n as r,f as v,c as
       d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"
     />
   </svg>
-`,b=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
+`,L=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
 		slot=${s(t)}
 		class=${`expand-less-icon ${l??""}`}
@@ -192,7 +192,7 @@ import{b as a,w as n}from"./iframe-tXreCZOx.js";import{o as s,n as r,f as v,c as
 		${r(e,()=>n`<title>${e}</title>`)}
 		<path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z" />
 	</svg>
-`,L=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
+`,b=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
 		slot=${s(t)}
 		class=${`expand-more-icon ${l??""}`}
@@ -564,7 +564,7 @@ import{b as a,w as n}from"./iframe-tXreCZOx.js";import{o as s,n as r,f as v,c as
 			fill="currentColor"
 		/>
 	</svg>
-`,q=Object.freeze(Object.defineProperty({__proto__:null,addIcon:g,announcementIcon:M,arrowDropdownIcon:f,calendarIcon:u,cancelIcon:m,checkIcon:w,clearIcon:x,deleteIcon:z,editIcon:y,errorIcon:C,expandLessIcon:b,expandMoreIcon:L,eyeIcon:I,fileDownloadIcon:V,filterIcon:A,findInPageIcon:k,fullscreenExitIcon:H,fullscreenIcon:B,googleIcon:R,helpOutlineIcon:Y,infoIcon:Z,inviteIcon:S,leftChevronIcon:_,rightChevronIcon:j,selectAllIcon:O,trendingDownIcon:D,trendingUpIcon:E,undoIcon:F,uploadIcon:P,wandIcon:T,warningIcon:U},Symbol.toStringTag,{value:"Module"})),N={title:"Cosmoz Icons"},h=Object.entries(q),$=()=>a`
+`,q=Object.freeze(Object.defineProperty({__proto__:null,addIcon:g,announcementIcon:M,arrowDropdownIcon:f,calendarIcon:u,cancelIcon:m,checkIcon:w,clearIcon:x,deleteIcon:z,editIcon:y,errorIcon:C,expandLessIcon:L,expandMoreIcon:b,eyeIcon:I,fileDownloadIcon:V,filterIcon:A,findInPageIcon:k,fullscreenExitIcon:H,fullscreenIcon:B,googleIcon:R,helpOutlineIcon:Y,infoIcon:Z,inviteIcon:S,leftChevronIcon:_,rightChevronIcon:j,selectAllIcon:O,trendingDownIcon:D,trendingUpIcon:E,undoIcon:F,uploadIcon:P,wandIcon:T,warningIcon:U},Symbol.toStringTag,{value:"Module"})),N={title:"Cosmoz Icons"},h=Object.entries(q),$=()=>a`
     <div class="icon-gallery">
         <input
             class="icon-gallery-search"
@@ -572,10 +572,7 @@ import{b as a,w as n}from"./iframe-tXreCZOx.js";import{o as s,n as r,f as v,c as
             placeholder="Search icons..."
             @input=${v}
         />
-        <div class="icon-gallery-toolbar">
-            <div class="icon-gallery-count">${h.length} icons</div>
-            <div class="icon-gallery-toast">Copied to clipboard</div>
-        </div>
+        <div class="icon-gallery-count">${h.length} icons</div>
         <div class="icon-gallery-grid" @click=${p("@neovici/cosmoz-icons")}>
             ${h.map(([t,e])=>a`
                     <div class="icon-gallery-cell" data-icon=${t}>
@@ -584,6 +581,7 @@ import{b as a,w as n}from"./iframe-tXreCZOx.js";import{o as s,n as r,f as v,c as
                     </div>
                 `)}
         </div>
+        <div class="icon-gallery-toast">Copied to clipboard</div>
     </div>
 `;$.parameters={docs:{description:{story:"A collection of various icons used throughout Cosmoz. Click an icon to copy its import statement."}}};$.parameters={...$.parameters,docs:{...$.parameters?.docs,source:{originalSource:`() => html\`
     <div class="icon-gallery">
@@ -593,10 +591,7 @@ import{b as a,w as n}from"./iframe-tXreCZOx.js";import{o as s,n as r,f as v,c as
             placeholder="Search icons..."
             @input=\${filterIcons}
         />
-        <div class="icon-gallery-toolbar">
-            <div class="icon-gallery-count">\${entries.length} icons</div>
-            <div class="icon-gallery-toast">Copied to clipboard</div>
-        </div>
+        <div class="icon-gallery-count">\${entries.length} icons</div>
         <div class="icon-gallery-grid" @click=\${copyImport('@neovici/cosmoz-icons')}>
             \${entries.map(([k, value]) => html\`
                     <div class="icon-gallery-cell" data-icon=\${k}>
@@ -605,5 +600,6 @@ import{b as a,w as n}from"./iframe-tXreCZOx.js";import{o as s,n as r,f as v,c as
                     </div>
                 \`)}
         </div>
+        <div class="icon-gallery-toast">Copied to clipboard</div>
     </div>
 \``,...$.parameters?.docs?.source}}};const Q=["Icons"];export{$ as Icons,Q as __namedExportsOrder,N as default};
