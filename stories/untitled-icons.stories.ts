@@ -1,9 +1,9 @@
 import { html } from 'lit-html';
-import * as icons from '../src';
+import * as icons from '../src/untitled';
 import './icons.css';
 
 export default {
-	title: 'Cosmoz Icons',
+	title: 'Untitled UI Icons',
 };
 
 const filterIcons = (e: InputEvent) => {
@@ -48,7 +48,7 @@ export const Icons = () => html`
 Icons.parameters = {
 	docs: {
 		description: {
-			story: 'A collection of various icons used throughout Cosmoz.',
+			story: 'Icons from the Untitled UI icon set (MIT licensed).',
 		},
 	},
 };
