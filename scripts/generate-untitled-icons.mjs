@@ -28,19 +28,20 @@ const SVG_WRAPPER_ATTRS = new Set([
 ]);
 
 /**
- * Convert kebab-case filename to camelCase export name.
- * e.g. "activity-heart" -> "activityHeart"
+ * Convert kebab-case filename to camelCase export name with Icon suffix.
+ * e.g. "activity-heart" -> "activityHeartIcon"
  */
 function toExportName(basename) {
-	return basename.replace(/-([a-z0-9])/g, (_, c) => c.toUpperCase());
+	const camel = basename.replace(/-([a-z0-9])/g, (_, c) => c.toUpperCase());
+	return `${camel}Icon`;
 }
 
 /**
- * Use kebab-case filename directly as CSS class name.
- * e.g. "activity-heart" -> "activity-heart"
+ * Convert kebab-case filename to CSS class name with -icon suffix.
+ * e.g. "activity-heart" -> "activity-heart-icon"
  */
 function toCssClass(basename) {
-	return basename;
+	return `${basename}-icon`;
 }
 
 /**
