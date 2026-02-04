@@ -1,0 +1,42 @@
+// AUTO-GENERATED - DO NOT EDIT
+// Source: untitleduico/icons (https://github.com/untitleduico/icons)
+// License: MIT
+
+import { html, svg } from 'lit-html';
+import { ifDefined } from 'lit-html/directives/if-defined.js';
+import { when } from 'lit-html/directives/when.js';
+
+export const alignVerticalCenter01Icon = ({
+  slot,
+  title,
+  className,
+  width = '24',
+  height = '24',
+  styles,
+}: {
+  slot?: string;
+  title?: string;
+  className?: string;
+  width?: string;
+  height?: string;
+  styles?: string;
+} = {}) => html`
+  <svg
+    slot=${ifDefined(slot)}
+    class=${`align-vertical-center-01-icon ${className ?? ''}`}
+    viewBox="0 0 24 24"
+    preserveAspectRatio="xMidYMid meet"
+    focusable="false"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    width=${width}
+    height=${height}
+    style=${ifDefined(styles)}
+  >
+    ${when(title, () => svg`<title>${title}</title>`)}
+    <path d="M3 12h18M12 2v6.5m0 0 4-4m-4 4-4-4M12 22v-6.5m0 0 4 4m-4-4-4 4" />
+  </svg>
+`;

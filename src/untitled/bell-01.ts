@@ -1,0 +1,44 @@
+// AUTO-GENERATED - DO NOT EDIT
+// Source: untitleduico/icons (https://github.com/untitleduico/icons)
+// License: MIT
+
+import { html, svg } from 'lit-html';
+import { ifDefined } from 'lit-html/directives/if-defined.js';
+import { when } from 'lit-html/directives/when.js';
+
+export const bell01Icon = ({
+  slot,
+  title,
+  className,
+  width = '24',
+  height = '24',
+  styles,
+}: {
+  slot?: string;
+  title?: string;
+  className?: string;
+  width?: string;
+  height?: string;
+  styles?: string;
+} = {}) => html`
+  <svg
+    slot=${ifDefined(slot)}
+    class=${`bell-01-icon ${className ?? ''}`}
+    viewBox="0 0 24 24"
+    preserveAspectRatio="xMidYMid meet"
+    focusable="false"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    width=${width}
+    height=${height}
+    style=${ifDefined(styles)}
+  >
+    ${when(title, () => svg`<title>${title}</title>`)}
+    <path
+      d="M9.354 21c.705.622 1.632 1 2.646 1s1.94-.378 2.646-1M18 8A6 6 0 1 0 6 8c0 3.09-.78 5.206-1.65 6.605-.735 1.18-1.102 1.771-1.089 1.936.015.182.054.252.2.36.133.099.732.099 1.928.099H18.61c1.196 0 1.795 0 1.927-.098.147-.11.186-.179.2-.361.014-.165-.353-.755-1.088-1.936C18.78 13.206 18 11.09 18 8Z"
+    />
+  </svg>
+`;

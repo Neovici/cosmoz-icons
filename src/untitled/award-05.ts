@@ -1,0 +1,44 @@
+// AUTO-GENERATED - DO NOT EDIT
+// Source: untitleduico/icons (https://github.com/untitleduico/icons)
+// License: MIT
+
+import { html, svg } from 'lit-html';
+import { ifDefined } from 'lit-html/directives/if-defined.js';
+import { when } from 'lit-html/directives/when.js';
+
+export const award05Icon = ({
+  slot,
+  title,
+  className,
+  width = '24',
+  height = '24',
+  styles,
+}: {
+  slot?: string;
+  title?: string;
+  className?: string;
+  width?: string;
+  height?: string;
+  styles?: string;
+} = {}) => html`
+  <svg
+    slot=${ifDefined(slot)}
+    class=${`award-05-icon ${className ?? ''}`}
+    viewBox="0 0 24 24"
+    preserveAspectRatio="xMidYMid meet"
+    focusable="false"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    width=${width}
+    height=${height}
+    style=${ifDefined(styles)}
+  >
+    ${when(title, () => svg`<title>${title}</title>`)}
+    <path
+      d="M7.135 11.189 3.33 4.381c-.437-.783-.656-1.175-.619-1.495a1 1 0 0 1 .41-.697C3.38 2 3.83 2 4.726 2h2.235c.333 0 .5 0 .65.048a1 1 0 0 1 .357.205c.118.104.202.248.372.535L12 9l3.659-6.212c.169-.287.254-.43.37-.535a1 1 0 0 1 .359-.205c.15-.048.316-.048.65-.048h2.234c.897 0 1.345 0 1.607.189a1 1 0 0 1 .41.697c.036.32-.183.712-.62 1.495l-3.805 6.808M10.5 14l1.5-1v5m-1.25 0h2.5m3.346-7.096a6.5 6.5 0 1 1-9.192 9.192 6.5 6.5 0 0 1 9.192-9.192Z"
+    />
+  </svg>
+`;
