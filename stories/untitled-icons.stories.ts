@@ -17,6 +17,10 @@ export const Icons = () => html`
 			placeholder="Search icons..."
 			@input=${filterIcons}
 		/>
+		<div class="icon-gallery-note">
+			Browse icons by category on
+			<a href="https://untitledui.com/free-icons" target="_blank" rel="noopener">untitledui.com</a>
+		</div>
 		<div class="icon-gallery-count">${entries.length} icons</div>
 		<div class="icon-gallery-grid" @click=${copyImport('@neovici/cosmoz-icons/untitled')}>
 			${entries.map(
