@@ -11,6 +11,7 @@ on:
     - cron: '0 9 * * 1' # Weekly on Mondays at 9am UTC
 
 permissions:
+  actions: write
   contents: write
   pull-requests: write
 
@@ -75,3 +76,5 @@ jobs:
           EOF
           )" \
             --base main
+
+          gh workflow run ci.yml --ref "$BRANCH"
