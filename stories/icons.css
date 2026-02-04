@@ -27,6 +27,22 @@
 	border-color: var(--cz-color-border-brand);
 }
 
+.icon-gallery-note {
+	font-size: var(--cz-text-sm);
+	line-height: var(--cz-text-sm-line-height);
+	color: var(--cz-color-text-tertiary);
+	padding: calc(var(--cz-spacing) * 2) 0 0;
+}
+
+.icon-gallery-note a {
+	color: var(--cz-color-text-brand);
+	text-decoration: none;
+}
+
+.icon-gallery-note a:hover {
+	text-decoration: underline;
+}
+
 .icon-gallery-count {
 	font-size: var(--cz-text-sm);
 	line-height: var(--cz-text-sm-line-height);
