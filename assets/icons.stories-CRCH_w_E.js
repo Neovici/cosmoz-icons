@@ -1,4 +1,4 @@
-import{b as a,w as n}from"./iframe-CY66Spjh.js";import{o as s,n as r,f as v,c as p}from"./icons-DuCp5OLj.js";import"./preload-helper-PPVm8Dsz.js";const g=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
+import{b as a,w as n}from"./iframe-DkJ4QHCk.js";import{o as s,n as r,f as v,c as p}from"./icons-BmKNpUtU.js";import"./preload-helper-PPVm8Dsz.js";const g=({slot:t,title:e,className:l,width:o="24",height:i="24",styles:c}={})=>a`
 	<svg
 		slot=${s(t)}
 		class=${`add-icon ${l??""}`}
