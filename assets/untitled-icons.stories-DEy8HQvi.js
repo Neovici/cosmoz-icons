@@ -1,4 +1,4 @@
-import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as v}from"./icons-BmKNpUtU.js";import"./preload-helper-PPVm8Dsz.js";const u=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+import{b as r,w as n}from"./iframe-CdytCpBJ.js";import{o as t,n as a,f as h,c as v}from"./icons-Bj9KzV4a.js";import"./preload-helper-PPVm8Dsz.js";const u=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`activity-icon ${s??""}`}
@@ -690,7 +690,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m9 11 2 2 4.5-4.5M9.9 19.2l1.46 1.947c.217.29.326.434.459.486a.5.5 0 0 0 .362 0c.133-.052.242-.197.459-.486L14.1 19.2c.293-.39.44-.586.619-.735a2 2 0 0 1 .822-.412c.226-.053.47-.053.959-.053 1.398 0 2.097 0 2.648-.228a3 3 0 0 0 1.624-1.624C21 15.597 21 14.898 21 13.5V7.8c0-1.68 0-2.52-.327-3.162a3 3 0 0 0-1.311-1.311C18.72 3 17.88 3 16.2 3H7.8c-1.68 0-2.52 0-3.162.327a3 3 0 0 0-1.311 1.311C3 5.28 3 6.12 3 7.8v5.7c0 1.398 0 2.097.228 2.648a3 3 0 0 0 1.624 1.624C5.403 18 6.102 18 7.5 18c.489 0 .733 0 .96.053a2 2 0 0 1 .821.412c.18.149.326.344.619.735Z"
     />
   </svg>
-`,Q=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`annotation-dots-icon ${s??""}`}
@@ -711,7 +711,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M7.5 10.5h.01m4.49 0h.01m4.49 0h.01M9.9 19.2l1.46 1.947c.217.29.326.434.459.486a.5.5 0 0 0 .362 0c.133-.052.242-.197.459-.486L14.1 19.2c.293-.39.44-.586.619-.735a2 2 0 0 1 .822-.412c.226-.053.47-.053.959-.053 1.398 0 2.097 0 2.648-.228a3 3 0 0 0 1.624-1.624C21 15.597 21 14.898 21 13.5V7.8c0-1.68 0-2.52-.327-3.162a3 3 0 0 0-1.311-1.311C18.72 3 17.88 3 16.2 3H7.8c-1.68 0-2.52 0-3.162.327a3 3 0 0 0-1.311 1.311C3 5.28 3 6.12 3 7.8v5.7c0 1.398 0 2.097.228 2.648a3 3 0 0 0 1.624 1.624C5.403 18 6.102 18 7.5 18c.489 0 .733 0 .96.053a2 2 0 0 1 .821.412c.18.149.326.344.619.735ZM8 10.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm4.5 0a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Zm4.5 0a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0Z"
     />
   </svg>
-`,W=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`annotation-heart-icon ${s??""}`}
@@ -736,7 +736,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M11.997 8.33c-.8-.908-2.133-1.153-3.135-.32-1.002.832-1.143 2.223-.356 3.208.468.585 1.614 1.635 2.466 2.39.352.311.528.467.74.53.18.055.39.055.571 0 .212-.063.388-.219.74-.53.852-.755 1.998-1.805 2.466-2.39a2.256 2.256 0 0 0-.356-3.209c-1.02-.823-2.336-.587-3.136.322Z"
     />
   </svg>
-`,_=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`annotation-info-icon ${s??""}`}
@@ -1796,7 +1796,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     ${a(e,()=>n`<title>${e}</title>`)}
     <path d="M7 17 17 7m0 0H7m10 0v10" />
   </svg>
-`,Q1=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_1=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`arrows-down-icon ${s??""}`}
@@ -1815,7 +1815,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     ${a(e,()=>n`<title>${e}</title>`)}
     <path d="M17 4v11m0 0-4-4m4 4 4-4M7 4v16m0 0-4-4m4 4 4-4" />
   </svg>
-`,W1=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q1=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`arrows-left-icon ${s??""}`}
@@ -1834,7 +1834,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     ${a(e,()=>n`<title>${e}</title>`)}
     <path d="M20 17H4m0 0 4 4m-4-4 4-4m12-6H9m0 0 4 4M9 7l4-4" />
   </svg>
-`,_1=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W1=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`arrows-right-icon ${s??""}`}
@@ -2906,7 +2906,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M9.354 21c.705.622 1.632 1 2.646 1s1.94-.378 2.646-1M18 8A6 6 0 1 0 6 8c0 3.09-.78 5.206-1.65 6.605-.735 1.18-1.102 1.771-1.089 1.936.015.182.054.252.2.36.133.099.732.099 1.928.099H18.61c1.196 0 1.795 0 1.927-.098.147-.11.186-.179.2-.361.014-.165-.353-.755-1.088-1.936C18.78 13.206 18 11.09 18 8Z"
     />
   </svg>
-`,Q2=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_2=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`bell-02-icon ${s??""}`}
@@ -2927,7 +2927,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M14 21h-4m8-13A6 6 0 1 0 6 8c0 3.09-.78 5.206-1.65 6.605-.735 1.18-1.102 1.771-1.089 1.936.015.182.054.252.2.36.133.099.732.099 1.928.099H18.61c1.196 0 1.795 0 1.927-.098.147-.11.186-.179.2-.361.014-.165-.353-.755-1.088-1.936C18.78 13.206 18 11.09 18 8Z"
     />
   </svg>
-`,W2=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q2=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`bell-03-icon ${s??""}`}
@@ -2948,7 +2948,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M15 19a3 3 0 1 1-6 0m4.796-12.761a2.5 2.5 0 1 0-3.593 0M18 11.2c0-1.38-.632-2.702-1.758-3.677C15.117 6.548 13.591 6 12 6c-1.592 0-3.118.548-4.243 1.523C6.632 8.498 6 9.821 6 11.2c0 2.282-.566 3.95-1.272 5.145-.805 1.36-1.207 2.041-1.191 2.204.018.186.051.244.202.355.132.096.794.096 2.119.096h12.284c1.324 0 1.987 0 2.118-.096.151-.11.185-.17.203-.355.016-.163-.387-.843-1.191-2.204C18.566 15.15 18 13.482 18 11.2Z"
     />
   </svg>
-`,_2=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W2=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`bell-04-icon ${s??""}`}
@@ -4032,7 +4032,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m17.5 6.5-11 11m2-7v-4m-2 2h4m3 7h4M7.8 21h8.4c1.68 0 2.52 0 3.162-.327a3 3 0 0 0 1.311-1.311C21 18.72 21 17.88 21 16.2V7.8c0-1.68 0-2.52-.327-3.162a3 3 0 0 0-1.311-1.311C18.72 3 17.88 3 16.2 3H7.8c-1.68 0-2.52 0-3.162.327a3 3 0 0 0-1.311 1.311C3 5.28 3 6.12 3 7.8v8.4c0 1.68 0 2.52.327 3.162a3 3 0 0 0 1.311 1.311C5.28 21 6.12 21 7.8 21Z"
     />
   </svg>
-`,Q0=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_0=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`calendar-icon ${s??""}`}
@@ -4053,7 +4053,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M21 10H3m13-8v4M8 2v4m-.2 16h8.4c1.68 0 2.52 0 3.162-.327a3 3 0 0 0 1.311-1.311C21 19.72 21 18.88 21 17.2V8.8c0-1.68 0-2.52-.327-3.162a3 3 0 0 0-1.311-1.311C18.72 4 17.88 4 16.2 4H7.8c-1.68 0-2.52 0-3.162.327a3 3 0 0 0-1.311 1.311C3 6.28 3 7.12 3 8.8v8.4c0 1.68 0 2.52.327 3.162a3 3 0 0 0 1.311 1.311C5.28 22 6.12 22 7.8 22Z"
     />
   </svg>
-`,W0=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q0=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`calendar-check-01-icon ${s??""}`}
@@ -4074,7 +4074,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M21 10H3m13-8v4M8 2v4m1 10 2 2 4.5-4.5M7.8 22h8.4c1.68 0 2.52 0 3.162-.327a3 3 0 0 0 1.311-1.311C21 19.72 21 18.88 21 17.2V8.8c0-1.68 0-2.52-.327-3.162a3 3 0 0 0-1.311-1.311C18.72 4 17.88 4 16.2 4H7.8c-1.68 0-2.52 0-3.162.327a3 3 0 0 0-1.311 1.311C3 6.28 3 7.12 3 8.8v8.4c0 1.68 0 2.52.327 3.162a3 3 0 0 0 1.311 1.311C5.28 22 6.12 22 7.8 22Z"
     />
   </svg>
-`,_0=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W0=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`calendar-check-02-icon ${s??""}`}
@@ -5145,7 +5145,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M16 4c.93 0 1.395 0 1.776.102a3 3 0 0 1 2.122 2.122C20 6.605 20 7.07 20 8v9.2c0 1.68 0 2.52-.327 3.162a3 3 0 0 1-1.311 1.311C17.72 22 16.88 22 15.2 22H8.8c-1.68 0-2.52 0-3.162-.327a3 3 0 0 1-1.311-1.311C4 19.72 4 18.88 4 17.2V8c0-.93 0-1.395.102-1.776a3 3 0 0 1 2.122-2.122C6.605 4 7.07 4 8 4m1.5 8 5 5m0-5-5 5m.1-11h4.8c.56 0 .84 0 1.054-.109a1 1 0 0 0 .437-.437C16 5.24 16 4.96 16 4.4v-.8c0-.56 0-.84-.109-1.054a1 1 0 0 0-.437-.437C15.24 2 14.96 2 14.4 2H9.6c-.56 0-.84 0-1.054.109a1 1 0 0 0-.437.437C8 2.76 8 3.04 8 3.6v.8c0 .56 0 .84.109 1.054a1 1 0 0 0 .437.437C8.76 6 9.04 6 9.6 6Z"
     />
   </svg>
-`,Qe=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_e=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`clock-icon ${s??""}`}
@@ -5166,7 +5166,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M12 6v6l4 2m6-2c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10Z"
     />
   </svg>
-`,We=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Qe=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`clock-check-icon ${s??""}`}
@@ -5187,7 +5187,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m14.5 19 2 2 4.5-4.5m.985-3.95c.01-.182.015-.366.015-.55 0-5.523-4.477-10-10-10S2 6.477 2 12c0 5.435 4.337 9.858 9.739 9.997M12 6v6l3.738 1.87"
     />
   </svg>
-`,_e=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,We=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`clock-fast-forward-icon ${s??""}`}
@@ -6242,7 +6242,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M12 3v18M7.8 3h8.4c1.68 0 2.52 0 3.162.327a3 3 0 0 1 1.311 1.311C21 5.28 21 6.12 21 7.8v8.4c0 1.68 0 2.52-.327 3.162a3 3 0 0 1-1.311 1.311C18.72 21 17.88 21 16.2 21H7.8c-1.68 0-2.52 0-3.162-.327a3 3 0 0 1-1.311-1.311C3 18.72 3 17.88 3 16.2V7.8c0-1.68 0-2.52.327-3.162a3 3 0 0 1 1.311-1.311C5.28 3 6.12 3 7.8 3Z"
     />
   </svg>
-`,Qo=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_o=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`columns-03-icon ${s??""}`}
@@ -6263,7 +6263,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M9 3v18m6-18v18M7.8 3h8.4c1.68 0 2.52 0 3.162.327a3 3 0 0 1 1.311 1.311C21 5.28 21 6.12 21 7.8v8.4c0 1.68 0 2.52-.327 3.162a3 3 0 0 1-1.311 1.311C18.72 21 17.88 21 16.2 21H7.8c-1.68 0-2.52 0-3.162-.327a3 3 0 0 1-1.311-1.311C3 18.72 3 17.88 3 16.2V7.8c0-1.68 0-2.52.327-3.162a3 3 0 0 1 1.311-1.311C5.28 3 6.12 3 7.8 3Z"
     />
   </svg>
-`,Wo=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Qo=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`command-icon ${s??""}`}
@@ -6284,7 +6284,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M9 9V6a3 3 0 1 0-3 3h3Zm0 0v6m0-6h6m-6 6v3a3 3 0 1 1-3-3h3Zm0 0h6m0 0h3a3 3 0 1 1-3 3v-3Zm0 0V9m0 0V6a3 3 0 1 1 3 3h-3Z"
     />
   </svg>
-`,_o=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Wo=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`compass-icon ${s??""}`}
@@ -7383,7 +7383,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M9.5 2v2m0 16v2m4-20v2m0 16v2m-6-18H14a4 4 0 0 1 0 8H7.5 15a4 4 0 0 1 0 8H7.5m0-16h-2m2 0v16m0 0h-2"
     />
   </svg>
-`,Qt=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_t=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`currency-bitcoin-circle-icon ${s??""}`}
@@ -7404,7 +7404,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M9.5 7.5h4.25a2.25 2.25 0 0 1 0 4.5H9.5h4.75a2.25 2.25 0 0 1 0 4.5H9.5m0-9H8m1.5 0v9m0 0H8M10 6v1.5m0 9V18m3-12v1.5m0 9V18m9-6c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10Z"
     />
   </svg>
-`,Wt=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Qt=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`currency-dollar-icon ${s??""}`}
@@ -7425,7 +7425,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M6 16a4 4 0 0 0 4 4h4a4 4 0 0 0 0-8h-4a4 4 0 0 1 0-8h4a4 4 0 0 1 4 4m-6-6v20"
     />
   </svg>
-`,_t=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Wt=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`currency-dollar-circle-icon ${s??""}`}
@@ -8508,7 +8508,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     ${a(e,()=>n`<title>${e}</title>`)}
     <path d="M21 21H3m15-10-6 6m0 0-6-6m6 6V3" />
   </svg>
-`,Q3=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_3=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`download-03-icon ${s??""}`}
@@ -8529,7 +8529,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m8 12 4 4m0 0 4-4m-4 4V8m10 4c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10Z"
     />
   </svg>
-`,W3=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q3=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`download-04-icon ${s??""}`}
@@ -8550,7 +8550,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m8 12 4 4m0 0 4-4m-4 4V6.8c0-1.39 0-2.086-.55-2.865-.366-.517-1.42-1.155-2.047-1.24-.945-.128-1.304.059-2.022.433A9.999 9.999 0 0 0 2 12c0 5.523 4.477 10 10 10s10-4.477 10-10a9.996 9.996 0 0 0-5-8.662"
     />
   </svg>
-`,_3=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W3=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`download-cloud-01-icon ${s??""}`}
@@ -9635,7 +9635,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M14 2.27V6.4c0 .56 0 .84.109 1.054a1 1 0 0 0 .437.437c.214.11.494.11 1.054.11h4.13M14 17.5l2.5-2.5-2.5-2.5m-4 0L7.5 15l2.5 2.5m10-7.512V17.2c0 1.68 0 2.52-.327 3.162a3 3 0 0 1-1.311 1.311C17.72 22 16.88 22 15.2 22H8.8c-1.68 0-2.52 0-3.162-.327a3 3 0 0 1-1.311-1.311C4 19.72 4 18.88 4 17.2V6.8c0-1.68 0-2.52.327-3.162a3 3 0 0 1 1.311-1.311C6.28 2 7.12 2 8.8 2h3.212c.733 0 1.1 0 1.446.083.306.073.598.195.867.36.303.185.562.444 1.08.963l3.19 3.188c.518.519.777.778.963 1.081a3 3 0 0 1 .36.867c.082.346.082.712.082 1.446Z"
     />
   </svg>
-`,Q4=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_4=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`file-code-02-icon ${s??""}`}
@@ -9656,7 +9656,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M5 18.5c0 .464 0 .697.026.892a3 3 0 0 0 2.582 2.582c.195.026.428.026.892.026h7.7c1.68 0 2.52 0 3.162-.327a3 3 0 0 0 1.311-1.311C21 19.72 21 18.88 21 17.2V9.988c0-.734 0-1.1-.083-1.446a3 3 0 0 0-.36-.867c-.185-.303-.444-.562-.963-1.08l-3.188-3.19c-.519-.518-.778-.777-1.081-.963a3.001 3.001 0 0 0-.867-.36C14.112 2 13.745 2 13.012 2H8.5c-.464 0-.697 0-.892.026a3 3 0 0 0-2.582 2.582C5 4.803 5 5.036 5 5.5m4 9 2.5-2.5L9 9.5m-4 0L2.5 12 5 14.5"
     />
   </svg>
-`,W4=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q4=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`file-download-01-icon ${s??""}`}
@@ -9677,7 +9677,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M20 12.5V6.8c0-1.68 0-2.52-.327-3.162a3 3 0 0 0-1.311-1.311C17.72 2 16.88 2 15.2 2H8.8c-1.68 0-2.52 0-3.162.327a3 3 0 0 0-1.311 1.311C4 4.28 4 5.12 4 6.8v10.4c0 1.68 0 2.52.327 3.162a3 3 0 0 0 1.311 1.311C6.28 22 7.12 22 8.8 22h3.7m2.5-3 3 3m0 0 3-3m-3 3v-6"
     />
   </svg>
-`,_4=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W4=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`file-download-02-icon ${s??""}`}
@@ -10780,7 +10780,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m13 7-1.116-2.231c-.32-.642-.481-.963-.72-1.198a2 2 0 0 0-.748-.462C10.1 3 9.74 3 9.022 3H5.2c-1.12 0-1.68 0-2.108.218a2 2 0 0 0-.874.874C2 4.52 2 5.08 2 6.2V7m0 0h15.2c1.68 0 2.52 0 3.162.327a3 3 0 0 1 1.311 1.311C22 9.28 22 10.12 22 11.8v4.4c0 1.68 0 2.52-.327 3.162a3 3 0 0 1-1.311 1.311C19.72 21 18.88 21 17.2 21H6.8c-1.68 0-2.52 0-3.162-.327a3 3 0 0 1-1.311-1.311C2 18.72 2 17.88 2 16.2V7Zm7 7 2 2 4.5-4.5"
     />
   </svg>
-`,Qs=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_s=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`folder-closed-icon ${s??""}`}
@@ -10801,7 +10801,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m13 7-1.116-2.231c-.32-.642-.481-.963-.72-1.198a2 2 0 0 0-.748-.462C10.1 3 9.74 3 9.022 3H5.2c-1.12 0-1.68 0-2.108.218a2 2 0 0 0-.874.874C2 4.52 2 5.08 2 6.2V7m0 0h15.2c1.68 0 2.52 0 3.162.327a3 3 0 0 1 1.311 1.311C22 9.28 22 10.12 22 11.8v4.4c0 1.68 0 2.52-.327 3.162a3 3 0 0 1-1.311 1.311C19.72 21 18.88 21 17.2 21H6.8c-1.68 0-2.52 0-3.162-.327a3 3 0 0 1-1.311-1.311C2 18.72 2 17.88 2 16.2V7Zm7.5 4.5 5 5M16 14a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z"
     />
   </svg>
-`,Ws=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Qs=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`folder-code-icon ${s??""}`}
@@ -10822,7 +10822,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m13 7-1.116-2.231c-.32-.642-.481-.963-.72-1.198a2 2 0 0 0-.748-.462C10.1 3 9.74 3 9.022 3H5.2c-1.12 0-1.68 0-2.108.218a2 2 0 0 0-.874.874C2 4.52 2 5.08 2 6.2V7m0 0h15.2c1.68 0 2.52 0 3.162.327a3 3 0 0 1 1.311 1.311C22 9.28 22 10.12 22 11.8v4.4c0 1.68 0 2.52-.327 3.162a3 3 0 0 1-1.311 1.311C19.72 21 18.88 21 17.2 21H6.8c-1.68 0-2.52 0-3.162-.327a3 3 0 0 1-1.311-1.311C2 18.72 2 17.88 2 16.2V7Zm12 9.5 2.5-2.5-2.5-2.5m-4 0L7.5 14l2.5 2.5"
     />
   </svg>
-`,_s=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Ws=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`folder-download-icon ${s??""}`}
@@ -11903,7 +11903,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M11.993 5.136c-2-2.338-5.333-2.966-7.838-.826s-2.858 5.719-.89 8.25c1.635 2.105 6.585 6.544 8.207 7.98.182.162.272.242.378.274a.504.504 0 0 0 .286 0c.106-.032.197-.112.378-.273 1.623-1.437 6.573-5.876 8.208-7.98 1.967-2.532 1.658-6.133-.89-8.251-2.549-2.118-5.84-1.512-7.839.826Z"
     />
   </svg>
-`,Q8=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_8=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`heart-circle-icon ${s??""}`}
@@ -11928,7 +11928,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M11.997 9.068c-1-1.169-2.667-1.483-3.92-.413-1.252 1.07-1.429 2.86-.445 4.125.63.81 2.244 2.314 3.322 3.29.359.325.538.487.753.552.184.056.395.056.58 0 .214-.065.393-.227.752-.552 1.079-.976 2.692-2.48 3.322-3.29.984-1.265.829-3.066-.445-4.125-1.274-1.059-2.92-.756-3.92.413Z"
     />
   </svg>
-`,W8=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q8=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`heart-hand-icon ${s??""}`}
@@ -11949,7 +11949,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M6 20.087h2.61c.34 0 .679.04 1.009.122l2.758.67a4.26 4.26 0 0 0 1.826.042l3.05-.593a4.204 4.204 0 0 0 2.127-1.107l2.158-2.1a1.503 1.503 0 0 0 0-2.168 1.61 1.61 0 0 0-2.06-.143l-2.515 1.835a2.12 2.12 0 0 1-1.25.405h-2.427 1.545c.871 0 1.577-.687 1.577-1.534v-.307a1.54 1.54 0 0 0-1.194-1.487l-2.385-.58A5.025 5.025 0 0 0 11.643 13c-.965 0-2.711.799-2.711.799L6 15.025M2 14.6v5.8c0 .56 0 .84.109 1.054a1 1 0 0 0 .437.437C2.76 22 3.04 22 3.6 22h.8c.56 0 .84 0 1.054-.109a1 1 0 0 0 .437-.437C6 21.24 6 20.96 6 20.4v-5.8c0-.56 0-.84-.109-1.054a1 1 0 0 0-.437-.437C5.24 13 4.96 13 4.4 13h-.8c-.56 0-.84 0-1.054.109a1 1 0 0 0-.437.437C2 13.76 2 14.04 2 14.6ZM17.191 3.592c-.596-1.249-1.972-1.91-3.31-1.272-1.339.639-1.909 2.153-1.348 3.483.346.821 1.338 2.417 2.045 3.516.261.406.392.61.583.728.164.102.369.157.561.15.225-.007.44-.118.87-.339 1.161-.598 2.818-1.483 3.529-2.022a2.66 2.66 0 0 0 .574-3.69c-.861-1.217-2.362-1.337-3.504-.554Z"
     />
   </svg>
-`,_8=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W8=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`heart-hexagon-icon ${s??""}`}
@@ -13053,7 +13053,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M18.178 8c5.096 0 5.096 8 0 8-5.095 0-7.133-8-12.74-8-4.584 0-4.584 8 0 8 5.607 0 7.645-8 12.74-8h0Z"
     />
   </svg>
-`,Q5=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_5=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`info-circle-icon ${s??""}`}
@@ -13074,7 +13074,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M12 16v-4m0-4h.01M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10Z"
     />
   </svg>
-`,W5=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q5=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`info-hexagon-icon ${s??""}`}
@@ -13095,7 +13095,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M12 16v-4m0-4h.01M3 7.942v8.117c0 .342 0 .514.05.666a1 1 0 0 0 .215.364c.109.119.258.202.558.368l7.4 4.111c.284.158.425.237.575.268.133.027.27.027.403 0 .15-.031.292-.11.576-.268l7.4-4.11c.3-.167.45-.25.558-.369a.999.999 0 0 0 .215-.364c.05-.152.05-.324.05-.666V7.942c0-.343 0-.514-.05-.667a1 1 0 0 0-.215-.364c-.109-.119-.258-.202-.558-.368l-7.4-4.111c-.284-.158-.425-.237-.575-.267a1 1 0 0 0-.403 0c-.15.03-.292.11-.576.267l-7.4 4.11c-.3.167-.45.25-.558.369a1 1 0 0 0-.215.364C3 7.428 3 7.599 3 7.942Z"
     />
   </svg>
-`,_5=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W5=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`info-octagon-icon ${s??""}`}
@@ -14183,7 +14183,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M9 13h6m-8 4 4.272-9.398c.231-.509.347-.763.507-.842a.5.5 0 0 1 .442 0c.16.079.276.333.507.842L17 17m4 4H3M21 3H3"
     />
   </svg>
-`,Qi=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_i=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`link-01-icon ${s??""}`}
@@ -14204,7 +14204,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m12.708 18.364-1.415 1.414a5 5 0 1 1-7.07-7.07l1.413-1.415m12.728 1.414 1.415-1.414a5 5 0 0 0-7.071-7.071l-1.415 1.414M8.5 15.5l7-7"
     />
   </svg>
-`,Wi=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Qi=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`link-02-icon ${s??""}`}
@@ -14223,7 +14223,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     ${a(e,()=>n`<title>${e}</title>`)}
     <path d="M9 17H7A5 5 0 0 1 7 7h2m6 10h2a5 5 0 0 0 0-10h-2m-8 5h10" />
   </svg>
-`,_i=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Wi=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`link-03-icon ${s??""}`}
@@ -15315,7 +15315,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M15 4.6c0-.56 0-.84-.109-1.054a1 1 0 0 0-.437-.437C14.24 3 13.96 3 13.4 3h-2.8c-.56 0-.84 0-1.054.109a1 1 0 0 0-.437.437C9 3.76 9 4.04 9 4.6v2.8c0 .56 0 .84-.109 1.054a1 1 0 0 1-.437.437C8.24 9 7.96 9 7.4 9H4.6c-.56 0-.84 0-1.054.109a1 1 0 0 0-.437.437C3 9.76 3 10.04 3 10.6v2.8c0 .56 0 .84.109 1.054a1 1 0 0 0 .437.437C3.76 15 4.04 15 4.6 15h2.8c.56 0 .84 0 1.054.109a1 1 0 0 1 .437.437C9 15.76 9 16.04 9 16.6v2.8c0 .56 0 .84.109 1.054a1 1 0 0 0 .437.437C9.76 21 10.04 21 10.6 21h2.8c.56 0 .84 0 1.054-.109a1 1 0 0 0 .437-.437C15 20.24 15 19.96 15 19.4v-2.8c0-.56 0-.84.109-1.054a1 1 0 0 1 .437-.437C15.76 15 16.04 15 16.6 15h2.8c.56 0 .84 0 1.054-.109a1 1 0 0 0 .437-.437C21 14.24 21 13.96 21 13.4v-2.8c0-.56 0-.84-.109-1.054a1 1 0 0 0-.437-.437C20.24 9 19.96 9 19.4 9h-2.8c-.56 0-.84 0-1.054-.109a1 1 0 0 1-.437-.437C15 8.24 15 7.96 15 7.4V4.6Z"
     />
   </svg>
-`,Q6=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_6=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`medical-square-icon ${s??""}`}
@@ -15339,7 +15339,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M13.833 7.3c0-.28 0-.42-.054-.527a.5.5 0 0 0-.219-.218c-.107-.055-.247-.055-.527-.055h-2.066c-.28 0-.42 0-.527.054a.5.5 0 0 0-.219.219c-.054.107-.054.247-.054.527v2.067c0 .28 0 .42-.055.527a.5.5 0 0 1-.218.218c-.107.055-.247.055-.527.055H7.3c-.28 0-.42 0-.527.054a.5.5 0 0 0-.218.219c-.055.107-.055.247-.055.527v2.066c0 .28 0 .42.054.527a.5.5 0 0 0 .219.219c.107.054.247.054.527.054h2.067c.28 0 .42 0 .527.055a.5.5 0 0 1 .218.218c.055.107.055.247.055.527V16.7c0 .28 0 .42.054.527a.5.5 0 0 0 .219.218c.107.055.247.055.527.055h2.066c.28 0 .42 0 .527-.055a.5.5 0 0 0 .219-.218c.054-.107.054-.247.054-.527v-2.067c0-.28 0-.42.055-.527a.501.501 0 0 1 .218-.218c.107-.055.247-.055.527-.055H16.7c.28 0 .42 0 .527-.054a.5.5 0 0 0 .218-.219c.055-.107.055-.247.055-.527v-2.066c0-.28 0-.42-.055-.527a.5.5 0 0 0-.218-.219c-.107-.054-.247-.054-.527-.054h-2.067c-.28 0-.42 0-.527-.055a.501.501 0 0 1-.218-.218c-.055-.107-.055-.247-.055-.527V7.3Z"
     />
   </svg>
-`,W6=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q6=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`menu-01-icon ${s??""}`}
@@ -15358,7 +15358,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     ${a(e,()=>n`<title>${e}</title>`)}
     <path d="M3 12h18M3 6h18M3 18h18" />
   </svg>
-`,_6=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W6=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`menu-02-icon ${s??""}`}
@@ -16446,7 +16446,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M20.002 6A10.006 10.006 0 0 1 20 18.002M12 22a9.96 9.96 0 0 0 4.38-1.008 9 9 0 1 1 0-17.984A9.96 9.96 0 0 0 12 2C6.477 2 2 6.477 2 12s4.477 10 10 10Z"
     />
   </svg>
-`,Qc=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_c=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`moon-star-icon ${s??""}`}
@@ -16467,7 +16467,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m18 2 .618 1.236c.265.53.398.796.575 1.026.158.204.34.387.545.545.23.177.495.31 1.026.575L22 6l-1.236.618c-.53.265-.796.398-1.026.575-.204.158-.387.34-.545.545-.177.23-.31.495-.575 1.026L18 10l-.618-1.236c-.265-.53-.398-.796-.575-1.026a2.996 2.996 0 0 0-.545-.545c-.23-.177-.495-.31-1.026-.575L14 6l1.236-.618c.53-.265.796-.398 1.026-.575.204-.158.387-.34.545-.545.177-.23.31-.495.575-1.026L18 2Zm3 11.39A7.617 7.617 0 1 1 10.611 3C5.78 3.458 2 7.527 2 12.479A9.521 9.521 0 0 0 11.521 22c4.952 0 9.02-3.78 9.479-8.61Z"
     />
   </svg>
-`,Wc=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Qc=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`mouse-icon ${s??""}`}
@@ -16486,7 +16486,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     ${a(e,()=>n`<title>${e}</title>`)}
     <path d="M12 9V6m0 16a7 7 0 0 1-7-7V9a7 7 0 0 1 14 0v6a7 7 0 0 1-7 7Z" />
   </svg>
-`,_c=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Wc=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`move-icon ${s??""}`}
@@ -17579,7 +17579,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M17.5 3 21 6.5m0 0L17.5 10M21 6.5h-8m-2.773 7.363a14.604 14.604 0 0 1-2.847-4.01 1.698 1.698 0 0 1-.113-.266 1.046 1.046 0 0 1 .147-.862c.048-.067.105-.124.22-.238.35-.35.524-.524.638-.7a2 2 0 0 0 0-2.18c-.114-.176-.289-.351-.638-.7l-.195-.196c-.532-.531-.797-.797-1.083-.941a2 2 0 0 0-1.805 0c-.285.144-.551.41-1.083.941l-.157.158c-.53.53-.795.794-.997 1.154-.224.4-.386 1.02-.384 1.479 0 .413.081.695.241 1.26a19.038 19.038 0 0 0 4.874 8.283 19.039 19.039 0 0 0 8.283 4.873c.565.16.847.24 1.26.242a3.377 3.377 0 0 0 1.478-.384c.36-.203.625-.468 1.155-.997l.157-.158c.532-.531.797-.797.942-1.082a2 2 0 0 0 0-1.806c-.145-.285-.41-.55-.942-1.082l-.195-.195c-.35-.35-.524-.524-.7-.639a2 2 0 0 0-2.18 0c-.176.114-.35.29-.7.639-.115.114-.172.171-.239.22-.237.17-.581.228-.862.146a1.695 1.695 0 0 1-.266-.113 14.605 14.605 0 0 1-4.01-2.846Z"
     />
   </svg>
-`,Ql=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_l=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`phone-pause-icon ${s??""}`}
@@ -17600,7 +17600,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M20 10V3m-5 7V3m-4.773 10.863a14.604 14.604 0 0 1-2.847-4.01 1.698 1.698 0 0 1-.113-.266 1.046 1.046 0 0 1 .147-.862c.048-.067.105-.124.22-.238.35-.35.524-.524.638-.7a2 2 0 0 0 0-2.18c-.114-.176-.289-.351-.638-.7l-.195-.196c-.532-.531-.797-.797-1.083-.941a2 2 0 0 0-1.805 0c-.285.144-.551.41-1.083.941l-.157.158c-.53.53-.795.794-.997 1.154-.224.4-.386 1.02-.384 1.479 0 .413.081.695.241 1.26a19.038 19.038 0 0 0 4.874 8.283 19.039 19.039 0 0 0 8.283 4.873c.565.16.847.24 1.26.242a3.377 3.377 0 0 0 1.478-.384c.36-.203.625-.468 1.155-.997l.157-.158c.532-.531.797-.797.942-1.082a2 2 0 0 0 0-1.806c-.145-.285-.41-.55-.942-1.082l-.195-.195c-.35-.35-.524-.524-.7-.639a2 2 0 0 0-2.18 0c-.176.114-.35.29-.7.639-.115.114-.172.171-.239.22-.237.17-.581.228-.862.146a1.695 1.695 0 0 1-.266-.113 14.605 14.605 0 0 1-4.01-2.846Z"
     />
   </svg>
-`,Wl=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Ql=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`phone-plus-icon ${s??""}`}
@@ -17621,7 +17621,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M17 11V3m-4 4h8m-10.773 6.863a14.604 14.604 0 0 1-2.847-4.01 1.698 1.698 0 0 1-.113-.266 1.046 1.046 0 0 1 .147-.862c.048-.067.105-.124.22-.238.35-.35.524-.524.638-.7a2 2 0 0 0 0-2.18c-.114-.176-.289-.351-.638-.7l-.195-.196c-.532-.531-.797-.797-1.083-.941a2 2 0 0 0-1.805 0c-.285.144-.551.41-1.083.941l-.157.158c-.53.53-.795.794-.997 1.154-.224.4-.386 1.02-.384 1.479 0 .413.081.695.241 1.26a19.038 19.038 0 0 0 4.874 8.283 19.039 19.039 0 0 0 8.283 4.873c.565.16.847.24 1.26.242a3.377 3.377 0 0 0 1.478-.384c.36-.203.625-.468 1.155-.997l.157-.158c.532-.531.797-.797.942-1.082a2 2 0 0 0 0-1.806c-.145-.285-.41-.55-.942-1.082l-.195-.195c-.35-.35-.524-.524-.7-.639a2 2 0 0 0-2.18 0c-.176.114-.35.29-.7.639-.115.114-.172.171-.239.22-.237.17-.581.228-.862.146a1.695 1.695 0 0 1-.266-.113 14.605 14.605 0 0 1-4.01-2.846Z"
     />
   </svg>
-`,_l=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Wl=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`phone-x-icon ${s??""}`}
@@ -18707,7 +18707,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m13 22-3-3m0 0 3-3m-3 3h5a7 7 0 0 0 3-13.326M6 18.326A7 7 0 0 1 9 5h5m0 0-3-3m3 3-3 3"
     />
   </svg>
-`,Qr=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_r=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`repeat-04-icon ${s??""}`}
@@ -18728,7 +18728,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M12 20.5a8.5 8.5 0 0 0 5-15.375M13 22.4l-2-2 2-2M12 3.5a8.5 8.5 0 0 0-5 15.375M11 5.6l2-2-2-2"
     />
   </svg>
-`,Wr=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Qr=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`reverse-left-icon ${s??""}`}
@@ -18747,7 +18747,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     ${a(e,()=>n`<title>${e}</title>`)}
     <path d="M4 7h10a6 6 0 0 1 0 12H4M4 7l4-4M4 7l4 4" />
   </svg>
-`,_r=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Wr=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`reverse-right-icon ${s??""}`}
@@ -19833,7 +19833,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M21 9V3m0 0h-6m6 0-8 8m-3-6H7.8c-1.68 0-2.52 0-3.162.327a3 3 0 0 0-1.311 1.311C3 7.28 3 8.12 3 9.8v6.4c0 1.68 0 2.52.327 3.162a3 3 0 0 0 1.311 1.311C5.28 21 6.12 21 7.8 21h6.4c1.68 0 2.52 0 3.162-.327a3 3 0 0 0 1.311-1.311C19 18.72 19 17.88 19 16.2V14"
     />
   </svg>
-`,Q7=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_7=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`share-05-icon ${s??""}`}
@@ -19854,7 +19854,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M21 6h-3.2c-1.68 0-2.52 0-3.162.327a3 3 0 0 0-1.311 1.311C13 8.28 13 9.12 13 10.8V12m8-6-3-3m3 3-3 3m-8-6H7.8c-1.68 0-2.52 0-3.162.327a3 3 0 0 0-1.311 1.311C3 5.28 3 6.12 3 7.8v8.4c0 1.68 0 2.52.327 3.162a3 3 0 0 0 1.311 1.311C5.28 21 6.12 21 7.8 21h8.4c1.68 0 2.52 0 3.162-.327a3 3 0 0 0 1.311-1.311C21 18.72 21 17.88 21 16.2V14"
     />
   </svg>
-`,W7=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q7=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`share-06-icon ${s??""}`}
@@ -19875,7 +19875,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M20.791 12.607c.244-.209.366-.313.411-.438a.5.5 0 0 0 0-.338c-.045-.124-.167-.23-.41-.438L12.32 4.132c-.42-.36-.63-.54-.809-.545a.5.5 0 0 0-.4.184C11 3.91 11 4.186 11 4.74v4.296a9.666 9.666 0 0 0-8 9.516v.612a11.401 11.401 0 0 1 8-4.093v4.19c0 .554 0 .83.112.969a.5.5 0 0 0 .4.184c.178-.005.388-.185.809-.545l8.47-7.26Z"
     />
   </svg>
-`,_7=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W7=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`share-07-icon ${s??""}`}
@@ -20935,7 +20935,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m12 2 2.012 5.231c.282.733.423 1.1.642 1.408.195.274.433.512.707.707.308.219.675.36 1.408.642L22 12l-5.231 2.012c-.733.282-1.1.423-1.408.642a3.003 3.003 0 0 0-.707.707c-.219.308-.36.675-.642 1.408L12 22l-2.012-5.231c-.282-.733-.423-1.1-.642-1.408a3.002 3.002 0 0 0-.707-.707c-.308-.219-.675-.36-1.408-.642L2 12l5.231-2.012c.733-.282 1.1-.423 1.408-.642a3 3 0 0 0 .707-.707c.219-.308.36-.675.642-1.408L12 2Z"
     />
   </svg>
-`,Qn=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_n=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`star-05-icon ${s??""}`}
@@ -20956,7 +20956,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m12 2-1.302 5.206c-.254 1.016-.38 1.524-.645 1.937a3 3 0 0 1-.91.91c-.413.265-.921.391-1.937.645L2 12l5.206 1.302c1.016.254 1.524.38 1.937.645a3 3 0 0 1 .91.91c.265.413.391.921.645 1.937L12 22l1.302-5.206c.254-1.016.38-1.524.645-1.937.234-.366.544-.676.91-.91.413-.265.921-.391 1.937-.645L22 12l-5.206-1.302c-1.016-.254-1.524-.38-1.937-.645a3 3 0 0 1-.91-.91c-.265-.413-.391-.921-.645-1.937L12 2Z"
     />
   </svg>
-`,Wn=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Qn=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`star-06-icon ${s??""}`}
@@ -20977,7 +20977,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M4.5 22v-5m0-10V2M2 4.5h5m-5 15h5M13 3l-1.734 4.509c-.282.733-.423 1.1-.643 1.408a3 3 0 0 1-.706.707c-.308.219-.675.36-1.408.642L4 12l4.509 1.734c.733.282 1.1.423 1.408.643.273.194.512.433.707.706.219.308.36.675.642 1.408L13 21l1.734-4.509c.282-.733.423-1.1.643-1.408.194-.273.433-.512.706-.707.308-.219.675-.36 1.408-.642L22 12l-4.509-1.734c-.733-.282-1.1-.423-1.408-.642a3 3 0 0 1-.706-.707c-.22-.308-.36-.675-.643-1.408L13 3Z"
     />
   </svg>
-`,_n=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Wn=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`star-07-icon ${s??""}`}
@@ -22063,7 +22063,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     ${a(e,()=>n`<title>${e}</title>`)}
     <path d="M10 16h8a4 4 0 0 0 0-8h-8m2 4a5 5 0 1 1-10 0 5 5 0 0 1 10 0Z" />
   </svg>
-`,Qa=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_a=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`toggle-02-right-icon ${s??""}`}
@@ -22082,7 +22082,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     ${a(e,()=>n`<title>${e}</title>`)}
     <path d="M14 16H6a4 4 0 0 1 0-8h8m8 4a5 5 0 1 1-10 0 5 5 0 0 1 10 0Z" />
   </svg>
-`,Wa=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Qa=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`toggle-03-left-icon ${s??""}`}
@@ -22102,7 +22102,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     <path d="M2 12a6 6 0 0 1 6-6h8a6 6 0 0 1 0 12H8a6 6 0 0 1-6-6Z" />
     <path d="M8 14.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z" />
   </svg>
-`,_a=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Wa=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`toggle-03-right-icon ${s??""}`}
@@ -23185,7 +23185,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m19 21-3-3m0 0 3-3m-3 3h6m-10-2.5H7.5c-1.396 0-2.093 0-2.661.172a4 4 0 0 0-2.667 2.667C2 18.907 2 19.604 2 21M14.5 7.5a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0Z"
     />
   </svg>
-`,Q9=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_9=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`user-left-02-icon ${s??""}`}
@@ -23206,7 +23206,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="m19 9-3-3m0 0 3-3m-3 3h6m-6 15v-1.2c0-1.68 0-2.52-.327-3.162a3 3 0 0 0-1.311-1.311C13.72 15 12.88 15 11.2 15H6.8c-1.68 0-2.52 0-3.162.327a3 3 0 0 0-1.311 1.311C2 17.28 2 18.12 2 19.8V21M12.5 7.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z"
     />
   </svg>
-`,W9=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q9=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`user-minus-01-icon ${s??""}`}
@@ -23227,7 +23227,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M16 18h6m-10-2.5H7.5c-1.396 0-2.093 0-2.661.172a4 4 0 0 0-2.667 2.667C2 18.907 2 19.604 2 21M14.5 7.5a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0Z"
     />
   </svg>
-`,_9=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W9=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`user-minus-02-icon ${s??""}`}
@@ -24318,7 +24318,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M9.75 9.465c0-.477 0-.716.1-.849a.5.5 0 0 1 .364-.199c.166-.012.367.117.769.375l3.942 2.535c.349.224.523.336.583.478a.5.5 0 0 1 0 .39c-.06.142-.234.254-.583.478l-3.942 2.535c-.402.258-.603.387-.769.375a.5.5 0 0 1-.364-.2c-.1-.132-.1-.371-.1-.848v-5.07Z"
     />
   </svg>
-`,Q$=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,_$=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`zap-icon ${s??""}`}
@@ -24339,7 +24339,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M13 2 4.093 12.688c-.348.418-.523.628-.525.804a.5.5 0 0 0 .185.397c.138.111.41.111.955.111H12l-1 8 8.907-10.688c.348-.418.523-.628.525-.804a.5.5 0 0 0-.185-.397c-.138-.111-.41-.111-.955-.111H12l1-8Z"
     />
   </svg>
-`,W$=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,Q$=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`zap-circle-icon ${s??""}`}
@@ -24363,7 +24363,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
       d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"
     />
   </svg>
-`,_$=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
+`,W$=({slot:o,title:e,className:s,width:i="24",height:c="24",styles:l}={})=>r`
   <svg
     slot=${t(o)}
     class=${`zap-fast-icon ${s??""}`}
@@ -24469,7 +24469,7 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
     ${a(e,()=>n`<title>${e}</title>`)}
     <path d="m21 21-4.35-4.35M8 11h6m5 0a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z" />
   </svg>
-`,od=Object.freeze(Object.defineProperty({__proto__:null,activityHeartIcon:p,activityIcon:u,airplayIcon:k,airpodsIcon:M,alarmClockCheckIcon:m,alarmClockIcon:g,alarmClockMinusIcon:f,alarmClockOffIcon:w,alarmClockPlusIcon:C,alertCircleIcon:x,alertHexagonIcon:b,alertOctagonIcon:A,alertSquareIcon:y,alertTriangleIcon:R,alignBottom01Icon:B,alignBottom02Icon:I,alignCenterIcon:j,alignHorizontalCentre01Icon:Y,alignHorizontalCentre02Icon:Z,alignJustifyIcon:H,alignLeft01Icon:L,alignLeft02Icon:S,alignLeftIcon:V,alignRight01Icon:D,alignRight02Icon:z,alignRightIcon:q,alignTopArrow01Icon:U,alignTopArrow02Icon:P,alignVerticalCenter01Icon:O,alignVerticalCenter02Icon:T,anchorIcon:X,annotationAlertIcon:E,annotationCheckIcon:F,annotationDotsIcon:Q,annotationHeartIcon:W,annotationIcon:N,annotationInfoIcon:_,annotationPlusIcon:G,annotationQuestionIcon:K,annotationXIcon:J,announcement01Icon:e1,announcement02Icon:o1,announcement03Icon:t1,archiveIcon:s1,arrowBlockDownIcon:i1,arrowBlockLeftIcon:c1,arrowBlockRightIcon:l1,arrowBlockUpIcon:r1,arrowCircleBrokenDownIcon:n1,arrowCircleBrokenDownLeftIcon:a1,arrowCircleBrokenDownRightIcon:$1,arrowCircleBrokenLeftIcon:d1,arrowCircleBrokenRightIcon:h1,arrowCircleBrokenUpIcon:v1,arrowCircleBrokenUpLeftIcon:u1,arrowCircleBrokenUpRightIcon:p1,arrowCircleDownIcon:k1,arrowCircleDownLeftIcon:M1,arrowCircleDownRightIcon:g1,arrowCircleLeftIcon:m1,arrowCircleRightIcon:f1,arrowCircleUpIcon:w1,arrowCircleUpLeftIcon:C1,arrowCircleUpRightIcon:x1,arrowDownIcon:b1,arrowDownLeftIcon:A1,arrowDownRightIcon:y1,arrowLeftIcon:R1,arrowNarrowDownIcon:B1,arrowNarrowDownLeftIcon:I1,arrowNarrowDownRightIcon:j1,arrowNarrowLeftIcon:Y1,arrowNarrowRightIcon:Z1,arrowNarrowUpIcon:H1,arrowNarrowUpLeftIcon:V1,arrowNarrowUpRightIcon:L1,arrowRightIcon:S1,arrowSquareDownIcon:q1,arrowSquareDownLeftIcon:D1,arrowSquareDownRightIcon:z1,arrowSquareLeftIcon:U1,arrowSquareRightIcon:P1,arrowSquareUpIcon:O1,arrowSquareUpLeftIcon:T1,arrowSquareUpRightIcon:X1,arrowUpIcon:N1,arrowUpLeftIcon:E1,arrowUpRightIcon:F1,arrowsDownIcon:Q1,arrowsLeftIcon:W1,arrowsRightIcon:_1,arrowsTriangleIcon:G1,arrowsUpIcon:K1,asterisk01Icon:J1,asterisk02Icon:e2,atSignIcon:o2,atom01Icon:t2,atom02Icon:s2,attachment01Icon:i2,attachment02Icon:c2,award01Icon:l2,award02Icon:r2,award03Icon:n2,award04Icon:a2,award05Icon:$2,backpackIcon:d2,bankIcon:h2,bankNote01Icon:v2,bankNote02Icon:u2,bankNote03Icon:p2,barChart01Icon:k2,barChart02Icon:M2,barChart03Icon:g2,barChart04Icon:m2,barChart05Icon:f2,barChart06Icon:w2,barChart07Icon:C2,barChart08Icon:x2,barChart09Icon:b2,barChart10Icon:A2,barChart11Icon:y2,barChart12Icon:R2,barChartCircle01Icon:B2,barChartCircle02Icon:I2,barChartCircle03Icon:j2,barChartSquare01Icon:Y2,barChartSquare02Icon:Z2,barChartSquare03Icon:H2,barChartSquareDownIcon:V2,barChartSquareMinusIcon:L2,barChartSquarePlusIcon:S2,barChartSquareUpIcon:q2,barLineChartIcon:D2,batteryCharging01Icon:z2,batteryCharging02Icon:U2,batteryEmptyIcon:P2,batteryFullIcon:O2,batteryLowIcon:T2,batteryMidIcon:X2,beaker01Icon:N2,beaker02Icon:E2,bell01Icon:F2,bell02Icon:Q2,bell03Icon:W2,bell04Icon:_2,bellMinusIcon:G2,bellOff01Icon:K2,bellOff02Icon:J2,bellOff03Icon:e0,bellPlusIcon:o0,bellRinging01Icon:t0,bellRinging02Icon:s0,bellRinging03Icon:i0,bellRinging04Icon:c0,bezierCurve01Icon:l0,bezierCurve02Icon:r0,bezierCurve03Icon:n0,bluetoothConnectIcon:a0,bluetoothOffIcon:$0,bluetoothOnIcon:d0,bluetoothSignalIcon:h0,bold01Icon:v0,bold02Icon:u0,boldSquareIcon:p0,bookClosedIcon:k0,bookOpen01Icon:M0,bookOpen02Icon:g0,bookmarkAddIcon:f0,bookmarkCheckIcon:w0,bookmarkIcon:m0,bookmarkMinusIcon:C0,bookmarkXIcon:x0,boxIcon:b0,bracketsCheckIcon:y0,bracketsEllipsesIcon:R0,bracketsIcon:A0,bracketsMinusIcon:B0,bracketsPlusIcon:I0,bracketsSlashIcon:j0,bracketsXIcon:Y0,briefcase01Icon:Z0,briefcase02Icon:H0,browserIcon:V0,brush01Icon:L0,brush02Icon:S0,brush03Icon:q0,building01Icon:D0,building02Icon:z0,building03Icon:U0,building04Icon:P0,building05Icon:O0,building06Icon:T0,building07Icon:X0,building08Icon:N0,busIcon:E0,calculatorIcon:F0,calendarCheck01Icon:W0,calendarCheck02Icon:_0,calendarDateIcon:G0,calendarHeart01Icon:K0,calendarHeart02Icon:J0,calendarIcon:Q0,calendarMinus01Icon:ee,calendarMinus02Icon:oe,calendarPlus01Icon:te,calendarPlus02Icon:se,camera01Icon:ie,camera02Icon:ce,camera03Icon:le,cameraLensIcon:re,cameraOffIcon:ne,cameraPlusIcon:ae,car01Icon:$e,car02Icon:de,certificate01Icon:he,certificate02Icon:ve,chartBreakoutCircleIcon:ue,chartBreakoutSquareIcon:pe,checkCircleBrokenIcon:ge,checkCircleIcon:Me,checkDone01Icon:me,checkDone02Icon:fe,checkHeartIcon:we,checkIcon:ke,checkSquareBrokenIcon:xe,checkSquareIcon:Ce,checkVerified01Icon:be,checkVerified02Icon:Ae,checkVerified03Icon:ye,chevronDownDoubleIcon:Be,chevronDownIcon:Re,chevronLeftDoubleIcon:je,chevronLeftIcon:Ie,chevronRightDoubleIcon:Ze,chevronRightIcon:Ye,chevronSelectorHorizontalIcon:He,chevronSelectorVerticalIcon:Ve,chevronUpDoubleIcon:Se,chevronUpIcon:Le,chromeCastIcon:qe,circleCutIcon:ze,circleIcon:De,clapperboardIcon:Ue,clipboardAttachmentIcon:Oe,clipboardCheckIcon:Te,clipboardDownloadIcon:Xe,clipboardIcon:Pe,clipboardMinusIcon:Ne,clipboardPlusIcon:Ee,clipboardXIcon:Fe,clockCheckIcon:We,clockFastForwardIcon:_e,clockIcon:Qe,clockPlusIcon:Ge,clockRefreshIcon:Ke,clockRewindIcon:Je,clockSnoozeIcon:eo,clockStopwatchIcon:oo,cloud01Icon:to,cloud02Icon:so,cloud03Icon:io,cloudBlank01Icon:co,cloudBlank02Icon:lo,cloudLightningIcon:ro,cloudMoonIcon:no,cloudOffIcon:ao,cloudRaining01Icon:$o,cloudRaining02Icon:ho,cloudRaining03Icon:vo,cloudRaining04Icon:uo,cloudRaining05Icon:po,cloudRaining06Icon:ko,cloudSnowing01Icon:Mo,cloudSnowing02Icon:go,cloudSun01Icon:mo,cloudSun02Icon:fo,cloudSun03Icon:wo,code01Icon:Co,code02Icon:xo,codeBrowserIcon:bo,codeCircle01Icon:Ao,codeCircle02Icon:yo,codeCircle03Icon:Ro,codeSnippet01Icon:Bo,codeSnippet02Icon:Io,codeSquare01Icon:jo,codeSquare02Icon:Yo,codepenIcon:Zo,coins01Icon:Ho,coins02Icon:Vo,coins03Icon:Lo,coins04Icon:So,coinsHandIcon:qo,coinsStacked01Icon:Do,coinsStacked02Icon:zo,coinsStacked03Icon:Uo,coinsStacked04Icon:Po,coinsSwap01Icon:Oo,coinsSwap02Icon:To,colors1Icon:No,colorsIcon:Xo,columns01Icon:Eo,columns02Icon:Fo,columns03Icon:Qo,commandIcon:Wo,compass01Icon:Go,compass02Icon:Ko,compass03Icon:Jo,compassIcon:_o,containerIcon:et,contrast01Icon:ot,contrast02Icon:tt,contrast03Icon:st,copy01Icon:it,copy02Icon:ct,copy03Icon:lt,copy04Icon:rt,copy05Icon:nt,copy06Icon:at,copy07Icon:$t,cornerDownLeftIcon:dt,cornerDownRightIcon:ht,cornerLeftDownIcon:vt,cornerLeftUpIcon:ut,cornerRightDownIcon:pt,cornerRightUpIcon:kt,cornerUpLeftIcon:Mt,cornerUpRightIcon:gt,cpuChip01Icon:mt,cpuChip02Icon:ft,creditCard01Icon:wt,creditCard02Icon:Ct,creditCardCheckIcon:xt,creditCardDownIcon:bt,creditCardDownloadIcon:At,creditCardEditIcon:yt,creditCardLockIcon:Rt,creditCardMinusIcon:Bt,creditCardPlusIcon:It,creditCardRefreshIcon:jt,creditCardSearchIcon:Yt,creditCardShieldIcon:Zt,creditCardUpIcon:Ht,creditCardUploadIcon:Vt,creditCardXIcon:Lt,crop01Icon:St,crop02Icon:qt,cryptocurrency01Icon:Dt,cryptocurrency02Icon:zt,cryptocurrency03Icon:Ut,cryptocurrency04Icon:Pt,cube01Icon:Ot,cube02Icon:Tt,cube03Icon:Xt,cube04Icon:Nt,cubeOutlineIcon:Et,currencyBitcoinCircleIcon:Qt,currencyBitcoinIcon:Ft,currencyDollarCircleIcon:_t,currencyDollarIcon:Wt,currencyEthereumCircleIcon:Kt,currencyEthereumIcon:Gt,currencyEuroCircleIcon:e3,currencyEuroIcon:Jt,currencyPoundCircleIcon:t3,currencyPoundIcon:o3,currencyRubleCircleIcon:i3,currencyRubleIcon:s3,currencyRupeeCircleIcon:l3,currencyRupeeIcon:c3,currencyYenCircleIcon:n3,currencyYenIcon:r3,cursor01Icon:a3,cursor02Icon:$3,cursor03Icon:d3,cursor04Icon:h3,cursorBoxIcon:v3,cursorClick01Icon:u3,cursorClick02Icon:p3,dataIcon:k3,database01Icon:M3,database02Icon:g3,database03Icon:m3,dataflow01Icon:f3,dataflow02Icon:w3,dataflow03Icon:C3,dataflow04Icon:x3,deleteIcon:b3,diamond01Icon:A3,diamond02Icon:y3,dice1Icon:R3,dice2Icon:B3,dice3Icon:I3,dice4Icon:j3,dice5Icon:Y3,dice6Icon:Z3,disc01Icon:H3,disc02Icon:V3,distributeSpacingHorizontalIcon:L3,distributeSpacingVerticalIcon:S3,divide01Icon:q3,divide02Icon:D3,divide03Icon:z3,dividerIcon:U3,dotpoints01Icon:P3,dotpoints02Icon:O3,dotsGridIcon:T3,dotsHorizontalIcon:X3,dotsVerticalIcon:N3,download01Icon:E3,download02Icon:F3,download03Icon:Q3,download04Icon:W3,downloadCloud01Icon:_3,downloadCloud02Icon:G3,dropIcon:K3,droplets01Icon:J3,droplets02Icon:e4,droplets03Icon:o4,dropperIcon:t4,edit01Icon:s4,edit02Icon:i4,edit03Icon:c4,edit04Icon:l4,edit05Icon:r4,equalIcon:n4,equalNotIcon:a4,eraserIcon:$4,expand01Icon:d4,expand02Icon:h4,expand03Icon:v4,expand04Icon:u4,expand05Icon:p4,expand06Icon:k4,eyeIcon:M4,eyeOffIcon:g4,faceContentIcon:m4,faceFrownIcon:f4,faceHappyIcon:w4,faceIdIcon:C4,faceIdSquareIcon:x4,faceNeutralIcon:b4,faceSadIcon:A4,faceSmileIcon:y4,faceWinkIcon:R4,fastBackwardIcon:B4,fastForwardIcon:I4,featherIcon:j4,figmaIcon:Y4,file01Icon:Z4,file02Icon:H4,file03Icon:V4,file04Icon:L4,file05Icon:S4,file06Icon:q4,file07Icon:D4,fileAttachment01Icon:z4,fileAttachment02Icon:U4,fileAttachment03Icon:P4,fileAttachment04Icon:O4,fileAttachment05Icon:T4,fileCheck01Icon:X4,fileCheck02Icon:N4,fileCheck03Icon:E4,fileCode01Icon:F4,fileCode02Icon:Q4,fileDownload01Icon:W4,fileDownload02Icon:_4,fileDownload03Icon:G4,fileHeart01Icon:K4,fileHeart02Icon:J4,fileHeart03Icon:es,fileLock01Icon:os,fileLock02Icon:ts,fileLock03Icon:ss,fileMinus01Icon:is,fileMinus02Icon:cs,fileMinus03Icon:ls,filePlus01Icon:rs,filePlus02Icon:ns,filePlus03Icon:as,fileQuestion01Icon:$s,fileQuestion02Icon:ds,fileQuestion03Icon:hs,fileSearch01Icon:vs,fileSearch02Icon:us,fileSearch03Icon:ps,fileShield01Icon:ks,fileShield02Icon:Ms,fileShield03Icon:gs,fileX01Icon:ms,fileX02Icon:fs,fileX03Icon:ws,film01Icon:Cs,film02Icon:xs,film03Icon:bs,filterFunnel01Icon:As,filterFunnel02Icon:ys,filterLinesIcon:Rs,fingerprint01Icon:Bs,fingerprint02Icon:Is,fingerprint03Icon:js,fingerprint04Icon:Ys,flag01Icon:Zs,flag02Icon:Hs,flag03Icon:Vs,flag04Icon:Ls,flag05Icon:Ss,flag06Icon:qs,flashIcon:Ds,flashOffIcon:zs,flexAlignBottomIcon:Us,flexAlignLeftIcon:Ps,flexAlignRightIcon:Os,flexAlignTopIcon:Ts,flipBackwardIcon:Xs,flipForwardIcon:Ns,folderCheckIcon:Fs,folderClosedIcon:Qs,folderCodeIcon:Ws,folderDownloadIcon:_s,folderIcon:Es,folderLockIcon:Gs,folderMinusIcon:Ks,folderPlusIcon:Js,folderQuestionIcon:e8,folderSearchIcon:o8,folderShieldIcon:t8,folderXIcon:s8,framerIcon:i8,gamingPad01Icon:c8,gamingPad02Icon:l8,gift01Icon:r8,gift02Icon:n8,gitBranch01Icon:a8,gitBranch02Icon:$8,gitCommitIcon:d8,gitMergeIcon:h8,gitPullRequestIcon:v8,glasses01Icon:u8,glasses02Icon:p8,globe01Icon:k8,globe02Icon:M8,globe03Icon:g8,globe04Icon:m8,globe05Icon:f8,globe06Icon:w8,globeSlated01Icon:C8,globeSlated02Icon:x8,googleChromeIcon:b8,graduationHat01Icon:A8,graduationHat02Icon:y8,grid01Icon:R8,grid02Icon:B8,grid03Icon:I8,gridDotsBlankIcon:j8,gridDotsBottomIcon:Y8,gridDotsHorizontalCenterIcon:Z8,gridDotsLeftIcon:H8,gridDotsOuterIcon:V8,gridDotsRightIcon:L8,gridDotsTopIcon:S8,gridDotsVerticalCenterIcon:q8,handIcon:D8,hardDriveIcon:z8,hash01Icon:U8,hash02Icon:P8,heading01Icon:O8,heading02Icon:T8,headingSquareIcon:X8,headphones01Icon:N8,headphones02Icon:E8,heartCircleIcon:Q8,heartHandIcon:W8,heartHexagonIcon:_8,heartIcon:F8,heartOctagonIcon:G8,heartRoundedIcon:K8,heartSquareIcon:J8,heartsIcon:e5,helpCircleIcon:o5,helpOctagon1Icon:s5,helpOctagonIcon:t5,helpSquareIcon:i5,hexagon01Icon:c5,hexagon02Icon:l5,home01Icon:r5,home02Icon:n5,home03Icon:a5,home04Icon:$5,home05Icon:d5,homeLineIcon:h5,homeSmileIcon:v5,horizontalBarChart01Icon:u5,horizontalBarChart02Icon:p5,horizontalBarChart03Icon:k5,hourglass01Icon:M5,hourglass02Icon:g5,hourglass03Icon:m5,hurricane01Icon:f5,hurricane02Icon:w5,hurricane03Icon:C5,image01Icon:x5,image02Icon:b5,image03Icon:A5,image04Icon:y5,image05Icon:R5,imageCheckIcon:B5,imageDownIcon:I5,imageIndentLeftIcon:j5,imageIndentRightIcon:Y5,imageLeftIcon:Z5,imagePlusIcon:H5,imageRightIcon:V5,imageUpIcon:L5,imageUserCheckIcon:q5,imageUserDownIcon:D5,imageUserIcon:S5,imageUserLeftIcon:z5,imageUserPlusIcon:U5,imageUserRightIcon:P5,imageUserUpIcon:O5,imageUserXIcon:T5,imageXIcon:X5,inbox01Icon:N5,inbox02Icon:E5,infinityIcon:F5,infoCircleIcon:Q5,infoHexagonIcon:W5,infoOctagonIcon:_5,infoSquareIcon:G5,intersectCircleIcon:K5,intersectSquareIcon:J5,italic01Icon:ei,italic02Icon:oi,italicSquareIcon:ti,key01Icon:si,key02Icon:ii,keyboard01Icon:ci,keyboard02Icon:li,laptop01Icon:ri,laptop02Icon:ni,layerSingleIcon:ai,layersThree01Icon:$i,layersThree02Icon:di,layersTwo01Icon:hi,layersTwo02Icon:vi,layoutAlt01Icon:ui,layoutAlt02Icon:pi,layoutAlt03Icon:ki,layoutAlt04Icon:Mi,layoutBottomIcon:gi,layoutGrid01Icon:mi,layoutGrid02Icon:fi,layoutLeftIcon:wi,layoutRightIcon:Ci,layoutTopIcon:xi,leftIndent01Icon:bi,leftIndent02Icon:Ai,letterSpacing01Icon:yi,letterSpacing02Icon:Ri,lifeBuoy01Icon:Bi,lifeBuoy02Icon:Ii,lightbulb01Icon:ji,lightbulb02Icon:Yi,lightbulb03Icon:Zi,lightbulb04Icon:Hi,lightbulb05Icon:Vi,lightning01Icon:Li,lightning02Icon:Si,lineChartDown01Icon:qi,lineChartDown02Icon:Di,lineChartDown03Icon:zi,lineChartDown04Icon:Ui,lineChartDown05Icon:Pi,lineChartUp01Icon:Oi,lineChartUp02Icon:Ti,lineChartUp03Icon:Xi,lineChartUp04Icon:Ni,lineChartUp05Icon:Ei,lineHeightIcon:Fi,link01Icon:Qi,link02Icon:Wi,link03Icon:_i,link04Icon:Gi,link05Icon:Ki,linkBroken01Icon:Ji,linkBroken02Icon:e6,linkExternal01Icon:o6,linkExternal02Icon:t6,listIcon:s6,loading01Icon:i6,loading02Icon:c6,loading03Icon:l6,lock01Icon:r6,lock02Icon:n6,lock03Icon:a6,lock04Icon:$6,lockKeyholeCircleIcon:d6,lockKeyholeSquareIcon:h6,lockUnlocked01Icon:v6,lockUnlocked02Icon:u6,lockUnlocked03Icon:p6,lockUnlocked04Icon:k6,logIn01Icon:M6,logIn02Icon:g6,logIn03Icon:m6,logIn04Icon:f6,logOut01Icon:w6,logOut02Icon:C6,logOut03Icon:x6,logOut04Icon:b6,luggage01Icon:A6,luggage02Icon:y6,luggage03Icon:R6,magicWand01Icon:B6,magicWand02Icon:I6,mail01Icon:j6,mail02Icon:Y6,mail03Icon:Z6,mail04Icon:H6,mail05Icon:V6,map01Icon:L6,map02Icon:S6,markIcon:q6,markerPin01Icon:D6,markerPin02Icon:z6,markerPin03Icon:U6,markerPin04Icon:P6,markerPin05Icon:O6,markerPin06Icon:T6,maximize01Icon:X6,maximize02Icon:N6,medicalCircleIcon:E6,medicalCrossIcon:F6,medicalSquareIcon:Q6,menu01Icon:W6,menu02Icon:_6,menu03Icon:G6,menu04Icon:K6,menu05Icon:J6,messageAlertCircleIcon:ec,messageAlertSquareIcon:oc,messageChatCircleIcon:tc,messageChatSquareIcon:sc,messageCheckCircleIcon:ic,messageCheckSquareIcon:cc,messageCircle01Icon:lc,messageCircle02Icon:rc,messageDotsCircleIcon:nc,messageDotsSquareIcon:ac,messageHeartCircleIcon:$c,messageHeartSquareIcon:dc,messageNotificationCircleIcon:hc,messageNotificationSquareIcon:vc,messagePlusCircleIcon:uc,messagePlusSquareIcon:pc,messageQuestionCircleIcon:kc,messageQuestionSquareIcon:Mc,messageSmileCircleIcon:gc,messageSmileSquareIcon:mc,messageSquare01Icon:fc,messageSquare02Icon:wc,messageTextCircle01Icon:Cc,messageTextCircle02Icon:xc,messageTextSquare01Icon:bc,messageTextSquare02Icon:Ac,messageXCircleIcon:yc,messageXSquareIcon:Rc,microphone01Icon:Bc,microphone02Icon:Ic,microphoneOff01Icon:jc,microphoneOff02Icon:Yc,microscopeIcon:Zc,minimize01Icon:Hc,minimize02Icon:Vc,minusCircleIcon:Sc,minusIcon:Lc,minusSquareIcon:qc,modem01Icon:Dc,modem02Icon:zc,monitor01Icon:Uc,monitor02Icon:Pc,monitor03Icon:Oc,monitor04Icon:Tc,monitor05Icon:Xc,moon01Icon:Nc,moon02Icon:Ec,moonEclipseIcon:Fc,moonStarIcon:Qc,mouseIcon:Wc,moveIcon:_c,musicNote01Icon:Gc,musicNote02Icon:Kc,musicNotePlusIcon:Jc,navigationPointer01Icon:el,navigationPointer02Icon:ol,navigationPointerOff01Icon:tl,navigationPointerOff02Icon:sl,notificationBoxIcon:il,notificationMessageIcon:cl,notificationTextIcon:ll,octagonIcon:rl,packageCheckIcon:al,packageIcon:nl,packageMinusIcon:$l,packagePlusIcon:dl,packageSearchIcon:hl,packageXIcon:vl,paintIcon:ul,paintPourIcon:pl,paletteIcon:kl,paperclipIcon:Ml,paragraphSpacingIcon:gl,paragraphWrapIcon:ml,passcodeIcon:fl,passcodeLockIcon:wl,passportIcon:Cl,pauseCircleIcon:xl,pauseSquareIcon:bl,penTool01Icon:Al,penTool02Icon:yl,penToolMinusIcon:Rl,penToolPlusIcon:Bl,pencil01Icon:Il,pencil02Icon:jl,pencilLineIcon:Yl,pentagonIcon:Zl,percent01Icon:Hl,percent02Icon:Vl,percent03Icon:Ll,perspective01Icon:Sl,perspective02Icon:ql,phone01Icon:zl,phone02Icon:Ul,phoneCall01Icon:Pl,phoneCall02Icon:Ol,phoneHangUpIcon:Tl,phoneIcon:Dl,phoneIncoming01Icon:Xl,phoneIncoming02Icon:Nl,phoneOutgoing01Icon:El,phoneOutgoing02Icon:Fl,phonePauseIcon:Ql,phonePlusIcon:Wl,phoneXIcon:_l,pieChart01Icon:Gl,pieChart02Icon:Kl,pieChart03Icon:Jl,pieChart04Icon:er,piggyBank01Icon:or,piggyBank02Icon:tr,pilcrow01Icon:sr,pilcrow02Icon:ir,pilcrowSquareIcon:cr,pin01Icon:lr,pin02Icon:rr,placeholderIcon:nr,planeIcon:ar,playCircleIcon:dr,playIcon:$r,playSquareIcon:hr,plusCircleIcon:ur,plusIcon:vr,plusSquareIcon:pr,podcastIcon:kr,power01Icon:Mr,power02Icon:gr,power03Icon:mr,presentationChart01Icon:fr,presentationChart02Icon:wr,presentationChart03Icon:Cr,printerIcon:xr,puzzlePiece01Icon:br,puzzlePiece02Icon:Ar,qrCode01Icon:yr,qrCode02Icon:Rr,receiptCheckIcon:Ir,receiptIcon:Br,recording01Icon:jr,recording02Icon:Yr,recording03Icon:Zr,reflect01Icon:Hr,reflect02Icon:Vr,refreshCcw01Icon:Lr,refreshCcw02Icon:Sr,refreshCcw03Icon:qr,refreshCcw04Icon:Dr,refreshCcw05Icon:zr,refreshCw01Icon:Ur,refreshCw02Icon:Pr,refreshCw03Icon:Or,refreshCw04Icon:Tr,refreshCw05Icon:Xr,repeat01Icon:Nr,repeat02Icon:Er,repeat03Icon:Fr,repeat04Icon:Qr,reverseLeftIcon:Wr,reverseRightIcon:_r,rightIndent01Icon:Gr,rightIndent02Icon:Kr,rocket01Icon:Jr,rocket02Icon:e7,rollerBrushIcon:o7,routeIcon:t7,rows01Icon:s7,rows02Icon:i7,rows03Icon:c7,rss01Icon:l7,rss02Icon:r7,rulerIcon:n7,safeIcon:a7,sale01Icon:$7,sale02Icon:d7,sale03Icon:h7,sale04Icon:v7,save01Icon:u7,save02Icon:p7,save03Icon:k7,scale01Icon:M7,scale02Icon:g7,scale03Icon:m7,scales01Icon:f7,scales02Icon:w7,scanIcon:C7,scissors01Icon:x7,scissors02Icon:b7,scissorsCut01Icon:A7,scissorsCut02Icon:y7,searchLgIcon:R7,searchMdIcon:B7,searchRefractionIcon:I7,searchSmIcon:j7,send01Icon:Y7,send02Icon:Z7,send03Icon:H7,server01Icon:V7,server02Icon:L7,server03Icon:S7,server04Icon:q7,server05Icon:D7,server06Icon:z7,settings01Icon:U7,settings02Icon:P7,settings03Icon:O7,settings04Icon:T7,share01Icon:X7,share02Icon:N7,share03Icon:E7,share04Icon:F7,share05Icon:Q7,share06Icon:W7,share07Icon:_7,shield01Icon:G7,shield02Icon:K7,shield03Icon:J7,shieldDollarIcon:en,shieldOffIcon:on,shieldPlusIcon:tn,shieldTickIcon:sn,shieldZapIcon:cn,shoppingBag01Icon:ln,shoppingBag02Icon:rn,shoppingBag03Icon:nn,shoppingCart01Icon:an,shoppingCart02Icon:$n,shoppingCart03Icon:dn,shuffle01Icon:hn,shuffle02Icon:vn,signal01Icon:un,signal02Icon:pn,signal03Icon:kn,simcardIcon:Mn,skewIcon:gn,skipBackIcon:mn,skipForwardIcon:fn,slashCircle01Icon:wn,slashCircle02Icon:Cn,slashDividerIcon:xn,slashOctagonIcon:bn,sliders01Icon:An,sliders02Icon:yn,sliders03Icon:Rn,sliders04Icon:Bn,snowflake01Icon:In,snowflake02Icon:jn,spacingHeight01Icon:Yn,spacingHeight02Icon:Zn,spacingWidth01Icon:Hn,spacingWidth02Icon:Vn,speaker01Icon:Ln,speaker02Icon:Sn,speaker03Icon:qn,speedometer01Icon:Dn,speedometer02Icon:zn,speedometer03Icon:Un,speedometer04Icon:Pn,squareIcon:On,standIcon:Tn,star01Icon:Xn,star02Icon:Nn,star03Icon:En,star04Icon:Fn,star05Icon:Qn,star06Icon:Wn,star07Icon:_n,stars01Icon:Gn,stars02Icon:Kn,stars03Icon:Jn,stickerCircleIcon:ea,stickerSquareIcon:oa,stopCircleIcon:sa,stopIcon:ta,stopSquareIcon:ia,strikethrough01Icon:ca,strikethrough02Icon:la,strikethroughSquareIcon:ra,subscriptIcon:na,sunIcon:aa,sunSetting01Icon:$a,sunSetting02Icon:da,sunSetting03Icon:ha,sunriseIcon:va,sunsetIcon:ua,switchHorizontal01Icon:pa,switchHorizontal02Icon:ka,switchVertical01Icon:Ma,switchVertical02Icon:ga,tableIcon:ma,tablet01Icon:fa,tablet02Icon:wa,tag01Icon:Ca,tag02Icon:xa,tag03Icon:ba,target01Icon:Aa,target02Icon:ya,target03Icon:Ra,target04Icon:Ba,target05Icon:Ia,telescopeIcon:ja,terminalBrowserIcon:Za,terminalCircleIcon:Ha,terminalIcon:Ya,terminalSquareIcon:Va,textInputIcon:La,thermometer01Icon:Sa,thermometer02Icon:qa,thermometer03Icon:Da,thermometerColdIcon:za,thermometerWarmIcon:Ua,thumbsDownIcon:Pa,thumbsUpIcon:Oa,ticket01Icon:Ta,ticket02Icon:Xa,toggle01LeftIcon:Na,toggle01RightIcon:Ea,toggle02LeftIcon:Fa,toggle02RightIcon:Qa,toggle03LeftIcon:Wa,toggle03RightIcon:_a,tool01Icon:Ga,tool02Icon:Ka,trainIcon:Ja,tramIcon:e9,transformIcon:o9,translate01Icon:t9,translate02Icon:s9,trash01Icon:i9,trash02Icon:c9,trash03Icon:l9,trash04Icon:r9,trendDown01Icon:n9,trendDown02Icon:a9,trendUp01Icon:$9,trendUp02Icon:d9,triangleIcon:h9,trophy01Icon:v9,trophy02Icon:u9,truck01Icon:p9,truck02Icon:k9,tv01Icon:M9,tv02Icon:g9,tv03Icon:m9,type01Icon:f9,type02Icon:w9,typeSquareIcon:C9,typeStrikethrough01Icon:x9,typeStrikethrough02Icon:b9,umbrella01Icon:A9,umbrella02Icon:y9,umbrella03Icon:R9,underline01Icon:B9,underline02Icon:I9,underlineSquareIcon:j9,upload01Icon:Y9,upload02Icon:Z9,upload03Icon:H9,upload04Icon:V9,uploadCloud01Icon:L9,uploadCloud02Icon:S9,usbFlashDriveIcon:q9,user01Icon:D9,user02Icon:z9,user03Icon:U9,userCheck01Icon:P9,userCheck02Icon:O9,userCircleIcon:T9,userDown01Icon:X9,userDown02Icon:N9,userEditIcon:E9,userLeft01Icon:F9,userLeft02Icon:Q9,userMinus01Icon:W9,userMinus02Icon:_9,userPlus01Icon:G9,userPlus02Icon:K9,userRight01Icon:J9,userRight02Icon:e$,userSquareIcon:o$,userUp01Icon:t$,userUp02Icon:s$,userX01Icon:i$,userX02Icon:c$,users01Icon:l$,users02Icon:r$,users03Icon:n$,usersCheckIcon:a$,usersDownIcon:$$,usersEditIcon:d$,usersLeftIcon:h$,usersMinusIcon:v$,usersPlusIcon:u$,usersRightIcon:p$,usersUpIcon:k$,usersXIcon:M$,variableIcon:g$,videoRecorderIcon:m$,videoRecorderOffIcon:f$,virusIcon:w$,voicemailIcon:C$,volumeMaxIcon:x$,volumeMinIcon:b$,volumeMinusIcon:A$,volumePlusIcon:y$,volumeXIcon:R$,wallet01Icon:B$,wallet02Icon:I$,wallet03Icon:j$,wallet04Icon:Y$,wallet05Icon:Z$,watchCircleIcon:H$,watchSquareIcon:V$,wavesIcon:L$,webcam01Icon:S$,webcam02Icon:q$,wifiIcon:D$,wifiOffIcon:z$,wind01Icon:U$,wind02Icon:P$,wind03Icon:O$,xCircleIcon:X$,xCloseIcon:N$,xIcon:T$,xSquareIcon:E$,youtubeIcon:F$,zapCircleIcon:W$,zapFastIcon:_$,zapIcon:Q$,zapOffIcon:G$,zapSquareIcon:K$,zoomInIcon:J$,zoomOutIcon:ed},Symbol.toStringTag,{value:"Module"})),cd={title:"Untitled UI Icons"},d=Object.entries(od),$=()=>r`
+`,od=Object.freeze(Object.defineProperty({__proto__:null,activityHeartIcon:p,activityIcon:u,airplayIcon:k,airpodsIcon:M,alarmClockCheckIcon:m,alarmClockIcon:g,alarmClockMinusIcon:f,alarmClockOffIcon:w,alarmClockPlusIcon:C,alertCircleIcon:x,alertHexagonIcon:b,alertOctagonIcon:A,alertSquareIcon:y,alertTriangleIcon:R,alignBottom01Icon:B,alignBottom02Icon:I,alignCenterIcon:j,alignHorizontalCentre01Icon:Y,alignHorizontalCentre02Icon:Z,alignJustifyIcon:H,alignLeft01Icon:L,alignLeft02Icon:S,alignLeftIcon:V,alignRight01Icon:D,alignRight02Icon:z,alignRightIcon:q,alignTopArrow01Icon:U,alignTopArrow02Icon:P,alignVerticalCenter01Icon:O,alignVerticalCenter02Icon:T,anchorIcon:X,annotationAlertIcon:E,annotationCheckIcon:F,annotationDotsIcon:_,annotationHeartIcon:Q,annotationIcon:N,annotationInfoIcon:W,annotationPlusIcon:G,annotationQuestionIcon:K,annotationXIcon:J,announcement01Icon:e1,announcement02Icon:o1,announcement03Icon:t1,archiveIcon:s1,arrowBlockDownIcon:i1,arrowBlockLeftIcon:c1,arrowBlockRightIcon:l1,arrowBlockUpIcon:r1,arrowCircleBrokenDownIcon:n1,arrowCircleBrokenDownLeftIcon:a1,arrowCircleBrokenDownRightIcon:$1,arrowCircleBrokenLeftIcon:d1,arrowCircleBrokenRightIcon:h1,arrowCircleBrokenUpIcon:v1,arrowCircleBrokenUpLeftIcon:u1,arrowCircleBrokenUpRightIcon:p1,arrowCircleDownIcon:k1,arrowCircleDownLeftIcon:M1,arrowCircleDownRightIcon:g1,arrowCircleLeftIcon:m1,arrowCircleRightIcon:f1,arrowCircleUpIcon:w1,arrowCircleUpLeftIcon:C1,arrowCircleUpRightIcon:x1,arrowDownIcon:b1,arrowDownLeftIcon:A1,arrowDownRightIcon:y1,arrowLeftIcon:R1,arrowNarrowDownIcon:B1,arrowNarrowDownLeftIcon:I1,arrowNarrowDownRightIcon:j1,arrowNarrowLeftIcon:Y1,arrowNarrowRightIcon:Z1,arrowNarrowUpIcon:H1,arrowNarrowUpLeftIcon:V1,arrowNarrowUpRightIcon:L1,arrowRightIcon:S1,arrowSquareDownIcon:q1,arrowSquareDownLeftIcon:D1,arrowSquareDownRightIcon:z1,arrowSquareLeftIcon:U1,arrowSquareRightIcon:P1,arrowSquareUpIcon:O1,arrowSquareUpLeftIcon:T1,arrowSquareUpRightIcon:X1,arrowUpIcon:N1,arrowUpLeftIcon:E1,arrowUpRightIcon:F1,arrowsDownIcon:_1,arrowsLeftIcon:Q1,arrowsRightIcon:W1,arrowsTriangleIcon:G1,arrowsUpIcon:K1,asterisk01Icon:J1,asterisk02Icon:e2,atSignIcon:o2,atom01Icon:t2,atom02Icon:s2,attachment01Icon:i2,attachment02Icon:c2,award01Icon:l2,award02Icon:r2,award03Icon:n2,award04Icon:a2,award05Icon:$2,backpackIcon:d2,bankIcon:h2,bankNote01Icon:v2,bankNote02Icon:u2,bankNote03Icon:p2,barChart01Icon:k2,barChart02Icon:M2,barChart03Icon:g2,barChart04Icon:m2,barChart05Icon:f2,barChart06Icon:w2,barChart07Icon:C2,barChart08Icon:x2,barChart09Icon:b2,barChart10Icon:A2,barChart11Icon:y2,barChart12Icon:R2,barChartCircle01Icon:B2,barChartCircle02Icon:I2,barChartCircle03Icon:j2,barChartSquare01Icon:Y2,barChartSquare02Icon:Z2,barChartSquare03Icon:H2,barChartSquareDownIcon:V2,barChartSquareMinusIcon:L2,barChartSquarePlusIcon:S2,barChartSquareUpIcon:q2,barLineChartIcon:D2,batteryCharging01Icon:z2,batteryCharging02Icon:U2,batteryEmptyIcon:P2,batteryFullIcon:O2,batteryLowIcon:T2,batteryMidIcon:X2,beaker01Icon:N2,beaker02Icon:E2,bell01Icon:F2,bell02Icon:_2,bell03Icon:Q2,bell04Icon:W2,bellMinusIcon:G2,bellOff01Icon:K2,bellOff02Icon:J2,bellOff03Icon:e0,bellPlusIcon:o0,bellRinging01Icon:t0,bellRinging02Icon:s0,bellRinging03Icon:i0,bellRinging04Icon:c0,bezierCurve01Icon:l0,bezierCurve02Icon:r0,bezierCurve03Icon:n0,bluetoothConnectIcon:a0,bluetoothOffIcon:$0,bluetoothOnIcon:d0,bluetoothSignalIcon:h0,bold01Icon:v0,bold02Icon:u0,boldSquareIcon:p0,bookClosedIcon:k0,bookOpen01Icon:M0,bookOpen02Icon:g0,bookmarkAddIcon:f0,bookmarkCheckIcon:w0,bookmarkIcon:m0,bookmarkMinusIcon:C0,bookmarkXIcon:x0,boxIcon:b0,bracketsCheckIcon:y0,bracketsEllipsesIcon:R0,bracketsIcon:A0,bracketsMinusIcon:B0,bracketsPlusIcon:I0,bracketsSlashIcon:j0,bracketsXIcon:Y0,briefcase01Icon:Z0,briefcase02Icon:H0,browserIcon:V0,brush01Icon:L0,brush02Icon:S0,brush03Icon:q0,building01Icon:D0,building02Icon:z0,building03Icon:U0,building04Icon:P0,building05Icon:O0,building06Icon:T0,building07Icon:X0,building08Icon:N0,busIcon:E0,calculatorIcon:F0,calendarCheck01Icon:Q0,calendarCheck02Icon:W0,calendarDateIcon:G0,calendarHeart01Icon:K0,calendarHeart02Icon:J0,calendarIcon:_0,calendarMinus01Icon:ee,calendarMinus02Icon:oe,calendarPlus01Icon:te,calendarPlus02Icon:se,camera01Icon:ie,camera02Icon:ce,camera03Icon:le,cameraLensIcon:re,cameraOffIcon:ne,cameraPlusIcon:ae,car01Icon:$e,car02Icon:de,certificate01Icon:he,certificate02Icon:ve,chartBreakoutCircleIcon:ue,chartBreakoutSquareIcon:pe,checkCircleBrokenIcon:ge,checkCircleIcon:Me,checkDone01Icon:me,checkDone02Icon:fe,checkHeartIcon:we,checkIcon:ke,checkSquareBrokenIcon:xe,checkSquareIcon:Ce,checkVerified01Icon:be,checkVerified02Icon:Ae,checkVerified03Icon:ye,chevronDownDoubleIcon:Be,chevronDownIcon:Re,chevronLeftDoubleIcon:je,chevronLeftIcon:Ie,chevronRightDoubleIcon:Ze,chevronRightIcon:Ye,chevronSelectorHorizontalIcon:He,chevronSelectorVerticalIcon:Ve,chevronUpDoubleIcon:Se,chevronUpIcon:Le,chromeCastIcon:qe,circleCutIcon:ze,circleIcon:De,clapperboardIcon:Ue,clipboardAttachmentIcon:Oe,clipboardCheckIcon:Te,clipboardDownloadIcon:Xe,clipboardIcon:Pe,clipboardMinusIcon:Ne,clipboardPlusIcon:Ee,clipboardXIcon:Fe,clockCheckIcon:Qe,clockFastForwardIcon:We,clockIcon:_e,clockPlusIcon:Ge,clockRefreshIcon:Ke,clockRewindIcon:Je,clockSnoozeIcon:eo,clockStopwatchIcon:oo,cloud01Icon:to,cloud02Icon:so,cloud03Icon:io,cloudBlank01Icon:co,cloudBlank02Icon:lo,cloudLightningIcon:ro,cloudMoonIcon:no,cloudOffIcon:ao,cloudRaining01Icon:$o,cloudRaining02Icon:ho,cloudRaining03Icon:vo,cloudRaining04Icon:uo,cloudRaining05Icon:po,cloudRaining06Icon:ko,cloudSnowing01Icon:Mo,cloudSnowing02Icon:go,cloudSun01Icon:mo,cloudSun02Icon:fo,cloudSun03Icon:wo,code01Icon:Co,code02Icon:xo,codeBrowserIcon:bo,codeCircle01Icon:Ao,codeCircle02Icon:yo,codeCircle03Icon:Ro,codeSnippet01Icon:Bo,codeSnippet02Icon:Io,codeSquare01Icon:jo,codeSquare02Icon:Yo,codepenIcon:Zo,coins01Icon:Ho,coins02Icon:Vo,coins03Icon:Lo,coins04Icon:So,coinsHandIcon:qo,coinsStacked01Icon:Do,coinsStacked02Icon:zo,coinsStacked03Icon:Uo,coinsStacked04Icon:Po,coinsSwap01Icon:Oo,coinsSwap02Icon:To,colors1Icon:No,colorsIcon:Xo,columns01Icon:Eo,columns02Icon:Fo,columns03Icon:_o,commandIcon:Qo,compass01Icon:Go,compass02Icon:Ko,compass03Icon:Jo,compassIcon:Wo,containerIcon:et,contrast01Icon:ot,contrast02Icon:tt,contrast03Icon:st,copy01Icon:it,copy02Icon:ct,copy03Icon:lt,copy04Icon:rt,copy05Icon:nt,copy06Icon:at,copy07Icon:$t,cornerDownLeftIcon:dt,cornerDownRightIcon:ht,cornerLeftDownIcon:vt,cornerLeftUpIcon:ut,cornerRightDownIcon:pt,cornerRightUpIcon:kt,cornerUpLeftIcon:Mt,cornerUpRightIcon:gt,cpuChip01Icon:mt,cpuChip02Icon:ft,creditCard01Icon:wt,creditCard02Icon:Ct,creditCardCheckIcon:xt,creditCardDownIcon:bt,creditCardDownloadIcon:At,creditCardEditIcon:yt,creditCardLockIcon:Rt,creditCardMinusIcon:Bt,creditCardPlusIcon:It,creditCardRefreshIcon:jt,creditCardSearchIcon:Yt,creditCardShieldIcon:Zt,creditCardUpIcon:Ht,creditCardUploadIcon:Vt,creditCardXIcon:Lt,crop01Icon:St,crop02Icon:qt,cryptocurrency01Icon:Dt,cryptocurrency02Icon:zt,cryptocurrency03Icon:Ut,cryptocurrency04Icon:Pt,cube01Icon:Ot,cube02Icon:Tt,cube03Icon:Xt,cube04Icon:Nt,cubeOutlineIcon:Et,currencyBitcoinCircleIcon:_t,currencyBitcoinIcon:Ft,currencyDollarCircleIcon:Wt,currencyDollarIcon:Qt,currencyEthereumCircleIcon:Kt,currencyEthereumIcon:Gt,currencyEuroCircleIcon:e3,currencyEuroIcon:Jt,currencyPoundCircleIcon:t3,currencyPoundIcon:o3,currencyRubleCircleIcon:i3,currencyRubleIcon:s3,currencyRupeeCircleIcon:l3,currencyRupeeIcon:c3,currencyYenCircleIcon:n3,currencyYenIcon:r3,cursor01Icon:a3,cursor02Icon:$3,cursor03Icon:d3,cursor04Icon:h3,cursorBoxIcon:v3,cursorClick01Icon:u3,cursorClick02Icon:p3,dataIcon:k3,database01Icon:M3,database02Icon:g3,database03Icon:m3,dataflow01Icon:f3,dataflow02Icon:w3,dataflow03Icon:C3,dataflow04Icon:x3,deleteIcon:b3,diamond01Icon:A3,diamond02Icon:y3,dice1Icon:R3,dice2Icon:B3,dice3Icon:I3,dice4Icon:j3,dice5Icon:Y3,dice6Icon:Z3,disc01Icon:H3,disc02Icon:V3,distributeSpacingHorizontalIcon:L3,distributeSpacingVerticalIcon:S3,divide01Icon:q3,divide02Icon:D3,divide03Icon:z3,dividerIcon:U3,dotpoints01Icon:P3,dotpoints02Icon:O3,dotsGridIcon:T3,dotsHorizontalIcon:X3,dotsVerticalIcon:N3,download01Icon:E3,download02Icon:F3,download03Icon:_3,download04Icon:Q3,downloadCloud01Icon:W3,downloadCloud02Icon:G3,dropIcon:K3,droplets01Icon:J3,droplets02Icon:e4,droplets03Icon:o4,dropperIcon:t4,edit01Icon:s4,edit02Icon:i4,edit03Icon:c4,edit04Icon:l4,edit05Icon:r4,equalIcon:n4,equalNotIcon:a4,eraserIcon:$4,expand01Icon:d4,expand02Icon:h4,expand03Icon:v4,expand04Icon:u4,expand05Icon:p4,expand06Icon:k4,eyeIcon:M4,eyeOffIcon:g4,faceContentIcon:m4,faceFrownIcon:f4,faceHappyIcon:w4,faceIdIcon:C4,faceIdSquareIcon:x4,faceNeutralIcon:b4,faceSadIcon:A4,faceSmileIcon:y4,faceWinkIcon:R4,fastBackwardIcon:B4,fastForwardIcon:I4,featherIcon:j4,figmaIcon:Y4,file01Icon:Z4,file02Icon:H4,file03Icon:V4,file04Icon:L4,file05Icon:S4,file06Icon:q4,file07Icon:D4,fileAttachment01Icon:z4,fileAttachment02Icon:U4,fileAttachment03Icon:P4,fileAttachment04Icon:O4,fileAttachment05Icon:T4,fileCheck01Icon:X4,fileCheck02Icon:N4,fileCheck03Icon:E4,fileCode01Icon:F4,fileCode02Icon:_4,fileDownload01Icon:Q4,fileDownload02Icon:W4,fileDownload03Icon:G4,fileHeart01Icon:K4,fileHeart02Icon:J4,fileHeart03Icon:es,fileLock01Icon:os,fileLock02Icon:ts,fileLock03Icon:ss,fileMinus01Icon:is,fileMinus02Icon:cs,fileMinus03Icon:ls,filePlus01Icon:rs,filePlus02Icon:ns,filePlus03Icon:as,fileQuestion01Icon:$s,fileQuestion02Icon:ds,fileQuestion03Icon:hs,fileSearch01Icon:vs,fileSearch02Icon:us,fileSearch03Icon:ps,fileShield01Icon:ks,fileShield02Icon:Ms,fileShield03Icon:gs,fileX01Icon:ms,fileX02Icon:fs,fileX03Icon:ws,film01Icon:Cs,film02Icon:xs,film03Icon:bs,filterFunnel01Icon:As,filterFunnel02Icon:ys,filterLinesIcon:Rs,fingerprint01Icon:Bs,fingerprint02Icon:Is,fingerprint03Icon:js,fingerprint04Icon:Ys,flag01Icon:Zs,flag02Icon:Hs,flag03Icon:Vs,flag04Icon:Ls,flag05Icon:Ss,flag06Icon:qs,flashIcon:Ds,flashOffIcon:zs,flexAlignBottomIcon:Us,flexAlignLeftIcon:Ps,flexAlignRightIcon:Os,flexAlignTopIcon:Ts,flipBackwardIcon:Xs,flipForwardIcon:Ns,folderCheckIcon:Fs,folderClosedIcon:_s,folderCodeIcon:Qs,folderDownloadIcon:Ws,folderIcon:Es,folderLockIcon:Gs,folderMinusIcon:Ks,folderPlusIcon:Js,folderQuestionIcon:e8,folderSearchIcon:o8,folderShieldIcon:t8,folderXIcon:s8,framerIcon:i8,gamingPad01Icon:c8,gamingPad02Icon:l8,gift01Icon:r8,gift02Icon:n8,gitBranch01Icon:a8,gitBranch02Icon:$8,gitCommitIcon:d8,gitMergeIcon:h8,gitPullRequestIcon:v8,glasses01Icon:u8,glasses02Icon:p8,globe01Icon:k8,globe02Icon:M8,globe03Icon:g8,globe04Icon:m8,globe05Icon:f8,globe06Icon:w8,globeSlated01Icon:C8,globeSlated02Icon:x8,googleChromeIcon:b8,graduationHat01Icon:A8,graduationHat02Icon:y8,grid01Icon:R8,grid02Icon:B8,grid03Icon:I8,gridDotsBlankIcon:j8,gridDotsBottomIcon:Y8,gridDotsHorizontalCenterIcon:Z8,gridDotsLeftIcon:H8,gridDotsOuterIcon:V8,gridDotsRightIcon:L8,gridDotsTopIcon:S8,gridDotsVerticalCenterIcon:q8,handIcon:D8,hardDriveIcon:z8,hash01Icon:U8,hash02Icon:P8,heading01Icon:O8,heading02Icon:T8,headingSquareIcon:X8,headphones01Icon:N8,headphones02Icon:E8,heartCircleIcon:_8,heartHandIcon:Q8,heartHexagonIcon:W8,heartIcon:F8,heartOctagonIcon:G8,heartRoundedIcon:K8,heartSquareIcon:J8,heartsIcon:e5,helpCircleIcon:o5,helpOctagon1Icon:s5,helpOctagonIcon:t5,helpSquareIcon:i5,hexagon01Icon:c5,hexagon02Icon:l5,home01Icon:r5,home02Icon:n5,home03Icon:a5,home04Icon:$5,home05Icon:d5,homeLineIcon:h5,homeSmileIcon:v5,horizontalBarChart01Icon:u5,horizontalBarChart02Icon:p5,horizontalBarChart03Icon:k5,hourglass01Icon:M5,hourglass02Icon:g5,hourglass03Icon:m5,hurricane01Icon:f5,hurricane02Icon:w5,hurricane03Icon:C5,image01Icon:x5,image02Icon:b5,image03Icon:A5,image04Icon:y5,image05Icon:R5,imageCheckIcon:B5,imageDownIcon:I5,imageIndentLeftIcon:j5,imageIndentRightIcon:Y5,imageLeftIcon:Z5,imagePlusIcon:H5,imageRightIcon:V5,imageUpIcon:L5,imageUserCheckIcon:q5,imageUserDownIcon:D5,imageUserIcon:S5,imageUserLeftIcon:z5,imageUserPlusIcon:U5,imageUserRightIcon:P5,imageUserUpIcon:O5,imageUserXIcon:T5,imageXIcon:X5,inbox01Icon:N5,inbox02Icon:E5,infinityIcon:F5,infoCircleIcon:_5,infoHexagonIcon:Q5,infoOctagonIcon:W5,infoSquareIcon:G5,intersectCircleIcon:K5,intersectSquareIcon:J5,italic01Icon:ei,italic02Icon:oi,italicSquareIcon:ti,key01Icon:si,key02Icon:ii,keyboard01Icon:ci,keyboard02Icon:li,laptop01Icon:ri,laptop02Icon:ni,layerSingleIcon:ai,layersThree01Icon:$i,layersThree02Icon:di,layersTwo01Icon:hi,layersTwo02Icon:vi,layoutAlt01Icon:ui,layoutAlt02Icon:pi,layoutAlt03Icon:ki,layoutAlt04Icon:Mi,layoutBottomIcon:gi,layoutGrid01Icon:mi,layoutGrid02Icon:fi,layoutLeftIcon:wi,layoutRightIcon:Ci,layoutTopIcon:xi,leftIndent01Icon:bi,leftIndent02Icon:Ai,letterSpacing01Icon:yi,letterSpacing02Icon:Ri,lifeBuoy01Icon:Bi,lifeBuoy02Icon:Ii,lightbulb01Icon:ji,lightbulb02Icon:Yi,lightbulb03Icon:Zi,lightbulb04Icon:Hi,lightbulb05Icon:Vi,lightning01Icon:Li,lightning02Icon:Si,lineChartDown01Icon:qi,lineChartDown02Icon:Di,lineChartDown03Icon:zi,lineChartDown04Icon:Ui,lineChartDown05Icon:Pi,lineChartUp01Icon:Oi,lineChartUp02Icon:Ti,lineChartUp03Icon:Xi,lineChartUp04Icon:Ni,lineChartUp05Icon:Ei,lineHeightIcon:Fi,link01Icon:_i,link02Icon:Qi,link03Icon:Wi,link04Icon:Gi,link05Icon:Ki,linkBroken01Icon:Ji,linkBroken02Icon:e6,linkExternal01Icon:o6,linkExternal02Icon:t6,listIcon:s6,loading01Icon:i6,loading02Icon:c6,loading03Icon:l6,lock01Icon:r6,lock02Icon:n6,lock03Icon:a6,lock04Icon:$6,lockKeyholeCircleIcon:d6,lockKeyholeSquareIcon:h6,lockUnlocked01Icon:v6,lockUnlocked02Icon:u6,lockUnlocked03Icon:p6,lockUnlocked04Icon:k6,logIn01Icon:M6,logIn02Icon:g6,logIn03Icon:m6,logIn04Icon:f6,logOut01Icon:w6,logOut02Icon:C6,logOut03Icon:x6,logOut04Icon:b6,luggage01Icon:A6,luggage02Icon:y6,luggage03Icon:R6,magicWand01Icon:B6,magicWand02Icon:I6,mail01Icon:j6,mail02Icon:Y6,mail03Icon:Z6,mail04Icon:H6,mail05Icon:V6,map01Icon:L6,map02Icon:S6,markIcon:q6,markerPin01Icon:D6,markerPin02Icon:z6,markerPin03Icon:U6,markerPin04Icon:P6,markerPin05Icon:O6,markerPin06Icon:T6,maximize01Icon:X6,maximize02Icon:N6,medicalCircleIcon:E6,medicalCrossIcon:F6,medicalSquareIcon:_6,menu01Icon:Q6,menu02Icon:W6,menu03Icon:G6,menu04Icon:K6,menu05Icon:J6,messageAlertCircleIcon:ec,messageAlertSquareIcon:oc,messageChatCircleIcon:tc,messageChatSquareIcon:sc,messageCheckCircleIcon:ic,messageCheckSquareIcon:cc,messageCircle01Icon:lc,messageCircle02Icon:rc,messageDotsCircleIcon:nc,messageDotsSquareIcon:ac,messageHeartCircleIcon:$c,messageHeartSquareIcon:dc,messageNotificationCircleIcon:hc,messageNotificationSquareIcon:vc,messagePlusCircleIcon:uc,messagePlusSquareIcon:pc,messageQuestionCircleIcon:kc,messageQuestionSquareIcon:Mc,messageSmileCircleIcon:gc,messageSmileSquareIcon:mc,messageSquare01Icon:fc,messageSquare02Icon:wc,messageTextCircle01Icon:Cc,messageTextCircle02Icon:xc,messageTextSquare01Icon:bc,messageTextSquare02Icon:Ac,messageXCircleIcon:yc,messageXSquareIcon:Rc,microphone01Icon:Bc,microphone02Icon:Ic,microphoneOff01Icon:jc,microphoneOff02Icon:Yc,microscopeIcon:Zc,minimize01Icon:Hc,minimize02Icon:Vc,minusCircleIcon:Sc,minusIcon:Lc,minusSquareIcon:qc,modem01Icon:Dc,modem02Icon:zc,monitor01Icon:Uc,monitor02Icon:Pc,monitor03Icon:Oc,monitor04Icon:Tc,monitor05Icon:Xc,moon01Icon:Nc,moon02Icon:Ec,moonEclipseIcon:Fc,moonStarIcon:_c,mouseIcon:Qc,moveIcon:Wc,musicNote01Icon:Gc,musicNote02Icon:Kc,musicNotePlusIcon:Jc,navigationPointer01Icon:el,navigationPointer02Icon:ol,navigationPointerOff01Icon:tl,navigationPointerOff02Icon:sl,notificationBoxIcon:il,notificationMessageIcon:cl,notificationTextIcon:ll,octagonIcon:rl,packageCheckIcon:al,packageIcon:nl,packageMinusIcon:$l,packagePlusIcon:dl,packageSearchIcon:hl,packageXIcon:vl,paintIcon:ul,paintPourIcon:pl,paletteIcon:kl,paperclipIcon:Ml,paragraphSpacingIcon:gl,paragraphWrapIcon:ml,passcodeIcon:fl,passcodeLockIcon:wl,passportIcon:Cl,pauseCircleIcon:xl,pauseSquareIcon:bl,penTool01Icon:Al,penTool02Icon:yl,penToolMinusIcon:Rl,penToolPlusIcon:Bl,pencil01Icon:Il,pencil02Icon:jl,pencilLineIcon:Yl,pentagonIcon:Zl,percent01Icon:Hl,percent02Icon:Vl,percent03Icon:Ll,perspective01Icon:Sl,perspective02Icon:ql,phone01Icon:zl,phone02Icon:Ul,phoneCall01Icon:Pl,phoneCall02Icon:Ol,phoneHangUpIcon:Tl,phoneIcon:Dl,phoneIncoming01Icon:Xl,phoneIncoming02Icon:Nl,phoneOutgoing01Icon:El,phoneOutgoing02Icon:Fl,phonePauseIcon:_l,phonePlusIcon:Ql,phoneXIcon:Wl,pieChart01Icon:Gl,pieChart02Icon:Kl,pieChart03Icon:Jl,pieChart04Icon:er,piggyBank01Icon:or,piggyBank02Icon:tr,pilcrow01Icon:sr,pilcrow02Icon:ir,pilcrowSquareIcon:cr,pin01Icon:lr,pin02Icon:rr,placeholderIcon:nr,planeIcon:ar,playCircleIcon:dr,playIcon:$r,playSquareIcon:hr,plusCircleIcon:ur,plusIcon:vr,plusSquareIcon:pr,podcastIcon:kr,power01Icon:Mr,power02Icon:gr,power03Icon:mr,presentationChart01Icon:fr,presentationChart02Icon:wr,presentationChart03Icon:Cr,printerIcon:xr,puzzlePiece01Icon:br,puzzlePiece02Icon:Ar,qrCode01Icon:yr,qrCode02Icon:Rr,receiptCheckIcon:Ir,receiptIcon:Br,recording01Icon:jr,recording02Icon:Yr,recording03Icon:Zr,reflect01Icon:Hr,reflect02Icon:Vr,refreshCcw01Icon:Lr,refreshCcw02Icon:Sr,refreshCcw03Icon:qr,refreshCcw04Icon:Dr,refreshCcw05Icon:zr,refreshCw01Icon:Ur,refreshCw02Icon:Pr,refreshCw03Icon:Or,refreshCw04Icon:Tr,refreshCw05Icon:Xr,repeat01Icon:Nr,repeat02Icon:Er,repeat03Icon:Fr,repeat04Icon:_r,reverseLeftIcon:Qr,reverseRightIcon:Wr,rightIndent01Icon:Gr,rightIndent02Icon:Kr,rocket01Icon:Jr,rocket02Icon:e7,rollerBrushIcon:o7,routeIcon:t7,rows01Icon:s7,rows02Icon:i7,rows03Icon:c7,rss01Icon:l7,rss02Icon:r7,rulerIcon:n7,safeIcon:a7,sale01Icon:$7,sale02Icon:d7,sale03Icon:h7,sale04Icon:v7,save01Icon:u7,save02Icon:p7,save03Icon:k7,scale01Icon:M7,scale02Icon:g7,scale03Icon:m7,scales01Icon:f7,scales02Icon:w7,scanIcon:C7,scissors01Icon:x7,scissors02Icon:b7,scissorsCut01Icon:A7,scissorsCut02Icon:y7,searchLgIcon:R7,searchMdIcon:B7,searchRefractionIcon:I7,searchSmIcon:j7,send01Icon:Y7,send02Icon:Z7,send03Icon:H7,server01Icon:V7,server02Icon:L7,server03Icon:S7,server04Icon:q7,server05Icon:D7,server06Icon:z7,settings01Icon:U7,settings02Icon:P7,settings03Icon:O7,settings04Icon:T7,share01Icon:X7,share02Icon:N7,share03Icon:E7,share04Icon:F7,share05Icon:_7,share06Icon:Q7,share07Icon:W7,shield01Icon:G7,shield02Icon:K7,shield03Icon:J7,shieldDollarIcon:en,shieldOffIcon:on,shieldPlusIcon:tn,shieldTickIcon:sn,shieldZapIcon:cn,shoppingBag01Icon:ln,shoppingBag02Icon:rn,shoppingBag03Icon:nn,shoppingCart01Icon:an,shoppingCart02Icon:$n,shoppingCart03Icon:dn,shuffle01Icon:hn,shuffle02Icon:vn,signal01Icon:un,signal02Icon:pn,signal03Icon:kn,simcardIcon:Mn,skewIcon:gn,skipBackIcon:mn,skipForwardIcon:fn,slashCircle01Icon:wn,slashCircle02Icon:Cn,slashDividerIcon:xn,slashOctagonIcon:bn,sliders01Icon:An,sliders02Icon:yn,sliders03Icon:Rn,sliders04Icon:Bn,snowflake01Icon:In,snowflake02Icon:jn,spacingHeight01Icon:Yn,spacingHeight02Icon:Zn,spacingWidth01Icon:Hn,spacingWidth02Icon:Vn,speaker01Icon:Ln,speaker02Icon:Sn,speaker03Icon:qn,speedometer01Icon:Dn,speedometer02Icon:zn,speedometer03Icon:Un,speedometer04Icon:Pn,squareIcon:On,standIcon:Tn,star01Icon:Xn,star02Icon:Nn,star03Icon:En,star04Icon:Fn,star05Icon:_n,star06Icon:Qn,star07Icon:Wn,stars01Icon:Gn,stars02Icon:Kn,stars03Icon:Jn,stickerCircleIcon:ea,stickerSquareIcon:oa,stopCircleIcon:sa,stopIcon:ta,stopSquareIcon:ia,strikethrough01Icon:ca,strikethrough02Icon:la,strikethroughSquareIcon:ra,subscriptIcon:na,sunIcon:aa,sunSetting01Icon:$a,sunSetting02Icon:da,sunSetting03Icon:ha,sunriseIcon:va,sunsetIcon:ua,switchHorizontal01Icon:pa,switchHorizontal02Icon:ka,switchVertical01Icon:Ma,switchVertical02Icon:ga,tableIcon:ma,tablet01Icon:fa,tablet02Icon:wa,tag01Icon:Ca,tag02Icon:xa,tag03Icon:ba,target01Icon:Aa,target02Icon:ya,target03Icon:Ra,target04Icon:Ba,target05Icon:Ia,telescopeIcon:ja,terminalBrowserIcon:Za,terminalCircleIcon:Ha,terminalIcon:Ya,terminalSquareIcon:Va,textInputIcon:La,thermometer01Icon:Sa,thermometer02Icon:qa,thermometer03Icon:Da,thermometerColdIcon:za,thermometerWarmIcon:Ua,thumbsDownIcon:Pa,thumbsUpIcon:Oa,ticket01Icon:Ta,ticket02Icon:Xa,toggle01LeftIcon:Na,toggle01RightIcon:Ea,toggle02LeftIcon:Fa,toggle02RightIcon:_a,toggle03LeftIcon:Qa,toggle03RightIcon:Wa,tool01Icon:Ga,tool02Icon:Ka,trainIcon:Ja,tramIcon:e9,transformIcon:o9,translate01Icon:t9,translate02Icon:s9,trash01Icon:i9,trash02Icon:c9,trash03Icon:l9,trash04Icon:r9,trendDown01Icon:n9,trendDown02Icon:a9,trendUp01Icon:$9,trendUp02Icon:d9,triangleIcon:h9,trophy01Icon:v9,trophy02Icon:u9,truck01Icon:p9,truck02Icon:k9,tv01Icon:M9,tv02Icon:g9,tv03Icon:m9,type01Icon:f9,type02Icon:w9,typeSquareIcon:C9,typeStrikethrough01Icon:x9,typeStrikethrough02Icon:b9,umbrella01Icon:A9,umbrella02Icon:y9,umbrella03Icon:R9,underline01Icon:B9,underline02Icon:I9,underlineSquareIcon:j9,upload01Icon:Y9,upload02Icon:Z9,upload03Icon:H9,upload04Icon:V9,uploadCloud01Icon:L9,uploadCloud02Icon:S9,usbFlashDriveIcon:q9,user01Icon:D9,user02Icon:z9,user03Icon:U9,userCheck01Icon:P9,userCheck02Icon:O9,userCircleIcon:T9,userDown01Icon:X9,userDown02Icon:N9,userEditIcon:E9,userLeft01Icon:F9,userLeft02Icon:_9,userMinus01Icon:Q9,userMinus02Icon:W9,userPlus01Icon:G9,userPlus02Icon:K9,userRight01Icon:J9,userRight02Icon:e$,userSquareIcon:o$,userUp01Icon:t$,userUp02Icon:s$,userX01Icon:i$,userX02Icon:c$,users01Icon:l$,users02Icon:r$,users03Icon:n$,usersCheckIcon:a$,usersDownIcon:$$,usersEditIcon:d$,usersLeftIcon:h$,usersMinusIcon:v$,usersPlusIcon:u$,usersRightIcon:p$,usersUpIcon:k$,usersXIcon:M$,variableIcon:g$,videoRecorderIcon:m$,videoRecorderOffIcon:f$,virusIcon:w$,voicemailIcon:C$,volumeMaxIcon:x$,volumeMinIcon:b$,volumeMinusIcon:A$,volumePlusIcon:y$,volumeXIcon:R$,wallet01Icon:B$,wallet02Icon:I$,wallet03Icon:j$,wallet04Icon:Y$,wallet05Icon:Z$,watchCircleIcon:H$,watchSquareIcon:V$,wavesIcon:L$,webcam01Icon:S$,webcam02Icon:q$,wifiIcon:D$,wifiOffIcon:z$,wind01Icon:U$,wind02Icon:P$,wind03Icon:O$,xCircleIcon:X$,xCloseIcon:N$,xIcon:T$,xSquareIcon:E$,youtubeIcon:F$,zapCircleIcon:Q$,zapFastIcon:W$,zapIcon:_$,zapOffIcon:G$,zapSquareIcon:K$,zoomInIcon:J$,zoomOutIcon:ed},Symbol.toStringTag,{value:"Module"})),cd={title:"Untitled UI Icons"},d=Object.entries(od),$=()=>r`
     <div class="icon-gallery">
         <input
             class="icon-gallery-search"
@@ -24477,6 +24477,10 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
             placeholder="Search icons..."
             @input=${h}
         />
+        <div class="icon-gallery-note">
+            Browse icons by category on
+            <a href="https://untitledui.com/free-icons" target="_blank" rel="noopener">untitledui.com</a>
+        </div>
         <div class="icon-gallery-count">${d.length} icons</div>
         <div class="icon-gallery-grid" @click=${v("@neovici/cosmoz-icons/untitled")}>
             ${d.map(([o,e])=>r`
@@ -24496,6 +24500,10 @@ import{b as r,w as n}from"./iframe-DkJ4QHCk.js";import{o as t,n as a,f as h,c as
             placeholder="Search icons..."
             @input=\${filterIcons}
         />
+        <div class="icon-gallery-note">
+            Browse icons by category on
+            <a href="https://untitledui.com/free-icons" target="_blank" rel="noopener">untitledui.com</a>
+        </div>
         <div class="icon-gallery-count">\${entries.length} icons</div>
         <div class="icon-gallery-grid" @click=\${copyImport('@neovici/cosmoz-icons/untitled')}>
             \${entries.map(([k, value]) => html\`
