@@ -1,0 +1,44 @@
+// AUTO-GENERATED - DO NOT EDIT
+// Source: untitleduico/icons (https://github.com/untitleduico/icons)
+// License: MIT
+
+import { html, svg } from 'lit-html';
+import { ifDefined } from 'lit-html/directives/if-defined.js';
+import { when } from 'lit-html/directives/when.js';
+
+export const modem02Icon = ({
+  slot,
+  title,
+  className,
+  width = '24',
+  height = '24',
+  styles,
+}: {
+  slot?: string;
+  title?: string;
+  className?: string;
+  width?: string;
+  height?: string;
+  styles?: string;
+} = {}) => html`
+  <svg
+    slot=${ifDefined(slot)}
+    class=${`modem-02-icon ${className ?? ''}`}
+    viewBox="0 0 24 24"
+    preserveAspectRatio="xMidYMid meet"
+    focusable="false"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    width=${width}
+    height=${height}
+    style=${ifDefined(styles)}
+  >
+    ${when(title, () => svg`<title>${title}</title>`)}
+    <path
+      d="M6.205 10.558a6.002 6.002 0 0 1 1.084-5.274m10.506 5.274a6.002 6.002 0 0 0-1.084-5.274M2.341 11.6a10 10 0 0 1 2.106-9.154M21.655 11.6a10 10 0 0 0-2.105-9.154M12 15V9m-6.5 9.5h4M5.2 22h13.6c1.12 0 1.68 0 2.108-.218a2 2 0 0 0 .874-.874C22 20.48 22 19.92 22 18.8v-.6c0-1.12 0-1.68-.218-2.108a2 2 0 0 0-.874-.874C20.48 15 19.92 15 18.8 15H5.2c-1.12 0-1.68 0-2.108.218a2 2 0 0 0-.874.874C2 16.52 2 17.08 2 18.2v.6c0 1.12 0 1.68.218 2.108a2 2 0 0 0 .874.874C3.52 22 4.08 22 5.2 22Z"
+    />
+  </svg>
+`;

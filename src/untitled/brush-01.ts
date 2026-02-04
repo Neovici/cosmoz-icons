@@ -1,0 +1,44 @@
+// AUTO-GENERATED - DO NOT EDIT
+// Source: untitleduico/icons (https://github.com/untitleduico/icons)
+// License: MIT
+
+import { html, svg } from 'lit-html';
+import { ifDefined } from 'lit-html/directives/if-defined.js';
+import { when } from 'lit-html/directives/when.js';
+
+export const brush01Icon = ({
+  slot,
+  title,
+  className,
+  width = '24',
+  height = '24',
+  styles,
+}: {
+  slot?: string;
+  title?: string;
+  className?: string;
+  width?: string;
+  height?: string;
+  styles?: string;
+} = {}) => html`
+  <svg
+    slot=${ifDefined(slot)}
+    class=${`brush-01-icon ${className ?? ''}`}
+    viewBox="0 0 24 24"
+    preserveAspectRatio="xMidYMid meet"
+    focusable="false"
+    fill="none"
+    stroke="currentColor"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    width=${width}
+    height=${height}
+    style=${ifDefined(styles)}
+  >
+    ${when(title, () => svg`<title>${title}</title>`)}
+    <path
+      d="M9 11.222 12.778 15m-4.803 5.975C6.608 22.342 4 22 2 22c1.025-2-.342-4.608 1.025-5.975a3.5 3.5 0 0 1 4.95 4.95Zm3.947-5.05 9.137-9.868a2.204 2.204 0 0 0-3.116-3.116L8.075 12.08c-.51.472-.765.708-.913.96a2 2 0 0 0-.038 1.967c.139.257.385.503.876.994.491.492.737.737.994.876a2 2 0 0 0 1.968-.038c.251-.148.487-.403.96-.913Z"
+    />
+  </svg>
+`;
