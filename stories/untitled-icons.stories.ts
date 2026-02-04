@@ -1,10 +1,10 @@
 import { html } from 'lit-html';
-import * as icons from '../src';
+import * as icons from '../src/untitled';
 import { filterIcons, copyImport } from './helpers';
 import './icons.css';
 
 export default {
-	title: 'Cosmoz Icons',
+	title: 'Untitled UI Icons',
 };
 
 const entries = Object.entries(icons);
@@ -18,7 +18,7 @@ export const Icons = () => html`
 			@input=${filterIcons}
 		/>
 		<div class="icon-gallery-count">${entries.length} icons</div>
-		<div class="icon-gallery-grid" @click=${copyImport('@neovici/cosmoz-icons')}>
+		<div class="icon-gallery-grid" @click=${copyImport('@neovici/cosmoz-icons/untitled')}>
 			${entries.map(
 				([k, value]) => html`
 					<div class="icon-gallery-cell" data-icon=${k}>
@@ -35,7 +35,7 @@ export const Icons = () => html`
 Icons.parameters = {
 	docs: {
 		description: {
-			story: 'A collection of various icons used throughout Cosmoz. Click an icon to copy its import statement.',
+			story: 'Icons from the Untitled UI icon set (MIT licensed). Click an icon to copy its import statement.',
 		},
 	},
 };

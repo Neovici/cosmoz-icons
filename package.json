@@ -22,6 +22,7 @@
     "dist/"
   ],
   "scripts": {
+    "generate:untitled": "node scripts/generate-untitled-icons.mjs",
     "lint": "tsc && eslint --cache .",
     "check:duplicates": "check-duplicate-components",
     "build": "tsc -p tsconfig.build.json",
@@ -61,7 +62,8 @@
     "access": "public"
   },
   "exports": {
-    ".": "./dist/index.js"
+    ".": "./dist/index.js",
+    "./untitled": "./dist/untitled/index.js"
   },
   "dependencies": {
     "lit-html": "^3.0.0"
@@ -70,12 +72,14 @@
     "@commitlint/cli": "^20.0.0",
     "@commitlint/config-conventional": "^20.0.0",
     "@neovici/cfg": "^2.8.0",
+    "@neovici/cosmoz-tokens": "^3.2.1",
     "@open-wc/testing": "^4.0.0",
     "@semantic-release/changelog": "^6.0.0",
     "@semantic-release/git": "^10.0.0",
     "@storybook/web-components-vite": "^10.0.3",
     "@types/mocha": "^10.0.6",
     "@types/node": "^25.0.2",
+    "@xmldom/xmldom": "^0.8.11",
     "esbuild": "^0.27.0",
     "http-server": "^14.1.1",
     "husky": "^9.0.11",
