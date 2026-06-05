@@ -33,18 +33,9 @@
     "storybook:start": "storybook dev -p 8000",
     "storybook:build": "storybook build",
     "storybook:deploy": "storybook-to-ghpages",
+    "changeset": "changeset",
     "storybook:preview": "npm run storybook:build && http-server ./storybook-static/ --silent",
     "prepare": "husky"
-  },
-  "release": {
-    "plugins": [
-      "@semantic-release/commit-analyzer",
-      "@semantic-release/release-notes-generator",
-      "@semantic-release/github",
-      "@semantic-release/npm"
-    ],
-    "branch": "main",
-    "preset": "conventionalcommits"
   },
   "commitlint": {
     "extends": [
@@ -74,8 +65,7 @@
     "@neovici/cfg": "^2.8.0",
     "@neovici/cosmoz-tokens": "^3.2.1",
     "@open-wc/testing": "^4.0.0",
-    "@semantic-release/changelog": "^6.0.0",
-    "@semantic-release/git": "^10.0.0",
+    "@changesets/cli": "^2.27.0",
     "@storybook/web-components-vite": "^10.0.3",
     "@types/mocha": "^10.0.6",
     "@types/node": "^25.0.2",
@@ -84,8 +74,8 @@
     "http-server": "^14.1.1",
     "husky": "^9.0.11",
     "lint-staged": "^16.2.7",
-    "semantic-release": "^25.0.1",
     "storybook": "^10.0.3",
+    "@playwright/test": "^1.60.0",
     "typescript": "^5.9.3"
   }
 }
