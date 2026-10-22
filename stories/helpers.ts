@@ -1,3 +1,5 @@
+import { html, type TemplateResult } from 'lit-html';
+
 export const filterIcons = (e: InputEvent) => {
 	const input = e.target as HTMLInputElement,
 		query = input.value.toLowerCase(),
@@ -28,3 +30,39 @@ export const copyImport = (packagePath: string) => (e: Event) => {
 		toast.classList.remove('icon-gallery-toast--visible');
 	}, 800);
 };
+
+export const iconSizes = [
+	['xs', '0.875rem'],
+	['sm', '1rem'],
+	['md', '1.125rem'],
+	['lg', '1.25rem'],
+	['xl', '1.5rem'],
+] as const;
+
+export const iconSamples = (icon: () => TemplateResult) =>
+	html` <div class="icon-gallery-sizes">
+		${iconSizes.map(
+			([size, fallback]) =>
+				html` <div
+					class="icon-gallery-sample"
+					style="--icon-gallery-size: var(--cz-icon-size-${size}, ${fallback})"
+				>
+					<div class="icon-gallery-artwork">${icon()}</div>
+					<span>${size}</span>
+				</div>`,
+		)}
+	</div>`;
+
+export const schemeControl = () =>
+	html` <label class="icon-gallery-scheme"
+		>Appearance
+		<select
+			@change=${(event: Event) => {
+				const select = event.target as HTMLSelectElement;
+				document.documentElement.style.colorScheme = select.value;
+			}}
+		>
+			<option value="light">Light</option>
+			<option value="dark">Dark</option>
+		</select>
+	</label>`;
