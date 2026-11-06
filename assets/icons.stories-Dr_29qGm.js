@@ -1,4 +1,4 @@
-import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}from"./icons-j2Y-ENGl.js";import"./preload-helper-PPVm8Dsz.js";const v=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+import{b as c,w as n}from"./iframe-o1Jey6i2.js";import{o,n as a,s as C,f as p,c as v,i as u}from"./icons-Ch-g3T0W.js";import"./preload-helper-PPVm8Dsz.js";const M=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`account-status-icon ${r??""}`}
@@ -29,7 +29,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke-linejoin="round"
     />
   </svg>
-`,u=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,g=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`accounting-icon ${r??""}`}
@@ -54,7 +54,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <circle cx="10" cy="16" r="0.75" fill="currentColor" />
     <circle cx="12.5" cy="16" r="0.75" fill="currentColor" />
   </svg>
-`,M=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,f=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`add-icon ${r??""}`}
@@ -85,7 +85,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			transform="rotate(90 34.572 21.214)"
 		/>
 	</svg>
-`,g=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,k=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`administration-icon ${r??""}`}
@@ -109,7 +109,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       d="M12.5 10c0 1.387-1.113 2.5-2.5 2.5A2.491 2.491 0 0 1 7.5 10c0-1.387 1.113-2.5 2.5-2.5s2.5 1.113 2.5 2.5Z"
     />
   </svg>
-`,f=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,x=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`agreements-icon ${r??""}`}
@@ -135,7 +135,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke-linejoin="round"
     />
   </svg>
-`,k=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,w=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`announcement-icon ${r??""}`}
@@ -151,7 +151,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-7 9h-2V5h2v6zm0 4h-2v-2h2v2z"
     />
   </svg>
-`,x=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,m=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`archive-icon ${r??""}`}
@@ -174,7 +174,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     />
     <path d="M8 11.5H13" stroke="currentColor" />
   </svg>
-`,w=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,L=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`arrow-dropdown-icon ${r??""}`}
@@ -188,7 +188,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 		${a(e,()=>n`<title>${e}</title>`)}
 		<path d="M7 10l5 5 5-5z" />
 	</svg>
-`,m=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,y=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`articles-icon ${r??""}`}
@@ -220,7 +220,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke="currentColor"
     />
   </svg>
-`,L=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,H=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`billing-items-icon ${r??""}`}
@@ -242,7 +242,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     />
     <path d="M7.5 2.5H13.5V5.5H7.5V2.5Z" stroke="currentColor" />
   </svg>
-`,y=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,V=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`calendar-icon ${r??""}`}
@@ -267,7 +267,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke-linejoin="round"
     />
   </svg>
-`,H=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,b=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`cancel-icon ${r??""}`}
@@ -283,7 +283,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z"
 		/>
 	</svg>
-`,V=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,I=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`check-icon ${r??""}`}
@@ -297,7 +297,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 		${a(e,()=>n`<title>${e}</title>`)}
 		<path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z" />
 	</svg>
-`,b=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,A=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`clear-icon ${r??""}`}
@@ -313,7 +313,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
 		/>
 	</svg>
-`,I=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,B=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`cost-control-icon ${r??""}`}
@@ -339,7 +339,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke="currentColor"
     />
   </svg>
-`,A=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,z=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`customers-icon ${r??""}`}
@@ -371,7 +371,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     />
     <path d="M6 10.5C4.5 10.5 3.5 11.5 3.5 14" stroke="currentColor" />
   </svg>
-`,B=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,R=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`delete-icon ${r??""}`}
@@ -387,7 +387,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
     />
   </svg>
-`,z=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,Y=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`deliveries-icon ${r??""}`}
@@ -411,7 +411,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     />
     <line x1="5" y1="13.5" x2="8" y2="13.5" stroke="currentColor" />
   </svg>
-`,R=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,Z=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`deviations-icon ${r??""}`}
@@ -441,7 +441,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       mask="url(#path-4-inside-1_253_1697)"
     />
   </svg>
-`,Y=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,j=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`edit-icon ${r??""}`}
@@ -457,7 +457,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
 		/>
 	</svg>
-`,Z=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,_=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`error-icon ${r??""}`}
@@ -473,7 +473,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z"
     />
   </svg>
-`,j=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,S=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`expand-less-icon ${r??""}`}
@@ -487,7 +487,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 		${a(e,()=>n`<title>${e}</title>`)}
 		<path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z" />
 	</svg>
-`,_=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,D=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`expand-more-icon ${r??""}`}
@@ -501,7 +501,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 		${a(e,()=>n`<title>${e}</title>`)}
 		<path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z" />
 	</svg>
-`,S=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,O=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`expenses-icon ${r??""}`}
@@ -525,7 +525,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <path d="M6 12.5H12" stroke="currentColor" />
     <path d="M13 12.5H15" stroke="currentColor" />
   </svg>
-`,D=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,E=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`eye-icon ${r??""}`}
@@ -543,7 +543,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 		/>
 		<circle cx="12.1" cy="12" r="2.5" style="stroke:currentColor" />
 	</svg>
-`,O=({part:t,slot:e,title:r,className:s,width:l="24",height:i="24",styles:h}={})=>c`
+`,F=({part:t,slot:e,title:r,className:s,width:l="24",height:i="24",styles:h}={})=>c`
 	<svg
 		slot=${o(e)}
 		part=${o(t)}
@@ -558,7 +558,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 		${a(r,()=>n`<title>${r}</title>`)}
 		<g><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" /></g>
 	</svg>
-`,E=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`<svg
+`,P=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`<svg
     slot=${o(t)}
     class=${`filter-icon ${r??""}`}
     width=${s}
@@ -574,7 +574,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke="black"
       stroke-linejoin="round"
     />
-  </svg> `,F=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+  </svg> `,T=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`find-in-page-icon ${r??""}`}
@@ -590,7 +590,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M20 19.59V8l-6-6H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c.45 0 .85-.15 1.19-.4l-4.43-4.43c-.8.52-1.74.83-2.76.83-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5c0 1.02-.31 1.96-.83 2.75L20 19.59zM9 13c0 1.66 1.34 3 3 3s3-1.34 3-3-1.34-3-3-3-3 1.34-3 3z"
 		/>
 	</svg>
-`,P=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`<svg
+`,U=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`<svg
 		slot=${o(t)}
 		class=${`fullscreen-icon ${r??""}`}
 		viewBox="0 0 24 24"
@@ -607,7 +607,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 				fill="currentColor"
 			></path>
 		</g>
-	</svg>`,T=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`<svg
+	</svg>`,q=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`<svg
 		slot=${o(t)}
 		class=${`fullscreen-exit-icon ${r??""}`}
 		viewBox="0 0 24 24"
@@ -624,7 +624,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 				fill="currentColor"
 			></path>
 		</g>
-	</svg>`,U=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`<svg
+	</svg>`,G=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`<svg
 		slot=${o(t)}
 		class=${`google-icon ${r??""}`}
 		viewBox=${`0 0 ${s} ${l}`}
@@ -659,7 +659,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M10.2116 4.20875C11.7326 4.20875 13.0983 4.74266 14.1721 5.79125L17.1436 2.75613C15.3494 1.04858 13.0042 0 10.2116 0C6.16158 0 2.65788 2.37133 0.953125 5.82973L4.41444 8.57143C5.22914 6.07023 7.51314 4.20875 10.2116 4.20875Z"
 			fill="#EA4335"
 		/>
-	</svg>`,q=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+	</svg>`,J=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`help-outline-icon ${r??""}`}
@@ -676,7 +676,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z"
 		/>
 	</svg>
-`,G=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,K=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`info-icon ${r??""}`}
@@ -694,7 +694,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			fill="currentColor"
 		/>
 	</svg>
-`,J=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,N=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`interconnections-icon ${r??""}`}
@@ -716,7 +716,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke="currentColor"
     />
   </svg>
-`,K=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,Q=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`invite-icon ${r??""}`}
@@ -748,7 +748,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M1 10.161h6.323M4.161 13.323V7"
 		/>
 	</svg>
-`,N=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,W=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`invoices-icon ${r??""}`}
@@ -771,7 +771,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <path d="M6 11.5H15" stroke="currentColor" />
     <path d="M6 14.5H15" stroke="currentColor" />
   </svg>
-`,Q=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,X=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`right-chevron-icon ${r??""}`}
@@ -785,7 +785,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 		${a(e,()=>n`<title>${e}</title>`)}
 		<path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z" />
 	</svg>
-`,W=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,e1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`marketing-icon ${r??""}`}
@@ -818,7 +818,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke="currentColor"
     />
   </svg>
-`,X=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,t1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`menu-switcher-icon ${r??""}`}
@@ -850,7 +850,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke-linecap="round"
     />
   </svg>
-`,e1=({slot:t,title:e,className:r,width:s="14",height:l="15",styles:i}={})=>c`
+`,o1=({slot:t,title:e,className:r,width:s="14",height:l="15",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`node-selector-icon ${r??""}`}
@@ -884,7 +884,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke="currentColor"
     />
   </svg>
-`,t1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,r1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`offers-icon ${r??""}`}
@@ -907,7 +907,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       d="M8.24 8.472a1.375 1.375 0 1 0 0-2.75 1.375 1.375 0 0 0 0 2.75ZM11.75 13.744a1.375 1.375 0 1 0 0-2.75 1.375 1.375 0 0 0 0 2.75Z"
     />
   </svg>
-`,o1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,s1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`orders-icon ${r??""}`}
@@ -933,7 +933,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <path d="M6.5 9L7.5 10L9 8.5" stroke="currentColor" />
     <path d="M6.5 13L7.5 14L9 12.5" stroke="currentColor" />
   </svg>
-`,r1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,l1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`overview-icon ${r??""}`}
@@ -954,7 +954,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <path d="M14 16.5L7 16.5" stroke="currentColor" />
     <path d="M7.5 10L7.5 13" stroke="currentColor" />
   </svg>
-`,s1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,i1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`packaging-reports-icon ${r??""}`}
@@ -986,7 +986,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke-linejoin="round"
     />
   </svg>
-`,l1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,c1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`payments-icon ${r??""}`}
@@ -1023,7 +1023,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke="currentColor"
     />
   </svg>
-`,i1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,n1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`price-differences-icon ${r??""}`}
@@ -1049,7 +1049,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke-linejoin="round"
     />
   </svg>
-`,c1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,a1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`pricing-icon ${r??""}`}
@@ -1081,7 +1081,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke-linejoin="round"
     />
   </svg>
-`,n1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,$1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`purchase-icon ${r??""}`}
@@ -1109,7 +1109,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke-linejoin="round"
     />
   </svg>
-`,a1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,d1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`reconciliation-icon ${r??""}`}
@@ -1131,7 +1131,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <path d="M13 6.5L7 6.5" stroke="currentColor" />
     <path d="M13 13.5L7 13.5" stroke="currentColor" />
   </svg>
-`,$1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,h1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`reminders-icon ${r??""}`}
@@ -1169,7 +1169,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     />
     <path d="M10 5L10 10L12.5 13" stroke="currentColor" />
   </svg>
-`,d1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,C1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`reports-icon ${r??""}`}
@@ -1198,7 +1198,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     />
     <path d="M12 9.5H14.5V12" stroke="currentColor" />
   </svg>
-`,h1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,p1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`right-chevron-icon ${r??""}`}
@@ -1212,7 +1212,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 		${a(e,()=>n`<title>${e}</title>`)}
 		<path d="M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" />
 	</svg>
-`,C1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,v1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`rules-icon ${r??""}`}
@@ -1233,7 +1233,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <path d="M10.5 6L10.5 11" stroke="currentColor" />
     <path d="M14 14.5L7 14.5" stroke="currentColor" />
   </svg>
-`,p1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,u1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`sales-icon ${r??""}`}
@@ -1259,7 +1259,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
       stroke-linejoin="round"
     />
   </svg>
-`,v1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,M1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`select-all-icon ${r??""}`}
@@ -1275,7 +1275,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M3 5h2V3c-1.1 0-2 .9-2 2zm0 8h2v-2H3v2zm4 8h2v-2H7v2zM3 9h2V7H3v2zm10-6h-2v2h2V3zm6 0v2h2c0-1.1-.9-2-2-2zM5 21v-2H3c0 1.1.9 2 2 2zm-2-4h2v-2H3v2zM9 3H7v2h2V3zm2 18h2v-2h-2v2zm8-8h2v-2h-2v2zm0 8c1.1 0 2-.9 2-2h-2v2zm0-12h2V7h-2v2zm0 8h2v-2h-2v2zm-4 4h2v-2h-2v2zm0-16h2V3h-2v2zM7 17h10V7H7v10zm2-8h6v6H9V9z"
 		/>
 	</svg>
-`,u1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,g1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`self-invoices-icon ${r??""}`}
@@ -1300,7 +1300,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <path d="M14.5 15L14.5 8" stroke="currentColor" />
     <line x1="6" y1="14.5" x2="14" y2="14.5" stroke="currentColor" />
   </svg>
-`,M1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,f1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`subscriptions-icon ${r??""}`}
@@ -1321,7 +1321,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <line x1="13.5" y1="3" x2="13.5" y2="6" stroke="currentColor" />
     <line x1="7.5" y1="3" x2="7.5" y2="6" stroke="currentColor" />
   </svg>
-`,g1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,k1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`suppliers-icon ${r??""}`}
@@ -1342,7 +1342,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <circle cx="5" cy="15" r="2.5" stroke="currentColor" />
     <circle cx="10" cy="5" r="2.5" stroke="currentColor" />
   </svg>
-`,f1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,x1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`travel-reports-icon ${r??""}`}
@@ -1366,7 +1366,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <path d="M14.5 6L14.5 16" stroke="currentColor" />
     <path d="M6.5 6L6.5 16" stroke="currentColor" />
   </svg>
-`,k1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,w1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`trending-down-icon ${r??""}`}
@@ -1382,7 +1382,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M16 18l2.29-2.29-4.88-4.88-4 4L2 7.41 3.41 6l6 6 4-4 6.3 6.29L22 12v6z"
 		/>
 	</svg>
-`,x1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,m1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`trending-up-icon ${r??""}`}
@@ -1398,7 +1398,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"
 		/>
 	</svg>
-`,w1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,L1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`undo-icon ${r??""}`}
@@ -1414,7 +1414,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M12.5 8c-2.65 0-5.05.99-6.9 2.6L2 7v9h9l-3.62-3.62c1.39-1.16 3.16-1.88 5.12-1.88 3.54 0 6.55 2.31 7.6 5.5l2.37-.78C21.08 11.03 17.15 8 12.5 8z"
 		/>
 	</svg>
-`,m1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,y1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`upload-icon ${r??""}`}
@@ -1445,7 +1445,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M10 5.5 15 1l5 4.5"
 		/>
 	</svg>
-`,L1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
+`,H1=({slot:t,title:e,className:r,width:s="20",height:l="20",styles:i}={})=>c`
   <svg
     slot=${o(t)}
     class=${`vouchers-icon ${r??""}`}
@@ -1466,7 +1466,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     <path d="M7 8H13" stroke="currentColor" stroke-linecap="round" />
     <path d="M7 10.5H10" stroke="currentColor" stroke-linecap="round" />
   </svg>
-`,y1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,V1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`wand-icon ${r??""}`}
@@ -1483,7 +1483,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			d="M25.87 2.423c.13.284.352.508.644.635l1.215.527a.453.453 0 0 1 0 .83l-1.205.527a1.22 1.22 0 0 0-.643.635l-.954 2.167c-.17.341-.683.341-.854 0l-.954-2.167a1.256 1.256 0 0 0-.643-.635l-1.205-.527a.453.453 0 0 1 0-.83l1.205-.527a1.22 1.22 0 0 0 .643-.635l.954-2.167c.17-.341.683-.341.854 0l.943 2.167Zm-11.887.742a.89.89 0 0 0 .458.438l.864.36c.26.117.26.457 0 .574l-.864.36a.848.848 0 0 0-.458.438l-.676 1.49c-.125.233-.49.233-.614 0l-.676-1.49a.885.885 0 0 0-.458-.438l-.864-.36a.309.309 0 0 1 0-.574l.864-.36a.848.848 0 0 0 .458-.438l.676-1.49c.125-.233.49-.233.614 0l.676 1.49ZM2.001 24 .338 25.627a1.146 1.146 0 0 0 0 1.625l.41.41c.44.452 1.17.452 1.61-.01L4 26.007l-.003-.003L18 12l1.674-1.667c.435-.445.435-1.24 0-1.675l-.33-.33C18.9 7.89 18 8 17.5 8.5L2 24Zm21.949-9.702a.948.948 0 0 1-.46-.48l-.685-1.622c-.128-.26-.492-.26-.61 0l-.685 1.623a.947.947 0 0 1-.46.48l-.857.391c-.257.13-.257.5 0 .62l.856.392c.206.1.37.27.46.48l.686 1.622c.128.261.492.261.61 0l.685-1.622c.09-.21.254-.38.46-.48l.857-.392c.257-.13.257-.5 0-.62l-.857-.392ZM10 12a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm18-1a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM17 2a1 1 0 1 0 0-2 1 1 0 0 0 0 2Zm1 17a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"
 		/>
 	</svg>
-`,H1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
+`,b1=({slot:t,title:e,className:r,width:s="24",height:l="24",styles:i}={})=>c`
 	<svg
 		slot=${o(t)}
 		class=${`warning-icon ${r??""}`}
@@ -1500,19 +1500,20 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
 			fill="currentColor"
 		/>
 	</svg>
-`,V1=Object.freeze(Object.defineProperty({__proto__:null,accountStatusIcon:v,accountingIcon:u,addIcon:M,administrationIcon:g,agreementsIcon:f,announcementIcon:k,archiveIcon:x,arrowDropdownIcon:w,articlesIcon:m,billingItemsIcon:L,calendarIcon:y,cancelIcon:H,checkIcon:V,clearIcon:b,costControlIcon:I,customersIcon:A,deleteIcon:B,deliveriesIcon:z,deviationsIcon:R,editIcon:Y,errorIcon:Z,expandLessIcon:j,expandMoreIcon:_,expensesIcon:S,eyeIcon:D,fileDownloadIcon:O,filterIcon:E,findInPageIcon:F,fullscreenExitIcon:T,fullscreenIcon:P,googleIcon:U,helpOutlineIcon:q,infoIcon:G,interconnectionsIcon:J,inviteIcon:K,invoicesIcon:N,leftChevronIcon:Q,marketingIcon:W,menuSwitcherIcon:X,nodeSelectorIcon:e1,offersIcon:t1,ordersIcon:o1,overviewIcon:r1,packagingReportsIcon:s1,paymentsIcon:l1,priceDifferencesIcon:i1,pricingIcon:c1,purchaseIcon:n1,reconciliationIcon:a1,remindersIcon:$1,reportsIcon:d1,rightChevronIcon:h1,rulesIcon:C1,salesIcon:p1,selectAllIcon:v1,selfInvoicesIcon:u1,subscriptionsIcon:M1,suppliersIcon:g1,travelReportsIcon:f1,trendingDownIcon:k1,trendingUpIcon:x1,undoIcon:w1,uploadIcon:m1,vouchersIcon:L1,wandIcon:y1,warningIcon:H1},Symbol.toStringTag,{value:"Module"})),B1={title:"Cosmoz Icons"},d=Object.entries(V1),$=()=>c`
+`,I1=Object.freeze(Object.defineProperty({__proto__:null,accountStatusIcon:M,accountingIcon:g,addIcon:f,administrationIcon:k,agreementsIcon:x,announcementIcon:w,archiveIcon:m,arrowDropdownIcon:L,articlesIcon:y,billingItemsIcon:H,calendarIcon:V,cancelIcon:b,checkIcon:I,clearIcon:A,costControlIcon:B,customersIcon:z,deleteIcon:R,deliveriesIcon:Y,deviationsIcon:Z,editIcon:j,errorIcon:_,expandLessIcon:S,expandMoreIcon:D,expensesIcon:O,eyeIcon:E,fileDownloadIcon:F,filterIcon:P,findInPageIcon:T,fullscreenExitIcon:q,fullscreenIcon:U,googleIcon:G,helpOutlineIcon:J,infoIcon:K,interconnectionsIcon:N,inviteIcon:Q,invoicesIcon:W,leftChevronIcon:X,marketingIcon:e1,menuSwitcherIcon:t1,nodeSelectorIcon:o1,offersIcon:r1,ordersIcon:s1,overviewIcon:l1,packagingReportsIcon:i1,paymentsIcon:c1,priceDifferencesIcon:n1,pricingIcon:a1,purchaseIcon:$1,reconciliationIcon:d1,remindersIcon:h1,reportsIcon:C1,rightChevronIcon:p1,rulesIcon:v1,salesIcon:u1,selectAllIcon:M1,selfInvoicesIcon:g1,subscriptionsIcon:f1,suppliersIcon:k1,travelReportsIcon:x1,trendingDownIcon:w1,trendingUpIcon:m1,undoIcon:L1,uploadIcon:y1,vouchersIcon:H1,wandIcon:V1,warningIcon:b1},Symbol.toStringTag,{value:"Module"})),R1={title:"Cosmoz Icons"},d=Object.entries(I1),$=()=>c`
     <div class="icon-gallery">
+        ${C()}
         <input
             class="icon-gallery-search"
             type="text"
             placeholder="Search icons..."
-            @input=${C}
+            @input=${p}
         />
         <div class="icon-gallery-count">${d.length} icons</div>
-        <div class="icon-gallery-grid" @click=${p("@neovici/cosmoz-icons")}>
+        <div class="icon-gallery-grid" @click=${v("@neovici/cosmoz-icons")}>
             ${d.map(([t,e])=>c`
                     <div class="icon-gallery-cell" data-icon=${t}>
-                        ${e()}
+                        ${u(e)}
                         <span class="icon-gallery-label" title=${t}>${t}</span>
                     </div>
                 `)}
@@ -1521,6 +1522,7 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
     </div>
 `;$.parameters={docs:{description:{story:"A collection of various icons used throughout Cosmoz. Click an icon to copy its import statement."}}};$.parameters={...$.parameters,docs:{...$.parameters?.docs,source:{originalSource:`() => html\`
     <div class="icon-gallery">
+        \${schemeControl()}
         <input
             class="icon-gallery-search"
             type="text"
@@ -1531,11 +1533,11 @@ import{b as c,w as n}from"./iframe-D-zhoGL1.js";import{o,n as a,f as C,c as p}fr
         <div class="icon-gallery-grid" @click=\${copyImport('@neovici/cosmoz-icons')}>
             \${entries.map(([k, value]) => html\`
                     <div class="icon-gallery-cell" data-icon=\${k}>
-                        \${value()}
+                        \${iconSamples(value)}
                         <span class="icon-gallery-label" title=\${k}>\${k}</span>
                     </div>
                 \`)}
         </div>
         <div class="icon-gallery-toast">Copied to clipboard</div>
     </div>
-\``,...$.parameters?.docs?.source}}};const z1=["Icons"];export{$ as Icons,z1 as __namedExportsOrder,B1 as default};
+\``,...$.parameters?.docs?.source}}};const Y1=["Icons"];export{$ as Icons,Y1 as __namedExportsOrder,R1 as default};
