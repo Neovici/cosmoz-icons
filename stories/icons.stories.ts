@@ -1,6 +1,6 @@
 import { html } from 'lit-html';
 import * as icons from '../src';
-import { filterIcons, copyImport } from './helpers';
+import { filterIcons, copyImport, iconSamples, schemeControl } from './helpers';
 import './icons.css';
 
 export default {
@@ -11,6 +11,7 @@ const entries = Object.entries(icons);
 
 export const Icons = () => html`
 	<div class="icon-gallery">
+		${schemeControl()}
 		<input
 			class="icon-gallery-search"
 			type="text"
@@ -22,7 +23,7 @@ export const Icons = () => html`
 			${entries.map(
 				([k, value]) => html`
 					<div class="icon-gallery-cell" data-icon=${k}>
-						${value()}
+						${iconSamples(value)}
 						<span class="icon-gallery-label" title=${k}>${k}</span>
 					</div>
 				`,
