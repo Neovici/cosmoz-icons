@@ -1,5 +1,11 @@
 # @neovici/cosmoz-icons
 
+## 1.6.2
+
+### Patch Changes
+
+- 94fbd49: Run CI on Node.js 26.
+
 ## 1.6.1
 
 ### Patch Changes
